@@ -1,0 +1,10 @@
+Summarize this exam and give your answer in yaml format.
+The yaml file should have the following attributes:
+
+* metrics: what is this exam measuring
+* purpose: what is it for
+* resultSummary: what was foun in the results
+* abnormalValues: what measurements were found outside the reference range
+* normalValues: what measurements were found inside the reference range
+* assessmentSummary: A summary of the exam assessment, if present
+* gptInterpretation: Your own interpretation of what this exam means for the patient
