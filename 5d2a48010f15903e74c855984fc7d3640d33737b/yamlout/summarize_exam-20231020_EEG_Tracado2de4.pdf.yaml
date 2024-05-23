@@ -1,0 +1,22 @@
+sample_date: "2021-10-20"
+requested_by: "Unknown"
+metrics:
+- "Sens=10µV/mm"
+- "BF=0,5Hz"
+- "AF=70,0Hz"
+- "Notch = 60Hz"
+purpose:
+- "Neurological mapping using EEG"
+resultSummary:
+- "Multiple EEG phase readings conducted"
+- "Data recorded across various brain regions"
+abnormalValues:
+- "Unknown"
+normalValues:
+- "Unknown"
+assessmentSummary:
+- "EEG data appears to be structured across different phases of the test."
+gptInterpretation:
+- "This exam is an Electroencephalography (EEG) test that measures electrical activity in the brain."
+- "The test data appears to be comprehensive, covering various brain regions and multiple phases."
+- "Without specific normal or abnormal values provided, it’s unclear if there are issues or findings of concern."

@@ -1,0 +1,37 @@
+sample_date: "2022-09-29"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+metrics:
+- "Ceruloplasmin"
+- "Immunoglobulin E (IgE)"
+- "Serum Iron (Ferro Sérico)"
+- "Total Iron-Binding Capacity (TIBC)"
+- "Transferrin Saturation Percentage"
+purpose:
+- "Evaluate ceruloplasmin levels"
+- "Check Immunoglobulin E (IgE) levels"
+- "Analyze serum iron levels"
+- "Determine total iron-binding capacity"
+- "Assess transferrin saturation levels"
+resultSummary:
+- "Ceruloplasmin: 25.6 mg/dL"
+- "Immunoglobulin E (IgE): 68.8 KU/L"
+- "Serum Iron: 76.4 ug/dL"
+- "Latent Iron-Binding Capacity: 231 ug/dL"
+- "Total Iron-Binding Capacity (TIBC): 307 ug/dL"
+- "Transferrin Saturation Percentage: 24.9%"
+abnormalValues:
+- "Ceruloplasmin: 25.6 mg/dL (below the reference range for children 1-9 years: 30.0 to 70.0 mg/dL)"
+- "Immunoglobulin E (IgE): 68.8 KU/L (above the reference range for children 3-9 years: up to 52 UI/mL)"
+normalValues:
+- "Serum Iron: 76.4 ug/dL (within the reference range: 40.0 to 180.0 ug/dL)"
+- "Latent Iron-Binding Capacity: 231 ug/dL (within the reference range: 120.0 to 450.0 ug/dL)"
+- "Total Iron-Binding Capacity (TIBC): 307 ug/dL (within the reference range: 250.0 to 425.0 ug/dL)"
+- "Transferrin Saturation Percentage: 24.9% (within the reference range: 20 to 50%)"
+assessmentSummary:
+- "Ceruloplasmin levels are low for the patient's age group, indicating potential Wilson's disease or other copper metabolism disorders."
+- "Elevated IgE levels suggest a possible allergic reaction or atopic condition."
+- "Serum iron and related metrics are within normal ranges, suggesting no current iron deficiency or overload."
+gptInterpretation:
+- "The patient has low ceruloplasmin levels, which may require further investigation for potential genetic or metabolic conditions affecting copper metabolism like Wilson's disease."
+- "Elevated IgE levels point towards an allergic or atopic response, and further allergy testing might be necessary."
+- "Normal serum iron and iron-binding capacity suggest appropriate iron status and transferrin function."

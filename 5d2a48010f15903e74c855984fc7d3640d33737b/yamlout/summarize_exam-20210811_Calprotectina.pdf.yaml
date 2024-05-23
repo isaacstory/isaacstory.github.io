@@ -1,0 +1,16 @@
+sample_date: "2021-08-11"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Calprotectin"
+purpose:
+- "To measure the level of calprotectin in the stool to assess for inflammatory processes in the gastrointestinal system"
+resultSummary:
+- "Calprotectin level: 48.0 µg/g (non-reagent)"
+abnormalValues:
+- None
+normalValues:
+- "Calprotectin: 48.0 µg/g (non-reagent: ≤ 50.0 µg/g)"
+assessmentSummary:
+- "The concentration of calprotectin is within the normal range, which is not suggestive of an active inflammatory process in the gastrointestinal system."
+gptInterpretation:
+- "The patient's calprotectin level is within normal limits, indicating the absence of active inflammation in the gastrointestinal tract. However, normal levels do not entirely exclude the possibility of inflammatory bowel disease, and further clinical evaluation may be warranted if symptoms persist."

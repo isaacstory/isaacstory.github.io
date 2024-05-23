@@ -1,0 +1,33 @@
+sample_date: "2021-02-20"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "IgE Specific for various allergens (Alfa-lactoalbumin, Egg Yolk, Beta-lactoglobulin, Seafood, Cocoa, Beef, Chicken, Casein, Egg White, Soy, Gluten, Milk Proteins, Seeds)"
+- "Protein S Functional Determination"
+- "Neuronal Specific Enolase (NSE)"
+- "Zinc Levels"
+purpose:
+- "Evaluate allergic sensitizations"
+- "Assess protein S functionality in blood"
+- "Monitor neuronal-specific activity"
+- "Determine zinc blood levels"
+resultSummary:
+- "All IgE specific allergens measured < 0.10 KU/L (within reference range)"
+- "Protein S Functional: 100% (within reference range)"
+- "Neuronal Specific Enolase (NSE): 29.38 µg/L (above reference range)"
+- "Zinc: 131.38 µg/dL (above reference range)"
+abnormalValues:
+- "Neuronal Specific Enolase (NSE): 29.38 µg/L (normal < 18.3 µg/L)"
+- "Zinc: 131.38 µg/dL (normal 70-120 µg/dL)"
+normalValues:
+- "All IgE specific allergens measured < 0.10 KU/L"
+- "Protein S Functional: 100%"
+assessmentSummary:
+- "No significant IgE-mediated allergic responses detected"
+- "Protein S functionality appears to be normal"
+- "Elevated levels of Neuronal Specific Enolase suggest potential neuronal injury or disease"
+- "Elevated zinc levels may indicate excessive zinc intake or occupational exposure"
+gptInterpretation:
+- "The patient does not exhibit allergic responses to the tested allergens"
+- "Normal protein S levels suggest proper blood coagulation function"
+- "Elevated NSE may require further examination to rule out neuronal damage or neuroendocrine tumors"
+- "Elevated zinc might need investigation for dietary sources or exposure assessment"

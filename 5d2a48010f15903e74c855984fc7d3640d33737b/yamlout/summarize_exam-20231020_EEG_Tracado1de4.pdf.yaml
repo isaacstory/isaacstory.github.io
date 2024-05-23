@@ -1,0 +1,18 @@
+sample_date: "2023-10-20"
+requested_by: "Unknown"
+metrics:
+- "EEG activity"
+- "Brain wave patterns"
+purpose:
+- "Evaluate brain activity"
+- "Diagnose neurological conditions"
+resultSummary:
+- "Normal EEG activity observed"
+abnormalValues:
+- "None"
+normalValues:
+- "All measured EEG activities are within normal limits"
+assessmentSummary:
+- "Patient shows normal EEG activity and typical brain wave patterns corresponding to wakefulness and different sleep phases."
+gptInterpretation:
+- "The EEG results for Isaac Lobato Franca, a 4-year-old patient, indicate normal brain function. No abnormalities were detected, suggesting typical neurological development for the patient's age."

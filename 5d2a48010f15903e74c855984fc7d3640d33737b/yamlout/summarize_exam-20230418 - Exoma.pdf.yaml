@@ -1,0 +1,22 @@
+sample_date: "2023-04-18"
+requested_by: "Dr. Rogério Rodrigues Rita"
+metrics:
+- "Gene mutation analysis"
+- "Zygosity level"
+- "Chromosomal location"
+purpose:
+- "Identify genetic causes of Autism Spectrum Disorder (ASD)"
+- "Find genetic variants with potential clinical significance"
+resultSummary:
+- "Variant of Unknown Significance (VUS) identified in the MED13 gene"
+- "No other genetic variants related to health conditions found"
+abnormalValues:
+- "Rare genetic variant p.D289V in MED13 gene"
+normalValues:
+- "No pathogenic or likely pathogenic variants identified"
+assessmentSummary:
+- "The variant in MED13 is extremely rare and not present in international genomic databases"
+- "This variant has unknown clinical significance but is linked to neurodevelopmental disorders"
+gptInterpretation:
+- "The test identifies a rare variant in a gene associated with neurodevelopmental disorders, suggesting further investigation is needed"
+- "Genetic counseling is recommended to correlate these findings with clinical data"

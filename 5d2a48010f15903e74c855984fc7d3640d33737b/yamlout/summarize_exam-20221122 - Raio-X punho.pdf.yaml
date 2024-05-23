@@ -1,0 +1,26 @@
+sample_date: "2022-11-22"
+requested_by: "Dr. Cristiane Borges Barra Moura"
+metrics:
+  - "Bone density"
+  - "Joint spaces"
+  - "Bone age"
+purpose:
+  - "Evaluate bone density"
+  - "Assess joint spaces"
+  - "Determine bone age"
+resultSummary:
+  - "Bone structures have conserved radiographic density"
+  - "Joint spaces are conserved"
+  - "Approximate bone age is 3 years and 6 months (Greulich-Pyle method)"
+abnormalValues:
+  - "None found"
+normalValues:
+  - "Bone density"
+  - "Joint spaces"
+  - "Bone age"
+assessmentSummary:
+  - "Bone density and joint spaces are normal for patient"
+  - "Bone age is consistent with expected growth for the patient"
+gptInterpretation:
+  - "The patient shows normal bone density and joint space preservation"
+  - "Bone age is appropriate for the patient's chronological age with no abnormalities detected"

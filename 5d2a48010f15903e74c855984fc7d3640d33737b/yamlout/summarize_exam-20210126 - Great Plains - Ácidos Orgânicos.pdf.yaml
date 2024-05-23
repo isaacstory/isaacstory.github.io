@@ -1,0 +1,32 @@
+sample_date: "2021-01-17"
+requested_by: "Unknown"
+metrics:
+- "Organic acids"
+- "Nutritional and metabolic profile"
+purpose:
+- "Assess metabolic and nutritional status"
+- "Identify potential biochemical abnormalities"
+resultSummary:
+- "Elevated 3-methylglutaric and/or 3-methylglutaconic acids indicating impaired leucine metabolism"
+- "Elevated succinic acid suggesting mitochondrial dysfunction"
+- "Low homovanillic acid (HVA) indicating reduced dopamine metabolism"
+- "Elevated fungal metabolites indicating yeast/fungal overgrowth in the gastrointestinal tract"
+abnormalValues:
+- "3-Methylglutaric acid: 30 mmol/mol creatinine (high)"
+- "3-Methylglutaconic acid: 32 mmol/mol creatinine (high)"
+- "Succinic acid: 45 mmol/mol creatinine (high)"
+- "Homovanillic acid (HVA): 6.3 mmol/mol creatinine (low)"
+- "5-Hydroxyindoleacetic acid (5-HIAA): 4.7 mmol/mol creatinine (low)"
+- "Vanillylmandelic acid (VMA): 3.0 mmol/mol creatinine (low)"
+normalValues:
+- "Fumaric acid: 0.85 mmol/mol creatinine (normal)"
+- "Citric acid: 232 mmol/mol creatinine (normal)"
+- "Pyruvic acid: 4.1 mmol/mol creatinine (normal)"
+assessmentSummary:
+- "Indicators suggest mitochondrial dysfunction and impaired amino acid metabolism"
+- "Low levels of neurotransmitter metabolites suggest reduced neurotransmitter synthesis or increased degradation"
+- "Presence of elevated fungal metabolites indicates possible gastrointestinal dysbiosis"
+gptInterpretation:
+- "Patient may have mitochondrial dysfunction leading to impaired energy production and increased oxidative stress"
+- "Low levels of dopamine and serotonin metabolites could be associated with neurological and psychological symptoms such as depression or cognitive delays"
+- "Gastrointestinal issues, indicated by elevated fungal metabolites, may require antifungal treatment and probiotic supplementation"

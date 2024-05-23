@@ -1,0 +1,21 @@
+sample_date: "2021-02-20"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Serum Selenium Level"
+- "Tumor Necrosis Factor Alpha (TNF-α)"
+purpose:
+- "Measure the level of Selenium in serum"
+- "Determine the concentration of Tumor Necrosis Factor Alpha"
+resultSummary:
+- "Serum Selenium Level: 103 µg/L"
+- "Tumor Necrosis Factor Alpha: 13.00 pg/mL"
+abnormalValues:
+- "Tumor Necrosis Factor Alpha: 13.00 pg/mL (Reference: < 8.1 pg/mL)"
+normalValues:
+- "Serum Selenium Level: 103 µg/L (Reference: 20 to 190 µg/L)"
+assessmentSummary:
+- "Patient's serum selenium level is within the normal range."
+- "Tumor Necrosis Factor Alpha is significantly higher than the normal range."
+gptInterpretation:
+- "The patient's serum selenium level falls within the normal reference range, indicating no deficiency or excess."
+- "However, the elevated level of Tumor Necrosis Factor Alpha suggests the presence of inflammation or an immune response, which may warrant further investigation by the healthcare provider."

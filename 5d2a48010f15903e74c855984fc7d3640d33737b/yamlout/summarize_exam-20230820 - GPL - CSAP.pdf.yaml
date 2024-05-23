@@ -1,0 +1,41 @@
+sample_date: "2023-08-20"
+requested_by: "Dane Fliedner"
+metrics:
+- "GI Pathogen Profile"
+- "Parasitology"
+- "Stool Chemistries"
+- "Bacteriology Culture"
+- "Viruses"
+- "Pathogenic Bacteria"
+purpose:
+- "To assess gastrointestinal health"
+- "To identify potential pathogens"
+- "To evaluate for parasitic infections"
+- "To analyze stool chemistry"
+resultSummary:
+- "Negative for common GI pathogens"
+- "Negative for parasitic infections using Multiplex PCR and Microscopy"
+- "Low stool pH (5.5)"
+- "Elevated Lysozyme (800 ng/mL)"
+- "Detected dysbiotic bacteria: 3+ Citrobacter freundii complex, 2+ Klebsiella/Raoultella complex"
+- "Detected commensal bacteria imbalance"
+- "Detected beneficial bacteria including 4+ Bacteroides family and 4+ Bifidobacterium family"
+abnormalValues:
+- "pH of 5.5 (lower than normal range of 5.8-7.0)"
+- "Lysozyme at 800 ng/mL (higher than normal range ≤ 500 ng/mL)"
+normalValues:
+- "Lactoferrin at 2.0 µg/mL (normal range < 7.3 µg/mL)"
+- "Calprotectin <10 µg/g (normal range < 80 µg/g)"
+- "Secretory IgA at 51.8 mg/dL (normal range 30-275 mg/dL)"
+- "Occult Blood: Negative"
+- "Soft stool consistency"
+- "Brown stool color"
+assessmentSummary:
+- "Presence of dysbiotic bacteria such as Citrobacter freundii complex suggests a dysbiotic condition."
+- "Low pH indicates rapid transit time, potentially due to diarrhea or food intolerance."
+- "Elevated Lysozyme suggests inflammatory immune response possibly due to enteropathogens."
+gptInterpretation:
+- "The patient exhibits a gastrointestinal imbalance with signs of dysbiosis, potentially related to diet or infection."
+- "Low pH and elevated Lysozyme are indicative of an inflammatory condition that may need further investigation."
+- "The patient may benefit from dietary modifications, including increased fiber intake and potentially probiotics to restore beneficial flora."
+- "Further clinical correlation with symptoms and possible re-evaluation in a few weeks may be necessary to monitor changes."

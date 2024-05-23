@@ -1,0 +1,20 @@
+sample_date: "2021-09-22"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Serotonin"
+- "Tumor Necrosis Factor Alpha"
+purpose:
+- "Measurement of serotonin levels"
+- "Measurement of TNF-Alpha levels"
+resultSummary:
+- "Serotonin: 166.8 ng/mL (reference: 30.0-200.0 ng/mL)"
+- "Tumor Necrosis Factor Alpha: 19.30 pg/mL (reference: < 8.1 pg/mL)"
+abnormalValues:
+- "Tumor Necrosis Factor Alpha: 19.30 pg/mL (high)"
+normalValues:
+- "Serotonin: 166.8 ng/mL"
+assessmentSummary:
+- "High Tumor Necrosis Factor Alpha indicates potential inflammatory response"
+gptInterpretation:
+- "The serum serotonin level is within the normal range."
+- "The elevated level of Tumor Necrosis Factor Alpha (TNF-Alpha) may indicate an underlying inflammatory condition or immune response."

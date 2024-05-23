@@ -1,0 +1,16 @@
+sample_date: "2021-08-05"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Yeast presence in stool"
+purpose:
+- "Identify the presence of yeast in feces"
+resultSummary:
+- "Yeast: Present"
+abnormalValues:
+- "Yeast presence: Present (should be absent)"
+normalValues:
+- "None listed"
+assessmentSummary:
+- "Conducted by Mirian Aparecida Alves Freitas"
+gptInterpretation:
+- "The presence of yeast in the stool suggests a potential fungal infection or imbalance in the patient's gut flora."

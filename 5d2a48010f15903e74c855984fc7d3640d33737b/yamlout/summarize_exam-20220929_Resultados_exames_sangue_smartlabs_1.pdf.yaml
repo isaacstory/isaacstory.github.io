@@ -1,0 +1,122 @@
+sample_date: "2022-09-29"
+requested_by: "Dr. Paola Cassia Ferreira di Napoli"
+metrics:
+- ACTH
+- Homocysteine
+- IGF-1 (Somatomedin C)
+- Cholesterol (Total, LDL, VLDL, HDL)
+- Triglycerides
+- Arsenic
+- Vitamin C
+- Candida Antibodies (IgG)
+- Cadmium
+- Mercury
+- TSH
+- T3 Free
+- T4 Free
+- Hemoglobin A1c (HbA1c)
+- Glucose
+- Insulin
+- Potassium
+- Calcium
+- Zinc
+- Magnesium
+- Copper
+- Ferritin
+- Urea
+- Uric Acid
+- Apolipoprotein B and A-1
+- Alkaline Phosphatase
+- Creatine Phosphokinase
+- Vitamin A
+- Anti-TPO Antibodies
+- Parathyroid Hormone (PTH)
+- Hemogram
+purpose:
+- To evaluate endocrine function
+- To monitor metabolic and cardiovascular health
+- To detect potential toxic exposures
+- To assess nutritional and vitamin status
+- To determine the presence of systemic infections
+resultSummary:
+- ACTH: 30 pg/mL (Normal)
+- Homocysteine: 11.5 umol/L (Normal)
+- IGF-1: 109 ng/mL (Ranges for age group not provided)
+- Total Cholesterol: 219 mg/dL (Elevated)
+- LDL Cholesterol: 149 mg/dL (Elevated)
+- VLDL Cholesterol: 17 mg/dL (No reference range provided)
+- HDL Cholesterol: 53 mg/dL (Normal)
+- Triglycerides: 73 mg/dL (Normal in Children)
+- Arsenic: <0.5 mcg/L (Normal)
+- Vitamin C: 0.05 mg/dL (Deficient)
+- Candida IgG: <5.0 U/mL (Negative)
+- Cadmium: <0.1 mcg/L (Normal)
+- Mercury: <0.1 mcg/dL (Normal)
+- TSH: 0.590 µUI/mL (Normal)
+- T3 Free: 3.24 pg/mL (Normal)
+- T4 Free: 1.14 ng/dL (Normal)
+- HbA1c: 5.4% (Normal)
+- Glucose: 90.6 mg/dL (Normal)
+- Insulin: 14.8 uUI/mL (Normal)
+- Potassium: 4.68 mmol/L (Normal)
+- Calcium: 9.2 mg/dL (Normal)
+- Zinc: 79.3 mcg/dL (Normal)
+- Magnesium: 2.14 mg/dL (Normal)
+- Copper: 144.2 mcg/dL (Normal)
+- Ferritin: 64 ng/mL (Normal)
+- Urea: 20.3 mg/dL (Normal)
+- Uric Acid: 4.1 mg/dL (Normal)
+- Apolipoprotein B: 110 mg/dL (Normal)
+- Apolipoprotein A-1: 133 mg/dL (Normal)
+- Alkaline Phosphatase: 80 U/L (Normal)
+- Creatine Phosphokinase: 85 U/L (Normal)
+- Vitamin A: 0.35 mg/L (Normal)
+- Anti-TPO Antibodies: 7.7 UI/mL (Normal)
+- PTH: 12.4 pg/mL (Low)
+- Hemogram: All values within normal range
+abnormalValues:
+- Total Cholesterol: 219 mg/dL
+- LDL Cholesterol: 149 mg/dL
+- Vitamin C: 0.05 mg/dL
+- PTH: 12.4 pg/mL
+normalValues:
+- ACTH: 30 pg/mL
+- Homocysteine: 11.5 umol/L
+- IGF-1: 109 ng/mL
+- HDL Cholesterol: 53 mg/dL
+- VLDL Cholesterol: 17 mg/dL
+- Triglycerides: 73 mg/dL
+- Arsenic: <0.5 mcg/L
+- Candida IgG: <5.0 U/mL
+- Cadmium: <0.1 mcg/L
+- Mercury: <0.1 mcg/dL
+- TSH: 0.590 µUI/mL
+- T3 Free: 3.24 pg/mL
+- T4 Free: 1.14 ng/dL
+- HbA1c: 5.4%
+- Glucose: 90.6 mg/dL
+- Insulin: 14.8 uUI/mL
+- Potassium: 4.68 mmol/L
+- Calcium: 9.2 mg/dL
+- Zinc: 79.3 mcg/dL
+- Magnesium: 2.14 mg/dL
+- Copper: 144.2 mcg/dL
+- Ferritin: 64 ng/mL
+- Urea: 20.3 mg/dL
+- Uric Acid: 4.1 mg/dL
+- Apolipoprotein B: 110 mg/dL
+- Apolipoprotein A-1: 133 mg/dL
+- Alkaline Phosphatase: 80 U/L
+- Creatine Phosphokinase: 85 U/L
+- Vitamin A: 0.35 mg/L
+- Anti-TPO Antibodies: 7.7 UI/mL
+- Hemogram: All values within normal range
+assessmentSummary:
+- The patient has elevated total and LDL cholesterol levels, which may indicate a risk for cardiovascular diseases in the future.
+- There is a deficiency in Vitamin C, which could suggest potential dietary inadequacies or absorption issues.
+- Lower than normal PTH level which could be indicative of hypoparathyroidism or other underlying conditions.
+gptInterpretation:
+- Continued monitoring of cholesterol levels is recommended. Dietary and lifestyle changes may be beneficial to manage and reduce cholesterol levels.
+- Supplementation or improved dietary intake of Vitamin C may be needed to address the identified deficiency.
+- Further evaluation of PTH levels may be necessary to determine the cause of hypoparathyroidism and appropriate treatment.
+- Overall, the patient appears to have a balanced metabolic panel with regard to glucose, insulin, electrolytes, and other minerals.

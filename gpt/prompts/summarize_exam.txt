@@ -1,6 +1,43 @@
 Summarize this exam and give your answer in yaml format.
-The yaml file should have the following attributes:
+The yaml file should have the following format:
 
+```yaml
+sample_date: "2021-01-01"
+requested_by: "Dr. Smith"
+metrics:
+- "item1"
+- "item2"
+- "etc"
+purpose:
+- "item1"
+- "item2"
+- "etc"
+resultSummary:
+- "item1"
+- "item2"
+- "etc"
+abnormalValues:
+- "item1"
+- "item2"
+- "etc"
+normalValues:
+- "item1"
+- "item2"
+- "etc"
+assessmentSummary:
+- "item1"
+- "item2"
+- "etc"
+gptInterpretation:
+- "item1"
+- "item2"
+- "etc"
+```
+
+And here's what the fields mean:
+
+* sample_date: the date the exam was taken
+* requested_by: who requested the exam
 * metrics: what is this exam measuring
 * purpose: what is it for
 * resultSummary: what was foun in the results
@@ -8,3 +45,9 @@ The yaml file should have the following attributes:
 * normalValues: what measurements were found inside the reference range
 * assessmentSummary: A summary of the exam assessment, if present
 * gptInterpretation: Your own interpretation of what this exam means for the patient
+
+All fields are required.
+If there is an unknown value, just put "Unknown" in that field.
+The fields with "item1, item2, etc" is so that you organize the information in bullet points
+
+Important: the yaml content must be in english.

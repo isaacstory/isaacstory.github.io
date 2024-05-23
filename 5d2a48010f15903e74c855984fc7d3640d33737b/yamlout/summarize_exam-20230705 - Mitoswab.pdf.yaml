@@ -1,0 +1,29 @@
+sample_date: "2023-08-01"
+requested_by: "Dr. Burch, Mary"
+metrics:
+- "Mitochondrial respiratory chain complexes (RC-I, RC-II, RC-II+III, RC-IV) activities"
+- "Citrate Synthase (CS) enzyme activity"
+purpose:
+- "Evaluate mitochondrial function in buccal cells"
+resultSummary:
+- "High citrate synthase activity at 242% of normal mean"
+- "RC-IV activity below normal range at 45% of normal mean"
+- "RC-I activity within normal range at 54% of normal mean"
+- "RC-II activity within normal range at 63% of normal mean"
+- "RC-II+III activity below normal range at 19% of normal mean"
+abnormalValues:
+- "Citrate Synthase: 242% above normal mean"
+- "RC-IV: 45% below normal mean"
+- "RC-II+III: 19% below normal mean"
+normalValues:
+- "RC-I: 54% of normal mean"
+- "RC-II: 63% of normal mean"
+assessmentSummary:
+- "Marginally decreased activity of RC-IV"
+- "Normal activity of RC-I"
+- "Significantly increased citrate synthase activity suggesting compensatory response"
+- "Periodic monitoring of mitochondrial enzyme assessment recommended"
+gptInterpretation:
+- "The test indicates likely mitochondrial dysfunction given the high citrate synthase activity and low RC-IV activity."
+- "The significantly high citrate synthase activity may be a compensatory mechanism."
+- "Periodic re-evaluation is suggested to monitor mitochondrial function over time."

@@ -1,0 +1,16 @@
+sample_date: "2021-08-10"
+requested_by: "Dr(a) Simone Pires"
+metrics:
+- "Detection of Clostridium difficile Toxins A and B"
+purpose:
+- "To investigate the presence of Clostridium difficile toxins in fecal samples"
+resultSummary:
+- "Negative for Clostridium difficile Toxins A and B"
+abnormalValues:
+- "None"
+normalValues:
+- "Negative for Clostridium difficile Toxins A and B"
+assessmentSummary:
+- "The test results for Clostridium difficile toxins A and B were negative. However, the immunoassay method used has approximately 50% sensitivity. If there is a persistent suspicion of Clostridium difficile infection, a PCR test is recommended for higher sensitivity and specificity."
+gptInterpretation:
+- "The negative result suggests that the patient does not have a Clostridium difficile infection, although the test's low sensitivity means that a false negative is possible. In case of continued symptoms or strong clinical suspicion, further testing with a PCR method is advisable for accurate detection."

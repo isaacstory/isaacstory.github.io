@@ -1,0 +1,26 @@
+sample_date: "2021-01-11"
+requested_by: "Unknown"
+metrics:
+- "Chromosomal analysis by microarray"
+purpose:
+- "To identify chromosomal gains or losses"
+resultSummary:
+- "Sex chromosomes: XY"
+- "ISCN: arr[GRCh38] 3q26.31q26.32(175364178_176001139)x1"
+- "Type: deletion"
+- "Size: 637 kb"
+- "Classification: Probably benign"
+abnormalValues:
+- "637 kb interstitial deletion in the long arm of chromosome 3"
+normalValues:
+- "No pathogenic chromosomal segments detected"
+assessmentSummary:
+- "The SNP-array test did not detect any known pathogenic chromosomal segment gains or losses."
+- "This result excludes known microdeletion or microduplication syndromes as described in the OMIM and DECIPHER databases."
+- "A genomic variant classified as probably benign was identified: a 637 kb interstitial deletion in the long arm of chromosome 3."
+- "This deleted segment does not include genes associated with diseases."
+- "Similar deletions have been identified in rare individuals in the general population."
+gptInterpretation:
+- "The exam shows a 637 kb deletion on chromosome 3 which is classified as probably benign."
+- "There is no evidence that this deletion causes clinical symptoms."
+- "No other chromosomal abnormalities were found."

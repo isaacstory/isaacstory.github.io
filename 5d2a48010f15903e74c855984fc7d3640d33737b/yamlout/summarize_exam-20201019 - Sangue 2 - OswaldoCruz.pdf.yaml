@@ -1,0 +1,79 @@
+sample_date: "2020-08-10"
+requested_by: "Dr. Eda Cavalieri de Paula"
+metrics:
+- Venous Blood Gas
+- Hemogram with Platelet Count
+- Inborn Errors – Minimal Urinary Screening
+- Lipid Profile
+- Cardiac Fraction Creatinine Kinase (CK-Mass)
+- High Sensitivity Thyroid-Stimulating Hormone (TSH)
+- T3 (Triiodothyronine)
+- T4 (Thyroxine)
+- Vitamin D
+- Karyotype with G Band
+purpose:
+- Check general health status
+- Screen for inborn metabolic errors
+- Assess lipid levels
+- Evaluate cardiac function
+- Screen for thyroid disorders
+- Determine vitamin levels
+- Analyze chromosomal abnormalities
+resultSummary:
+- Blood gas parameters within normal range except O2 saturation
+- Normal hemogram except high hemoglobin and hematocrit
+- Positive sugars in urine
+- Elevated total cholesterol and LDL
+- High potassium levels
+- Elevated Vitamin B12
+- Normal T3, T4, and thyroid levels
+- Normal karyotype with pericentric inversion in chromosome 9
+abnormalValues:
+- Saturation of O2: 41.0% (Reference: 55.0-75.0%)
+- Hemoglobin: 13.6 g/dL (Reference: 10.5-13.5 g/dL)
+- Hematocrit: 39.8% (Reference: 33.0-39.0%)
+- Positive sugar in urine (Reference: Negative)
+- Total Cholesterol: 184 mg/dL (No reference for this age)
+- LDL Cholesterol: 121 mg/dL (Reference: <110 mg/dL)
+- Potassium: 5.4 mEq/L (Reference: 3.3-4.6 mEq/L)
+- Vitamin B-12: Superior to 2000 pg/mL (Reference: 197-771 pg/mL)
+normalValues:
+- pH
+- pCO2
+- HCO3
+- Base Excess
+- pO2
+- CO2 Content
+- Erythrocytes
+- MCV
+- MCH
+- MCHC
+- RDW
+- Leukocytes and Differential Count
+- Platelet Count
+- Urea
+- Creatinine
+- Triglycerides
+- HDL
+- VLDL
+- Lipid Total
+- CK Mass
+- TSH
+- T3 free
+- T4 free
+- 25 OH Vitamin D
+- Karyotype Interpretation: Normal variation
+assessmentSummary:
+- Most parameters are within the normal ranges.
+- Elevated Hemoglobin and Hematocrit suggest possible dehydration or polycythemia.
+- Positive sugar in urine indicates glycosuria, which needs further investigation for causes such as a metabolic disorder.
+- Elevated LDL cholesterol raises concerns for future cardiovascular risk.
+- High potassium level could indicate issues with renal function or adrenal glands.
+- Elevated Vitamin B-12 levels are uncommon and might need re-evaluation or a check for supplementation.
+- Normal chromosomal variation with no detected pathology.
+gptInterpretation:
+- The overall health status appears normal with specific areas needing follow-up.
+- Glycosuria should be rechecked and potential metabolic disorders ruled out.
+- Elevated LDL and cholesterol call for dietary review and potential lifestyle changes for cardiovascular health.
+- High potassium should be monitored and renal function assessed.
+- The significant discrepancy of Vitamin B-12 levels necessitates a re-test and review of patient supplementation.

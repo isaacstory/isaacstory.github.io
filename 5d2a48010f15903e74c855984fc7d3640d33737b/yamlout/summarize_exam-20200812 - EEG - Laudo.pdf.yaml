@@ -1,0 +1,30 @@
+sample_date: "2020-08-12"
+requested_by: "Dr(a). Eda Cavalieri"
+metrics:
+- "Brain wave activity"
+purpose:
+- "Evaluate brain function during induced sleep"
+- "Check for pathologic EEG patterns"
+- "Assess brain symmetry"
+resultSummary:
+- "No pathological graphoelements recorded"
+- "No persistent asymmetry between homologous areas"
+- "Predominance of Delta band in Fz Cz Pz"
+- "Predominance of Theta band in Cz"
+- "Predominance of Alpha band in Cz"
+- "Predominance of Beta 1 band in Cz"
+- "Diffused predominance of Beta 2 and Beta 3 bands"
+abnormalValues:
+- "None"
+normalValues:
+- "Brain activity formed by theta and delta waves with variable voltages"
+- "No persistent asymmetry between homologous areas"
+- "Average amplitude spectra between homologous areas showed no asymmetry"
+- "Unimodal distribution with increased delta rhythm in all brain regions"
+assessmentSummary:
+- "Digital EEG in induced sleep within normal parameters"
+- "Quantitative EEG (Brain mapping) in induced sleep within normal parameters"
+gptInterpretation:
+- "The EEG results suggest normal brain function during induced sleep in the 1-year-old patient."
+- "No abnormalities such as pathological graphoelements or asymmetry were detected."
+- "The distribution of brain activity is consistent with normal sleep patterns for the child's age."

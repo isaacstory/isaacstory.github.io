@@ -1,0 +1,16 @@
+sample_date: "2023-09-14"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+metrics:
+- "Tumor Necrosis Factor Alpha (TNF-α)"
+purpose:
+- "Evaluation of inflammatory response"
+resultSummary:
+- "TNF-α level: 13.40 pg/mL"
+abnormalValues:
+- "TNF-α level: 13.40 pg/mL (Above reference range: < 8.1 pg/mL)"
+normalValues:
+- "None"
+assessmentSummary:
+- "The reported TNF-α level indicates an increased inflammatory response."
+gptInterpretation:
+- "The elevated TNF-α level suggests an active inflammatory process which may need further investigation to determine the underlying cause."

@@ -1,0 +1,24 @@
+sample_date: "2023-10-20"
+requested_by: "Unknown"
+metrics:
+- "Brain electrical activity"
+purpose:
+- "To monitor electrical activity during wakefulness, drowsiness, and sleep"
+resultSummary:
+- "Normal baseline activity"
+- "Theta and beta waves in other brain regions during wakefulness"
+- "Diffuse slowing of the trace during drowsiness"
+- "Habitual physiological elements during sleep"
+- "No epileptiform paroxysms observed"
+- "No electrographic seizures recorded"
+- "No abnormal responses to intermittent photic stimulation"
+abnormalValues:
+- "None observed"
+normalValues:
+- "Normal baseline activity"
+assessmentSummary:
+- "12-hour Video-EEG with patient in wakefulness, drowsiness, and sleep demonstrating normal baseline activity, absence of epileptiform abnormalities, and absence of electrographic seizures"
+gptInterpretation:
+- "The EEG results show normal brain electrical activity without signs of epilepsy or seizures."
+- "The patient does not present any abnormal brain waves or responses that would indicate a neurological disorder based on this EEG monitoring session."
+- "This examination suggests typical brain function during different states of consciousness."

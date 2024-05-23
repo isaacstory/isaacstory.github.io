@@ -1,50 +1,55 @@
+sample_date: "2023-12-17"
+requested_by: "Unknown"
 metrics:
-  - Digestive enzymes
-  - Fat detection
-  - Carbohydrate absorption
-  - Inflammatory markers
-  - Immune response markers
-  - Short chain fatty acids
-  - Intestinal health markers
-
-purpose: "The exam aims to assess various aspects of gastrointestinal health, including digestion, absorption, inflammation, immune response, presence of pathogens, and overall intestinal well-being."
-
+- "Elastase"
+- "Fat Stain"
+- "Carbohydrates"
+- "Lactoferrin"
+- "Calprotectin"
+- "Lysozyme"
+- "Secretory IgA"
+- "Short Chain Fatty Acids (SCFAs)"
+- "pH"
+- "Occult Blood"
+- "Macroscopic Appearance (Color, Consistency)"
+purpose:
+- "Assess digestive and absorptive function"
+- "Evaluate inflammation"
+- "Check immunologic markers"
+- "Analyze intestinal health markers"
+- "Detect pathogens and parasites"
 resultSummary:
-  - Elastase: 280 µg/g (normal)
-  - Fat stain: Not Detected (normal)
-  - Carbohydrates: Negative (normal)
-  - Lactoferrin: 1.1 µg/mL (normal)
-  - Calprotectin: 44 µg/g (normal)
-  - Lysozyme: 727 ng/mL (abnormal, elevated)
-  - Secretory IgA (sIgA): 66.9 mg/dL (normal)
-  - SCFA Components (% Acetate, % Propionate, % Butyrate, % Valerate, Butyrate, Total SCFA's): All within normal ranges
-  - pH: 6.0 (normal)
-  - Occult blood: Negative (normal)
-  - Macroscopic aspect (Color, Consistency, Muco): Brown, Soft, Negative (normal)
-
+- "Elastase: 280 µg/g (normal)"
+- "Fat Stain: Not Detected"
+- "Carbohydrates: Negative"
+- "Lactoferrin: 1.1 µg/mL (normal)"
+- "Calprotectin: 44 µg/g (normal)"
+- "Lysozyme: 727 ng/mL (elevated)"
+- "Secretory IgA: 66.9 mg/dL (normal)"
+- "SCFAs: within normal ranges"
+- "pH: 6.0 (normal)"
+- "Occult Blood: Negative"
+- "Macroscopic Appearance: Normal (brown, soft)"
+- "No pathogenic bacteria, viruses, or parasites detected"
 abnormalValues:
-  - Lysozyme: 727 ng/mL (Reference range: ≤ 500 ng/mL)
-
+- "Lysozyme: 727 ng/mL ( > 500 ng/mL)"
 normalValues:
-  - Elastase: 280 µg/g (Reference range: > 200 µg/g)
-  - Fat stain: Not Detected (Reference range: None – Moderate)
-  - Carbohydrates: Negative (Reference range: Negative)
-  - Lactoferrin: 1.1 µg/mL (Reference range: < 7.3 µg/mL)
-  - Calprotectin: 44 µg/g (Reference range: < 80 µg/g)
-  - Secretory IgA (sIgA): 66.9 mg/dL (Reference range: 30 – 275 mg/dL)
-  - % Acetate: 64% (Reference range: 50 – 72%)
-  - % Propionate: 12% (Reference range: 11 – 25%)
-  - % Butyrate: 21% (Reference range: 11 – 32%)
-  - % Valerate: 3.4% (Reference range: 0.8 – 5%)
-  - Butyrate: 2.5 mg/mL (Reference range: 0.8 – 4.0 mg/mL)
-  - Total SCFA's: 12 mg/mL (Reference range: 5.0 – 16.0 mg/mL)
-  - pH: 6.0 (Reference range: 5.8 – 7.0)
-  - Occult blood: Negative (Reference range: Negative)
-  - Color: Brown (Reference range: Brown)
-  - Consistency: Soft (Reference range: Soft)
-  - Muco: Negative (Reference range: Negative)
-
+- "Elastase: 280 µg/g ( > 200 µg/g)"
+- "Lactoferrin: 1.1 µg/mL ( < 7.3 µg/mL)"
+- "Calprotectin: 44 µg/g ( < 80 µg/g)"
+- "Secretory IgA: 66.9 mg/dL (30 – 275 mg/dL)"
+- "SCFA levels (Acetate, Propionate, Butyrate, Valerate, Total SCFAs)"
+- "pH: 6.0 (5.8 – 7.0)"
+- "Occult Blood: Negative"
+- "Macroscopic Appearance (Color: Brown, Consistency: Soft)"
 assessmentSummary:
-  - The assessment indicates an abnormal increase in lysozyme levels, which is a biomarker of inflammatory immune response in the intestines. This could be associated with the growth of enteropathogens, such as yeasts, dysbiotic, or pathogenic bacteria. High lysozyme levels may also indicate Inflammatory Bowel Disease (IBD), such as Crohn's disease or ulcerative colitis. However, moderate elevations can often be corrected with the elimination of an aggressive enteroinvasive microorganism.
-
-gptInterpretation: "The test results suggest mostly normal digestive and absorption functions, with no significant presence of pathogens, abnormal inflammation markers, or immune response indicators, except for an elevated lysozyme level. The elevated lysozyme indicates a potential inflammatory response possibly due to an enteropathogen. Further investigation and possibly repeat testing of inflammatory markers like calprotectin and lactoferrin in about four weeks may be necessary to evaluate if the inflammatory response persists. Managing this would likely involve addressing any existing infections or inflammation within the gastrointestinal tract."
+- "No significant digestive or absorptive issues detected"
+- "Normal inflammation and immunology markers except for elevated Lysozyme"
+- "Good intestinal health based on SCFA production and normal pH"
+- "Comprehensive pathogen screening returned negative results"
+gptInterpretation:
+- "The patient does not exhibit signs of digestive or absorptive dysfunction"
+- "Inflammatory markers are within normal ranges except Lysozyme, which suggests a possible mild inflammatory response"
+- "Normal immunologic response indicated by Secretory IgA"
+- "Intestinal health markers and pathogen profile indicate no apparent infections or significant dysbiosis"
+- "Elevated Lysozyme may require follow-up to rule out mild inflammation, potentially due to minor pathogenic activity or other inflammatory sources"

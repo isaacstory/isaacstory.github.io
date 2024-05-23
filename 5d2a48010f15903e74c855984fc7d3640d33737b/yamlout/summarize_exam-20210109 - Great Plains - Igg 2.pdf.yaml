@@ -1,0 +1,30 @@
+sample_date: "2021-01-09"
+requested_by: "Unknown"
+metrics:
+- "IgG reactivity to 190 foods"
+purpose:
+- "To identify IgG-mediated immune responses to various food antigens"
+resultSummary:
+- "High reactivity: Cashew nut, Miso"
+- "Moderate reactivity: Egg white, Peanut"
+- "Low reactivity: Beta-Lactoglobulin, Casein, Cow's milk, Pea, Hazelnut, Pineapple, Soybean"
+abnormalValues:
+- "Cashew nut: 19.43 MFI x 1000"
+- "Miso: 30.03 MFI x 1000"
+- "Egg white: 11.99 MFI x 1000"
+- "Peanut: 13.33 MFI x 1000"
+- "Hazelnut: 8.63 MFI x 1000"
+- "Soybean: 6.50 MFI x 1000"
+- "Pineapple: 5.46 MFI x 1000"
+- "Beta-Lactoglobulin: 5.73 MFI x 1000"
+- "Cow's milk: 5.20 MFI x 1000"
+- "Casein: 4.80 MFI x 1000"
+normalValues:
+- "Numerous foods showing low or no significant IgG reactivity below 4.47 MFI x 1000"
+assessmentSummary:
+- "The patient exhibits IgG-mediated immune response to several foods, indicating potential sensitivities."
+- "High and moderate reactivities particularly suggest a need to avoid these foods to mitigate symptoms."
+gptInterpretation:
+- "The test results suggest the patient has significant immune reactions to certain foods, especially cashew nuts, miso, egg white, and peanuts."
+- "Avoiding high and moderate reactivity foods may help in reducing symptoms like digestive issues, skin conditions, or other inflammation-related symptoms."
+- "A rotating diet plan can be beneficial to prevent new sensitivities and manage current immune reactivity."

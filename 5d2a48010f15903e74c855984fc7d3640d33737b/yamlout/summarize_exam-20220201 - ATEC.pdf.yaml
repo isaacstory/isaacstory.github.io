@@ -1,0 +1,28 @@
+sample_date: "Unknown"
+requested_by: "Unknown"
+metrics:
+- "Speech/Language/Communication"
+- "Sociability"
+- "Sensory/Cognitive Awareness"
+- "Health/Behavior"
+purpose:
+- "Evaluation of autism treatment progress"
+resultSummary:
+- "Total Score: 70"
+- "Subscale I (Speech/Language/Communication): 18"
+- "Subscale II (Sociability): 18"
+- "Subscale III (Sensory/Cognitive Awareness): 19"
+- "Subscale IV (Health/Behavior): 15"
+abnormalValues:
+- "Speech/Language: Limited use of words and meaningful communication"
+- "Sociability: Prefers to be alone, lacks eye contact"
+- "Cognitive Awareness: Limited imaginative play, interactions"
+- "Behavior: Hyperactivity, limited diet, aggression"
+normalValues:
+- "Understands TV stories"
+- "Can follow certain commands"
+- "Knows own name"
+assessmentSummary:
+- "The child exhibits signs consistent with autism, including difficulties in communication, social interaction, sensory processing, and behavior."
+gptInterpretation:
+- "The results indicate that the child, Isaac França, has notable challenges in speech, sociability, cognitive awareness, and overall behavior consistent with autism spectrum disorder. Continued monitoring and tailored interventions are recommended."

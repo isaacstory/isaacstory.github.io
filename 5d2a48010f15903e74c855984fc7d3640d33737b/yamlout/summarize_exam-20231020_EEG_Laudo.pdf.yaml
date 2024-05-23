@@ -1,0 +1,34 @@
+sample_date: "2023-10-20"
+requested_by: "Unknown"
+metrics:
+- "brain electrical activity"
+- "response to photo-stimulation"
+- "sleep stages"
+purpose:
+- "assess baseline brain activity"
+- "detect epileptiform activity"
+- "monitor electric brain activity during sleep"
+resultSummary:
+- "normal baseline activity"
+- "8 to 9 Hz posterior rhythm during wakefulness"
+- "theta and beta waves in other regions"
+- "diffuse slowing during drowsiness"
+- "normal sleep-related elements"
+- "no epileptiform paroxysms"
+- "no electrographic seizures"
+- "no abnormal responses to photo-stimulation"
+abnormalValues:
+- "None"
+normalValues:
+- "baseline brain activity"
+- "posterior rhythm during wakefulness"
+- "theta and beta waves in other regions"
+- "diffuse slowing during drowsiness"
+- "normal sleep-related elements"
+assessmentSummary:
+- "12-hour video-EEG shows normal baseline activity"
+- "no epileptiform abnormalities"
+- "no electrographic seizures"
+gptInterpretation:
+- "The patient shows normal brain activity with no signs of epileptiform activity or seizures over a 12-hour monitoring period."
+- "All observed brain activity during wakefulness, drowsiness, and sleep falls within normal limits."

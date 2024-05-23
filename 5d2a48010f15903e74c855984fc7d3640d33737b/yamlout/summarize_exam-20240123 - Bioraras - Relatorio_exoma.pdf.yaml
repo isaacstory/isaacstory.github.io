@@ -1,0 +1,20 @@
+sample_date: "2024-01-23"
+requested_by: "Dr. Tony Callleri França"
+metrics:
+- "DNA sequence variants"
+purpose:
+- "Diagnose potential genetic causes for developmental delay, TEA, metabolic acidosis, and gastrointestinal disturbances"
+resultSummary:
+- "One pathogenic variant in the GALT gene associated with Galactosemia"
+- "Six variants of uncertain significance in the MED13, ASS1, TAT, DLGAP1, and FHL1 genes"
+abnormalValues:
+- "Variant in GALT gene (rs111033690) classified as pathogenic"
+normalValues:
+- "No pathogenic variants found to explain the clinical condition"
+assessmentSummary:
+- "The patient did not have any pathogenic variants that correlate with the clinical symptoms described"
+- "Multiple variants of uncertain significance were identified"
+gptInterpretation:
+- "The identified pathogenic variant in the GALT gene may contribute to Galactosemia, which typically presents with symptoms like cataracts, cirrhosis, vomiting, diarrhea, developmental delays, and hemolytic anemia."
+- "The variants of uncertain significance should be interpreted with caution and do not conclusively explain the patient's clinical condition."
+- "Genetic counseling and clinical correlation are essential for a comprehensive understanding of these findings."

@@ -1,0 +1,33 @@
+sample_date: "Unknown"
+requested_by: "Unknown"
+metrics:
+- "Speech/Language/Communication"
+- "Sociability"
+- "Sensory/Cognitive Awareness"
+- "Health/Physical/Behavioral"
+purpose:
+- "Evaluate autism treatment progress"
+- "Assess communication abilities"
+- "Assess social behavior"
+- "Assess sensory and cognitive awareness"
+- "Assess health and behavior"
+resultSummary:
+- "Speech/Language/Communication: 23"
+- "Sociability: 29"
+- "Sensory/Cognitive Awareness: 23"
+- "Health/Physical/Behavioral: 16"
+- "Total Score: 91"
+abnormalValues:
+- "Speech/Language/Communication: Delays in using multi-word phrases"
+- "Sociability: Resistance to interaction, lack of eye contact"
+- "Sensory/Cognitive Awareness: Limited expressions and sensorimotor responses"
+- "Health/Physical/Behavioral: Enuresis, dietary limitations, hyperactivity"
+normalValues:
+- "Understands explanations and TV stories"
+- "Has a normal capacity for communication for age"
+assessmentSummary:
+- "The child exhibits significant challenges in social interaction, communication, and behavior consistent with autism spectrum disorder"
+gptInterpretation:
+- "The results suggest the child has considerable difficulty in verbal communication and social interaction typical of autism"
+- "Special attention should be given to managing abnormal behavioral issues such as hyperactivity and dietary restrictions"
+- "Therapeutic intervention may be required to improve speech and language skills, as well as to address sensory and cognitive awareness"

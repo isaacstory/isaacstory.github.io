@@ -1,0 +1,20 @@
+sample_date: "2021-01-11"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Detection of C677T variant in MTHFR gene"
+- "Detection of A1298C variant in MTHFR gene"
+purpose:
+- "To determine the presence of MTHFR gene variants C677T and A1298C"
+resultSummary:
+- "C677T variant: Absent"
+- "A1298C variant: Present in heterozygous form"
+abnormalValues:
+- "A1298C variant: Present in heterozygous form"
+normalValues:
+- "C677T variant: Absent"
+assessmentSummary:
+- "The patient is homozygous CC for C677T and heterozygous AC for A1298C."
+- "These results align with established population frequencies."
+gptInterpretation:
+- "The absence of the C677T variant and the presence of the A1298C variant in a heterozygous form suggest a normal genetic variation without significant clinical implications based on current studies."
+- "Recent studies indicate no relationship between these polymorphisms and the risk of venous thrombosis."

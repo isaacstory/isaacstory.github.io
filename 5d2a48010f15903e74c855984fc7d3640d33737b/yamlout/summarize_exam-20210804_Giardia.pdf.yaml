@@ -1,0 +1,16 @@
+sample_date: "2021-08-04"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Antigen for Giardia lamblia"
+purpose:
+- "Detection of Giardia lamblia antigen in feces"
+resultSummary:
+- "Negative result for Giardia lamblia antigen"
+abnormalValues:
+- "None"
+normalValues:
+- "Negative for Giardia lamblia antigen"
+assessmentSummary:
+- "The patient tested negative for Giardia lamblia antigen."
+gptInterpretation:
+- "The negative result indicates that the patient does not have an active Giardia lamblia infection at the time of testing."

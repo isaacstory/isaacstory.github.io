@@ -1,0 +1,22 @@
+sample_date: "2023-10-21"
+requested_by: "Unknown"
+metrics:
+- Electoencephalogram (EEG) 
+- Brainwave patterns
+- Electrical activity of the brain
+purpose:
+- Assess brain function 
+- Detect abnormalities in brain activity
+resultSummary:
+- Various brain waveforms recorded 
+- Multiple phases recorded during the exam
+abnormalValues:
+- Unknown
+normalValues:
+- Unknown
+assessmentSummary:
+- Unknown
+gptInterpretation:
+- This appears to be an EEG test conducted to measure electrical activity in the brain. 
+- The test included various recordings across different phases.
+- Without more specific result details, it is unclear if there were any abnormalities detected.

@@ -1,0 +1,16 @@
+sample_date: "2023-01-31"
+requested_by: "Dr. Cristiane Borges Barra Moura"
+metrics:
+- "Selênio sérico"
+purpose:
+- "Measure serum selenium levels"
+resultSummary:
+- "Serum selenium level: 116 µg/L"
+abnormalValues:
+- "None"
+normalValues:
+- "Serum selenium level is within the reference range (20 - 190 µg/L)"
+assessmentSummary:
+- "The serum selenium level is within the normal reference range, indicating no deficiency or excessive levels of selenium."
+gptInterpretation:
+- "The patient's serum selenium level is normal, suggesting adequate selenium status. No further action is required regarding selenium levels."

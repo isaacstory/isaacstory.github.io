@@ -1,0 +1,23 @@
+sample_date: "2023-07-10"
+requested_by: "Dr. Mary Burch"
+metrics:
+- "Blocking"
+- "Binding"
+purpose:
+- "Measure folate receptor blocking antibody"
+- "Measure folate receptor binding antibody"
+resultSummary:
+- "Blocking: NEGATIVE, Not Detectable pmol blocked per ml"
+- "Binding: NEGATIVE, Not Detectable OD Units"
+abnormalValues:
+- "None"
+normalValues:
+- "Blocking: NEGATIVE"
+- "Binding: NEGATIVE"
+assessmentSummary:
+- "Folate receptor blocking antibody not detected."
+- "Folate receptor binding antibody not detected."
+gptInterpretation:
+- "No folate receptor blocking antibody detected, indicating no interference with folic acid binding."
+- "No folate receptor binding antibody detected, suggesting no abnormal immune response related to folate receptor."
+- "Retesting may be warranted due to potential fluctuations in antibody concentration over time."

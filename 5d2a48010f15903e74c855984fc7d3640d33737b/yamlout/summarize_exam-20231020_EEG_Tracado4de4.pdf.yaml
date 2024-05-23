@@ -1,0 +1,23 @@
+sample_date: "2023-10-21"
+requested_by: "Unknown"
+metrics:
+- "EEG readings"
+- "Brain wave activity"
+- "Sleep stages"
+- "Sensor data"
+purpose:
+- "To monitor brain activity"
+- "To diagnose neurological conditions"
+resultSummary:
+- "Multiple phases of EEG readings captured"
+- "EEG measurements include various brain regions"
+abnormalValues:
+- "Unknown"
+normalValues:
+- "Unknown"
+assessmentSummary:
+- "The EEG captures consistent brainwave patterns across different phases and brain regions."
+gptInterpretation:
+- "The exam appears to monitor the sleep stages and overall brain activity of a 4-year-old patient."
+- "The consistent measurements suggest standard procedure for neurological assessment."
+- "Further detailed analysis would be required to identify any potential abnormalities."

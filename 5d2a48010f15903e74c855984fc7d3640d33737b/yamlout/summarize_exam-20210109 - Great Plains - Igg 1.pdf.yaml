@@ -1,0 +1,20 @@
+sample_date: "2021-01-09"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "IgG antibody levels against Candida albicans"
+- "IgG antibody levels against yeasts"
+purpose:
+- "To assess the presence and level of IgG antibodies against Candida"
+- "To evaluate possible yeast infections or overgrowth"
+resultSummary:
+- "Low reactivity to Candida albicans (4.62)"
+- "Non-significant reactivity to yeasts (1.33)"
+abnormalValues:
+- "None"
+normalValues:
+- "IgG antibody levels against Candida albicans"
+- "IgG antibody levels against yeasts"
+assessmentSummary:
+- "Elevated IgG antibodies against Candida may suggest past or present overgrowth or infection"
+gptInterpretation:
+- "The patient shows low levels of IgG antibodies against Candida, which suggests minor exposure or past infection. No significant yeast infection or overgrowth is identified."

@@ -1,0 +1,16 @@
+sample_date: "2021-08-18"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Oligosaccharide Chromatography"
+purpose:
+- "Evaluate normal oligosaccharide patterns in urine"
+resultSummary:
+- "Normal standard pattern observed"
+abnormalValues:
+- "None observed"
+normalValues:
+- "Normal oligosaccharide pattern"
+assessmentSummary:
+- "The chromatographic analysis shows a normal pattern for oligosaccharides in urine"
+gptInterpretation:
+- "The patient's urine sample shows a normal level of oligosaccharides, indicating no abnormalities in this metabolic pathway."

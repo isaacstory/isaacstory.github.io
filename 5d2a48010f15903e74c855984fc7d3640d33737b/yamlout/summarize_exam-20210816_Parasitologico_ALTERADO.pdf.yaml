@@ -1,0 +1,38 @@
+sample_date: "2021-08-16"
+requested_by: "Dr. Simone Pires"
+metrics:
+- "Bilirrubin"
+- "Degraded Proteins"
+- "Total Organic Acids"
+- "Ammonia"
+- "PH"
+- "General characteristics (color, form, consistency, smell, etc.)"
+- "Microscopic examination (muscular fibers, starch, crystals, etc.)"
+- "Parasitological examination (protozoa, helminths)"
+purpose:
+- "Evaluate digestive health and function"
+- "Check for signs of infections or digestive disorders"
+resultSummary:
+- "Bilirrubin: Negative"
+- "Degraded Proteins: Positive"
+- "Total Organic Acids: 15.2 cm3"
+- "Ammonia: 4.0 cm3"
+- "PH: 6.0"
+- "General characteristics: Normal"
+- "Microscopic examination: Presence of well-digested muscular fibers, starch, cellulose"
+- "Parasitological examination: Absence of protozoa and helminths"
+abnormalValues:
+- "Degraded Proteins: Positive"
+- "PH: 6.0 (Below reference range)"
+normalValues:
+- "Bilirrubin: Negative"
+- "Total Organic Acids: 15.2 cm3"
+- "Ammonia: 4.0 cm3"
+- "General characteristics: Normal"
+- "Absence of protozoa and helminths"
+assessmentSummary:
+- "Possible protein degradation issues"
+- "Slight reduction in PH indicating potential carbohydrate intolerance or fat malabsorption"
+gptInterpretation:
+- "The presence of degraded proteins and slightly lower PH suggests some digestive inefficiency, potentially related to protein and carbohydrate digestion."
+- "Overall, no serious abnormalities were found, but monitoring and possibly dietary adjustments might be needed to address minor issues."

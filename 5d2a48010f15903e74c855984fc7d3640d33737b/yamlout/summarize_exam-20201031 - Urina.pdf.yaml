@@ -1,0 +1,39 @@
+sample_date: "2020-10-31"
+requested_by: "Dr. Ana Carolina Leite Hernandez"
+metrics:
+- "Albuminuria"
+- "Urinalysis Type I"
+- "Urinary Creatinine"
+- "Albumin/Creatinine Ratio"
+purpose:
+- "Screening for diabetic nephropathy"
+- "General urinalysis for kidney function"
+resultSummary:
+- "23.00 mg/L microalbuminuria"
+- "Urine Density: 1.017"
+- "pH: 7.5"
+- "Urinary Creatinine: 337.90 mg/L"
+- "Albumin/Creatinine Ratio: 68.07 mg/g"
+- "All other parameters within normal range"
+abnormalValues:
+- "Albumin/Creatinine Ratio: 68.07 mg/g (Normal: <30 mg/g)"
+normalValues:
+- "Urinary Albumin: 23.00 mg/L (Normal: <30 mg/L)"
+- "Urine Density: 1.017 (Normal: 1.005 to 1.030)"
+- "pH: 7.5 (Normal: 5.0 to 8.0)"
+- "Proteins: Negative"
+- "Glucose: Negative"
+- "Ketone Bodies: Negative"
+- "Bile Pigments: Negative"
+- "Urobilinogen: 0.2 mg/dL (Normal: <1.0 mg/dL)"
+- "Nitrite: Negative"
+- "Hemoglobin: Absent"
+- "Leukocytes: <10,000/mL (Normal: <10,000/mL)"
+- "RBCs: <10,000/mL (Normal: <10,000/mL)"
+assessmentSummary:
+- "Elevated urinary albumin to creatinine ratio indicates potential early diabetic nephropathy"
+- "All other urinalysis parameters are within normal range"
+gptInterpretation:
+- "The elevated albumin/creatinine ratio suggests early signs of kidney damage, which is a common complication of diabetes."
+- "Further monitoring and possibly additional tests are recommended to confirm the diagnosis of diabetic nephropathy."
+- "Despite the concerning albumin/creatinine ratio, the presence of normal values in the rest of the urinalysis is reassuring."
