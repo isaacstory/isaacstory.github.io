@@ -29,14 +29,14 @@ resultSummary:
 - Normal T3, T4, and thyroid levels
 - Normal karyotype with pericentric inversion in chromosome 9
 abnormalValues:
-- Saturation of O2: 41.0% (Reference: 55.0-75.0%)
-- Hemoglobin: 13.6 g/dL (Reference: 10.5-13.5 g/dL)
-- Hematocrit: 39.8% (Reference: 33.0-39.0%)
-- Positive sugar in urine (Reference: Negative)
-- Total Cholesterol: 184 mg/dL (No reference for this age)
-- LDL Cholesterol: 121 mg/dL (Reference: <110 mg/dL)
-- Potassium: 5.4 mEq/L (Reference: 3.3-4.6 mEq/L)
-- Vitamin B-12: Superior to 2000 pg/mL (Reference: 197-771 pg/mL)
+- "Saturation of O2: 41.0% (Reference: 55.0-75.0%)"
+- "Hemoglobin: 13.6 g/dL (Reference: 10.5-13.5 g/dL)"
+- "Hematocrit: 39.8% (Reference: 33.0-39.0%)"
+- "Positive sugar in urine (Reference: Negative)"
+- "Total Cholesterol: 184 mg/dL (No reference for this age)"
+- "LDL Cholesterol: 121 mg/dL (Reference: <110 mg/dL)"
+- "Potassium: 5.4 mEq/L (Reference: 3.3-4.6 mEq/L)"
+- "Vitamin B-12: Superior to 2000 pg/mL (Reference: 197-771 pg/mL)"
 normalValues:
 - pH
 - pCO2

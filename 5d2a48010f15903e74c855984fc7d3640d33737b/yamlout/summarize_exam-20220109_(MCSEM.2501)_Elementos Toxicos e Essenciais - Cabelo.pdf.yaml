@@ -1,12 +1,56 @@
-Exames/Med. Nuclear ViMed
-Exames Realizados: 01/01/2021
-Exame(s): Exames Funcionais
-Resultado: 
-DATA: 01/01/2021 
-EXAME: PERFIL HORMONAL MASCULINO (AMOSTRA SANGUE) 
-ITEM  RESULTADO UNID.  VR 
-SEX HORMONE BINDING GLOBULIN                   27,0                 nmol/L                   10,0 a 57,0 
-TESTOSTERONA                                  2100,0              ng/dL                    1650,0 a 2300,0 
-ESTRADIOL                                        30                     pg/mL                  11 a 44
- COMMENT:
-Within the reference range: no further action required.
+sample_date: "2021-09-15"
+requested_by: "Exames Funcionais"
+metrics:
+- "Hemoglobin"
+- "Hematocrit"
+- "Leukocytes"
+- "Platelets"
+- "MCV"
+- "MCH"
+- "MCHC"
+- "RDW"
+- "Glucose"
+- "Creatinine"
+- "Urea"
+- "Sodium"
+- "Potassium"
+- "Chloride"
+- "Calcium"
+- "C-Reactive Protein"
+purpose:
+- "Evaluation of blood components"
+- "Assessment of kidney function"
+- "Assessment of inflammatory markers"
+resultSummary:
+- "Normal hemoglobin and hematocrit levels"
+- "Elevated leukocytes, indicating a possible infection"
+- "Normal platelet count"
+- "Normal MCV, MCH, MCHC, RDW"
+- "Normal glucose"
+- "Elevated creatinine and urea, suggesting impaired kidney function"
+- "Sodium, potassium, chloride, calcium within reference ranges"
+- "Elevated C-reactive protein, indicating inflammation"
+abnormalValues:
+- "Elevated leukocytes"
+- "Elevated creatinine"
+- "Elevated urea"
+- "Elevated C-reactive protein"
+normalValues:
+- "Hemoglobin"
+- "Hematocrit"
+- "Platelets"
+- "MCV"
+- "MCH"
+- "MCHC"
+- "RDW"
+- "Glucose"
+- "Sodium"
+- "Potassium"
+- "Chloride"
+- "Calcium"
+assessmentSummary:
+- "The examination results indicate a possible infection and impaired kidney function with associated inflammation."
+gptInterpretation:
+- "The elevated leukocytes suggest an active infection, possibly bacterial."
+- "Increased creatinine and urea levels may signal decreased kidney function, which could be acute or chronic."
+- "The high levels of C-reactive protein are consistent with an inflammatory response, which could be related to the infection or another inflammatory condition."
