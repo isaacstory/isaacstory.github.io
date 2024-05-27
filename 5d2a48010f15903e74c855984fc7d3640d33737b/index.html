@@ -1,1 +1,31 @@
-hello again
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <script src="https://unpkg.com/vue@2.7.16/dist/vue.js"></script>
+    <script src="https://unpkg.com/http-vue-loader@1.4.2/src/httpVueLoader.js"></script>
+  </head>
+
+  <body>
+    <div id="app">
+      <h1>oi {{vc}}</h1>
+      <h2>tchau {{vc}}</h2>
+      <hello-world></hello-world>
+    </div>
+
+    <script type="text/javascript">
+      new Vue({
+        el: '#app',
+        components: {
+          'hello-world': httpVueLoader('./components/HelloWorld.vue')
+        },
+        data() {
+          return {
+            vc: "tony"
+          }
+        }
+      });
+    </script>
+  </body>
+</html>
