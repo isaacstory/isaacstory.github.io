@@ -12,6 +12,24 @@
       <h1>oi {{vc}}</h1>
       <h2>tchau {{vc}}</h2>
       <hello-world></hello-world>
+      <table border="1">
+        <tr>
+          <th>File</th>
+          <th>Sample Date</th>
+          <th>Requested By</th>
+          <th>Metrics</th>
+          <th>Purpose</th>
+          <th>Result Summary</th>
+        </tr>
+        <tr v-for="item in examData" :key="item.file">
+          <td>{{ item.file }}</td>
+          <td>{{ item.sample_date }}</td>
+          <td>{{ item.requested_by }}</td>
+          <td>{{ item.metrics.join(', ') }}</td>
+          <td>{{ item.purpose.join(', ') }}</td>
+          <td>{{ item.resultSummary.join('; ') }}</td>
+        </tr>
+      </table>
     </div>
 
     <script type="text/javascript">
@@ -22,7 +40,17 @@
         },
         data() {
           return {
-            vc: "tony"
+            vc: "tony",
+            examData: [],
+          }
+        },
+        async mounted() {
+          try {
+            const response = await fetch('./jsonout/exam.json');
+            const data = await response.json();
+            this.examData = data;
+          } catch (error) {
+            console.error('Error loading the data:', error);
           }
         }
       });
