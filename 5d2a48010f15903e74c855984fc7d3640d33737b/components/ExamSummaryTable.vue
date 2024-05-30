@@ -22,7 +22,7 @@
                         <td style="min-width: 62px;">{{ item.sample_date }}</td>
                         <td>{{ item.file }}</td>
                         <td>{{ item.requested_by }}</td>
-                        <td>{{ item.assessmentSummary.join(', ') }}</td>
+                        <td>{{ item.assessmentSummary.join(' / ') }}</td>
                         <td><a :href="'drive/Exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
                     </tr>
                 </tbody>
