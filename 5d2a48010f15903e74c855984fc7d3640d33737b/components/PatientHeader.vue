@@ -10,7 +10,6 @@
             </div>
             <img src="isaac.png" alt="Patient Photo" class="patient-photo">
         </div>
-        <p>Quick overview and detailed medical records access.</p>
     </header>
   </template>
   
