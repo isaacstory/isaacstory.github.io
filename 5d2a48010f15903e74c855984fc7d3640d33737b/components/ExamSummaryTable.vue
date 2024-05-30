@@ -1,7 +1,7 @@
 <template>
     <div>
         <section class="search-section">
-            <input type="text" id="searchInput" v-model="searchQuery" placeholder="Filter exams by date, doctor, or purpose...">
+            <input type="text" id="searchInput" v-model="searchQuery" placeholder="Filter by anything">
         </section>
 
         <section class="records">
@@ -23,7 +23,7 @@
                         <td>{{ item.file }}</td>
                         <td>{{ item.requested_by }}</td>
                         <td>{{ item.assessmentSummary.join(', ') }}</td>
-                        <td><a :href="'drive/exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
+                        <td><a :href="'drive/Exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
                     </tr>
                 </tbody>
             </table>
