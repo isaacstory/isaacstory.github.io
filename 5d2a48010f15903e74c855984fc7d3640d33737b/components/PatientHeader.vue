@@ -4,8 +4,8 @@
             <div class="text-content">
                 <h1>Patient Clinical History</h1>
                 <h2>Basic Information</h2>
-                <p><strong>Name:</strong> John Doe</p>
-                <p><strong>Date of Birth:</strong> 2004-05-23</p>
+                <p><strong>Name:</strong>Isaac França</p>
+                <p><strong>Date of Birth:</strong>2018-11-06</p>
                 <p><strong>Conditions:</strong> Autism Spectrum Disorder</p>
             </div>
             <img src="isaac.png" alt="Patient Photo" class="patient-photo">
