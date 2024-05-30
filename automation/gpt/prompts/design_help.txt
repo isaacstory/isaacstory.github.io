@@ -1,0 +1,16 @@
+I am a very experienced full stack developer.
+But I have very crippled abilities in design and CSS
+
+I have an autistic son, who has a long clinical history of exams and prescriptions.
+There are multiple doctors who help take care of him.
+Every time I procure a new doctor, or a new clinic, they need me to fill these very long forms to tell his life story all over again.
+
+I want to make a web page that makes it a breeze for any doctor to quickly grasp his clinical history, while at the same give them the ability to drill down into the detailed information.
+
+Right now, I have this json file that contains the information about his exams.
+Every record on that json is an exam file that was summarized / standardized by ChatGPT.
+
+Please make a web page that displays some basic information about the patient, a table with the exams, and an input to filter the table.
+I don't need help with javascript. Feel free to use some hard coded data from the json file.
+
+I just need help with the html and css to get started with something that is pleasant to use, and preferrably is also responsive.

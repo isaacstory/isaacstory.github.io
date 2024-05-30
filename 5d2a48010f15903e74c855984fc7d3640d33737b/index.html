@@ -5,50 +5,33 @@
   <head>
     <script src="https://unpkg.com/vue@2.7.16/dist/vue.js"></script>
     <script src="https://unpkg.com/http-vue-loader@1.4.2/src/httpVueLoader.js"></script>
+    <link rel="stylesheet" href="app.css">
   </head>
 
   <body>
-    <div id="app">
-      <h1>oi {{vc}}</h1>
-      <h2>tchau {{vc}}</h2>
-      <hello-world></hello-world>
-      <table border="1">
-        <tr>
-          <th>File</th>
-          <th>Sample Date</th>
-          <th>Requested By</th>
-          <th>Metrics</th>
-          <th>Purpose</th>
-          <th>Result Summary</th>
-        </tr>
-        <tr v-for="item in examData" :key="item.file">
-          <td>{{ item.file }}</td>
-          <td>{{ item.sample_date }}</td>
-          <td>{{ item.requested_by }}</td>
-          <td>{{ item.metrics.join(', ') }}</td>
-          <td>{{ item.purpose.join(', ') }}</td>
-          <td>{{ item.resultSummary.join('; ') }}</td>
-        </tr>
-      </table>
+    <div id="app" class="container">
+      <patient-header></patient-header>
+      <exam-summary-table :examdata="examdata"></exam-summary-table>
     </div>
 
     <script type="text/javascript">
       new Vue({
         el: '#app',
         components: {
-          'hello-world': httpVueLoader('./components/HelloWorld.vue')
+          'patient-header': httpVueLoader('./components/PatientHeader.vue'),
+          'exam-summary-table': httpVueLoader('./components/ExamSummaryTable.vue')
         },
         data() {
           return {
             vc: "tony",
-            examData: [],
+            examdata: [],
           }
         },
         async mounted() {
           try {
             const response = await fetch('./jsonout/exam.json');
             const data = await response.json();
-            this.examData = data;
+            this.examdata = data;
           } catch (error) {
             console.error('Error loading the data:', error);
           }
