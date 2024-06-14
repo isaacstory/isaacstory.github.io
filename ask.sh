@@ -1,0 +1,1 @@
+PYTHONPATH=. python -m automation.gpt.ask

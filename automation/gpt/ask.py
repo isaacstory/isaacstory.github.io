@@ -1,4 +1,4 @@
-from adapters import agents
+from automation.gpt.adapters import agents
 import dotenv
 import os
 import re

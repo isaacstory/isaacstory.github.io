@@ -10,6 +10,7 @@
                 <thead>
                     <tr>
                         <th>Date</th>
+                        <th>Material</th>
                         <th>Exam</th>
                         <th>Doctor</th>
                         <th>Summary</th>
@@ -20,7 +21,8 @@
                     <!-- Example Record -->
                     <tr v-for="item in filteredExams" :key="item.file">
                         <td style="min-width: 62px;">{{ item.sample_date }}</td>
-                        <td>{{ item.file }}</td>
+                        <td>{{ item.material }}</td>
+                        <td>{{ item.title }}</td>
                         <td>{{ item.requested_by }}</td>
                         <td>{{ item.assessmentSummary.join(' / ') }}</td>
                         <td><a :href="'drive/Exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
@@ -48,10 +50,11 @@
         filteredExams() {
             const q = this.searchQuery.toLowerCase()
             return this.examdata.filter(item => {
-                return item.sample_date.toLowerCase().includes(q) ||
-                       item.file.toLowerCase().includes(q) ||
-                       item.requested_by.toLowerCase().includes(q) ||
-                       item.assessmentSummary.join(', ').toLowerCase().includes(q);
+                return item?.sample_date?.toLowerCase().includes(q) ||
+                       item?.material?.toLowerCase().includes(q) ||
+                       item?.title?.toLowerCase().includes(q) ||
+                       item?.requested_by?.toLowerCase().includes(q) ||
+                       item?.assessmentSummary.join(', ').toLowerCase().includes(q);
             });
         }
     },
