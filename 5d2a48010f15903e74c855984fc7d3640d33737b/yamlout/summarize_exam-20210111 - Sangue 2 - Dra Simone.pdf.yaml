@@ -1,5 +1,5 @@
-title: "Blood exam"
-material: "blood"
+title: "Detection of C677T and A1298C variant in MTHFR gene"
+material: "DNA"
 sample_date: "2021-01-11"
 requested_by: "Dra Simone Pires"
 metrics:
@@ -8,7 +8,7 @@ metrics:
 purpose:
 - "To determine the presence of MTHFR gene variants C677T and A1298C"
 resultSummary:
-- "C677T variant: Absent"
+- "C variant: Absent"
 - "A1298C variant: Present in heterozygous form"
 abnormalValues:
 - "A1298C variant: Present in heterozygous form"
