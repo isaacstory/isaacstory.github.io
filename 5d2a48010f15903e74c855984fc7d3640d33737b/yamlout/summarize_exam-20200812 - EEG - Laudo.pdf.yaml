@@ -1,5 +1,7 @@
+title: "EEG"
+material: "brain waves"
 sample_date: "2020-08-12"
-requested_by: "Dr(a). Eda Cavalieri"
+requested_by: "Dra Simone Pires"
 metrics:
 - "Brain wave activity"
 purpose:

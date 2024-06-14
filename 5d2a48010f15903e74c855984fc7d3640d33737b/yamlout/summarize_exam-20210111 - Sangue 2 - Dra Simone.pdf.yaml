@@ -1,5 +1,7 @@
+title: "Blood exam"
+material: "blood"
 sample_date: "2021-01-11"
-requested_by: "Dr. Simone Pires"
+requested_by: "Dra Simone Pires"
 metrics:
 - "Detection of C677T variant in MTHFR gene"
 - "Detection of A1298C variant in MTHFR gene"

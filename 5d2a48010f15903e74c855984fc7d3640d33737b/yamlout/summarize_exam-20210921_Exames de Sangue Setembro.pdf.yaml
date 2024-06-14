@@ -1,5 +1,7 @@
+title: "Blood exam"
+material: "blood"
 sample_date: "2021-09-24"
-requested_by: "Dr. Simone Pires"
+requested_by: "Dra Simone Pires"
 metrics:
 - "Lipid profile"
 - "Liver enzymes"
