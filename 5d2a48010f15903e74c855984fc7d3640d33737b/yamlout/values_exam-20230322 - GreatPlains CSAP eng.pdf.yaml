@@ -1,0 +1,124 @@
+title: "Comprehensive Stool Analysis + Parasitology"
+requested_by: "Dr. Dane Fliedner"
+sample_date: "2023-03-22"
+results:
+- metric: "Klebsiella pneumoniae/variicola"
+  material: "stool"
+  result: 3+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Dysbiotic flora, requires medical attention"
+- metric: "Enterobacter cloacae complex"
+  material: "stool"
+  result: 3+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Dysbiotic flora, could be opportunistic pathogen"
+- metric: "Pseudomonas aeruginosa"
+  material: "stool"
+  result: 2+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Dysbiotic flora, can be pathogenic"
+- metric: "Staphylococcus aureus"
+  material: "stool"
+  result: 1+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Potential pathogen, needs monitoring"
+- metric: "Staphylococcus simulans"
+  material: "stool"
+  result: 1+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Potential pathogen, needs monitoring"
+- metric: "Streptococcus salivarius/vestibularis"
+  material: "stool"
+  result: 3+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Commensal (Imbalanced) flora"
+- metric: "Bacteroides family"
+  material: "stool"
+  result: 3+
+  result_unit: "None"
+  reference_range_min: 0
+  reference_range_max: 0
+  result_status: "Abnormal"
+  observations: "Imbalanced flora"
+- metric: "Bifidobacterium family"
+  material: "stool"
+  result: 1+
+  result_unit: "None"
+  reference_range_min: 2+
+  reference_range_max: 4+
+  result_status: "Low"
+  observations: "Lower than expected beneficial flora"
+- metric: "Escherichia coli"
+  material: "stool"
+  result: 4+
+  result_unit: "None"
+  reference_range_min: 2+
+  reference_range_max: 4+
+  result_status: "Normal"
+  observations: "Healthy level of beneficial flora"
+- metric: "Lactobacillus family"
+  material: "stool"
+  result: 1+
+  result_unit: "None"
+  reference_range_min: 2+
+  reference_range_max: 4+
+  result_status: "Low"
+  observations: "Lower than expected beneficial flora"
+- metric: "Enterococcus family"
+  material: "stool"
+  result: 2+
+  result_unit: "None"
+  reference_range_min: 2+
+  reference_range_max: 4+
+  result_status: "Normal"
+  observations: "Healthy level of beneficial flora"
+- metric: "Clostridium family"
+  material: "stool"
+  result: 3+
+  result_unit: "None"
+  reference_range_min: 2+
+  reference_range_max: 4+
+  result_status: "Normal"
+  observations: "Healthy level of beneficial flora"
+- metric: "Adenovirus F40/41"
+  material: "stool"
+  result: "Negative"
+  result_unit: "None"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "No Adenovirus detected"
+- metric: "Norovirus GI/GII"
+  material: "stool"
+  result: "Negative"
+  result_unit: "None"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "No Norovirus detected"
+- metric: "Rotavirus A"
+  material: "stool"
+  result: "Negative"
+  result_unit: "None"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "No Rotavirus detected"

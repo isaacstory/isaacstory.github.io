@@ -1,0 +1,113 @@
+title: "Clinical Chemistry and Immunology Results"
+requested_by: "Dr. Cristiane Borges Barra Moura"
+sample_date: "2023-01-31"
+results:
+- metric: "Urea"
+  material: "Serum"
+  result: 45.1
+  result_unit: "mg/dL"
+  reference_range_min: 19.2
+  reference_range_max: 47.5
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Creatinine"
+  material: "Serum"
+  result: 0.37
+  result_unit: "mg/dL"
+  reference_range_min: 0.18
+  reference_range_max: 0.49
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IGF-1 (Somatomedin C)"
+  material: "Serum"
+  result: 98.4
+  result_unit: "ng/mL"
+  reference_range_min: 22
+  reference_range_max: 208
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Anti-Endomysial Antibody IgA"
+  material: "Serum"
+  result: "Non-Reactive"
+  result_unit: "N/A"
+  reference_range_min: "Non-Reactive"
+  reference_range_max: "Non-Reactive"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Immunoglobulin A"
+  material: "Serum"
+  result: 141.8
+  result_unit: "mg/dL"
+  reference_range_min: 40.0
+  reference_range_max: 350.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Ultra-Sensitive TSH"
+  material: "Serum"
+  result: 2.72
+  result_unit: "µUI/mL"
+  reference_range_min: 0.40
+  reference_range_max: 5.20
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Calcium in Urine (Isolated Sample)"
+  material: "Urine"
+  result: 17.00
+  result_unit: "mg/L"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Indeterminate"
+  observations: "No reference values established. Varies with diet and medication."
+- metric: "Creatinine in Urine"
+  material: "Urine"
+  result: 0.40
+  result_unit: "g/L"
+  reference_range_min: 0.24
+  reference_range_max: 3.92
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Venous Blood Gas"
+  material: "Heparinized Blood"
+  result: 
+    pH: 7.23
+    pCO2: 55.0
+    HCO3: 23.0
+    Base Excess: -5.2
+    pO2: 25.0
+    O2 Saturation: 33.0%
+    CO2 Content: 24.7
+  result_unit: "Various"
+  reference_range_min: 
+    pH: 7.32
+    pCO2: 38.0
+    HCO3: 22.0
+    Base Excess: -3.0
+    pO2: 20.0
+    O2 Saturation: 55.0%
+    CO2 Content: 22.0
+  reference_range_max: 
+    pH: 7.42
+    pCO2: 50.0
+    HCO3: 29.0
+    Base Excess: 3.0
+    pO2: 50.0
+    O2 Saturation: 75.0%
+    CO2 Content: 26.0
+  result_status: "Abnormal"
+  observations: "pH, pCO2, Base excess, and O2 Saturation are abnormal."
+- metric: "Blood Glucose"
+  material: "Serum"
+  result: 83
+  result_unit: "mg/dL"
+  reference_range_min: 70
+  reference_range_max: 99
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Alkaline Phosphatase"
+  material: "Serum"
+  result: 213
+  result_unit: "U/L"
+  reference_range_min: 163
+  reference_range_max: 427
+  result_status: "Normal"
+  observations: "Normal"

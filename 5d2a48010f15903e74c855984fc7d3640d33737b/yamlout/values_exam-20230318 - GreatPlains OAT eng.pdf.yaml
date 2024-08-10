@@ -1,0 +1,60 @@
+title: "Organic Acids Test - Nutritional and Metabolic Profile"
+requested_by: "Dane Fliedner"
+sample_date: "2023-03-18"
+results:
+- metric: "Vanillylmandelic Acid (VMA)"
+  material: "urine"
+  result: 1.9
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: 0.72
+  reference_range_max: 6.4
+  result_status: "Normal"
+  observations: "Normal level for this neurotransmitter metabolite"
+- metric: "Homovanillic Acid (HVA)"
+  material: "urine"
+  result: 4.9
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: 0.49
+  reference_range_max: 13
+  result_status: "Normal"
+  observations: "Normal level for this dopamine metabolite"
+- metric: "N-Acetylaspartic Acid"
+  material: "urine"
+  result: 28
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: 38
+  reference_range_max: None
+  result_status: "Low"
+  observations: "May indicate a deficiency in this metabolite"
+- metric: "5-Hydroxyindoleacetic Acid (5-HIAA)"
+  material: "urine"
+  result: 11
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: Unknown
+  reference_range_max: 38
+  result_status: "Normal"
+  observations: "Normal level for this serotonin metabolite"
+- metric: "Quinolinic Acid"
+  material: "urine"
+  result: 6.3
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: 0.48
+  reference_range_max: 8.8
+  result_status: "Normal"
+  observations: "Normal level for this metabolite"
+- metric: "Oxalic Acid"
+  material: "urine"
+  result: 181
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: 35
+  reference_range_max: 185
+  result_status: "Normal"
+  observations: "Normal level indicating normal oxalate metabolism"
+- metric: "Phosphoric Acid"
+  material: "urine"
+  result: 2381
+  result_unit: "mg/dL"
+  reference_range_min: 1000
+  reference_range_max: 7300
+  result_status: "Normal"
+  observations: "Normal level for mineral metabolism"

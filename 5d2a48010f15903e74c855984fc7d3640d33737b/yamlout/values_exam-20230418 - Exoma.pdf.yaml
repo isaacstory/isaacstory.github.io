@@ -1,0 +1,12 @@
+title: "Genetic Analysis of Whole Exome Sequencing"
+requested_by: "Dr. Rogério Rodrigues Rita"
+sample_date: "2023-04-18"
+results:
+- metric: "MED13 Variant"
+  material: "saliva"
+  result: "p.D289V"
+  result_unit: "N/A"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Unknown"
+  observations: "The genetic variant p.D289V in gene MED13 is of clinical significance unknown (VUS) and is associated with neurodevelopmental disorders. Further investigation is suggested for genetic counseling."

@@ -1,0 +1,68 @@
+title: "Laboratory Test Results"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+sample_date: "2023-09-14"
+results:
+- metric: "Hemoglobin"
+  material: "blood"
+  result: 13.3
+  result_unit: "g/dL"
+  reference_range_min: 11.5
+  reference_range_max: 13.5
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Hematocrit"
+  material: "blood"
+  result: 39.2
+  result_unit: "%"
+  reference_range_min: 34.0
+  reference_range_max: 40.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Neutrophils"
+  material: "blood"
+  result: 2436
+  result_unit: "/µL"
+  reference_range_min: 1500
+  reference_range_max: 8000
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Transaminase aspartate (TGO)"
+  material: "serum"
+  result: 37
+  result_unit: "U/L"
+  reference_range_min: "N/A"
+  reference_range_max: 34
+  result_status: "High"
+  observations: "Above reference range"
+- metric: "Gamma-Glutamyl Transferase"
+  material: "serum"
+  result: 14.1
+  result_unit: "U/L"
+  reference_range_min: 9
+  reference_range_max: 18
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Ferritin"
+  material: "serum"
+  result: 35.2
+  result_unit: "ng/mL"
+  reference_range_min: 7
+  reference_range_max: 140
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "25 OH Vitamin D"
+  material: "serum"
+  result: 31.9
+  result_unit: "ng/mL"
+  reference_range_min: 20
+  reference_range_max: 60
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Triglycerides"
+  material: "serum"
+  result: 57
+  result_unit: "mg/dL"
+  reference_range_min: "N/A"
+  reference_range_max: 85
+  result_status: "Normal"
+  observations: "Normal"

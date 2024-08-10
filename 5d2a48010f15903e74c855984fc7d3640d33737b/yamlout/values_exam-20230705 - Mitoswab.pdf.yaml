@@ -1,0 +1,52 @@
+title: "MITOswab Test Results"
+requested_by: "Dr. Mary Burch"
+sample_date: "2023-08-01"
+results:
+- metric: "Total Buccal Protein yield"
+  material: "buccal cells"
+  result: 703
+  result_unit: "micrograms"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "N/A"
+  observations: "N/A"
+- metric: "Citrate Synthase"
+  material: "buccal cells"
+  result: 29.24
+  result_unit: "nanomoles/min/mg buccal protein"
+  reference_range_min: 4.4
+  reference_range_max: 22
+  result_status: "Abnormal"
+  observations: "The overall content of mitochondria was significantly above the normal range as indicated by the citrate synthase activity value (242% of the normal mean activity level) in test buccal sample."
+- metric: "RC-I (RC-I/CS)"
+  material: "buccal cells"
+  result: 3.6
+  result_unit: "ratio"
+  reference_range_min: 3.4
+  reference_range_max: 11.9
+  result_status: "Normal"
+  observations: "The activity of Respiratory Chain Complex-I (54% of the normal mean value) was in the normal range."
+- metric: "RC-IV (RC-IV/CS)"
+  material: "buccal cells"
+  result: 0.14
+  result_unit: "ratio"
+  reference_range_min: 0.15
+  reference_range_max: 0.6
+  result_status: "Low"
+  observations: "The activity of Respiratory Chain Complex-IV (45% of the normal mean value) was below the normal range."
+- metric: "RC-II (activity/CS)"
+  material: "buccal cells"
+  result: 0.121
+  result_unit: "ratio"
+  reference_range_min: 0.03
+  reference_range_max: 0.35
+  result_status: "Normal"
+  observations: "The RC-II activity was in the normal range."
+- metric: "RC-II+III (activity/CS)"
+  material: "buccal cells"
+  result: 0.018
+  result_unit: "ratio"
+  reference_range_min: 0.032
+  reference_range_max: 0.152
+  result_status: "Low"
+  observations: "The RC-II+III activity was below the normal range."

@@ -1,0 +1,120 @@
+title: "Gastrointestinal Investigation - CoproMax"
+requested_by: "Dr. Lucio Lemos"
+sample_date: "2024-04-13"
+results:
+- metric: "Sais Biliares Fecais"
+  material: "stool"
+  result: 1.15
+  result_unit: "µmol/g"
+  reference_range_min: 0.78
+  reference_range_max: 6.54
+  result_status: "Normal"
+  observations: "N/A"
+  
+- metric: "Dosagem de Ácidos Orgânicos Totais"
+  material: "stool"
+  result: 21.2
+  result_unit: "mmol"
+  reference_range_min: 14.0
+  reference_range_max: 16.0
+  result_status: "High"
+  observations: "N/A"
+
+- metric: "Dosagem de Ácidos Aminados e Amoníaco"
+  material: "stool"
+  result: 2.6
+  result_unit: "mmol"
+  reference_range_min: 2.0
+  reference_range_max: 4.0
+  result_status: "Normal"
+  observations: "N/A"
+
+- metric: "Alfa 1 Antitripsina Fecal"
+  material: "stool"
+  result: 6
+  result_unit: "mg/dL"
+  reference_range_min: "N/A"
+  reference_range_max: 27.0
+  result_status: "Normal"
+  observations: "N/A"
+
+- metric: "Sangue Oculto Quantitativo"
+  material: "stool"
+  result: 20
+  result_unit: "ng/mL"
+  reference_range_min: "N/A"
+  reference_range_max: 100
+  result_status: "Normal"
+  observations: "Negative"
+
+- metric: "Substâncias Redutoras Fecais"
+  material: "stool"
+  result: "Negative"
+  result_unit: "N/A"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Normal"
+  observations: "N/A"
+
+- metric: "Bilirrubina Fecal"
+  material: "stool"
+  result: "Positive"
+  result_unit: "N/A"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Abnormal"
+  observations: "N/A"
+
+- metric: "Histamina Fecal"
+  material: "stool"
+  result: 770
+  result_unit: "pg/mL"
+  reference_range_min: 15
+  reference_range_max: 297
+  result_status: "High"
+  observations: "N/A"
+
+- metric: "Calprotectina Fecal"
+  material: "stool"
+  result: 25
+  result_unit: "mcg/g"
+  reference_range_min: "N/A"
+  reference_range_max: 50
+  result_status: "Normal"
+  observations: "N/A"
+  
+- metric: "Lactoferrina Fecal"
+  material: "stool"
+  result: 464
+  result_unit: "ng/mL"
+  reference_range_min: "N/A"
+  reference_range_max: 7200
+  result_status: "Normal"
+  observations: "N/A"
+  
+- metric: "IgA Secretora Fecal"
+  material: "stool"
+  result: 108
+  result_unit: "mg/dL"
+  reference_range_min: 51
+  reference_range_max: 204
+  result_status: "Normal"
+  observations: "N/A"
+
+- metric: "Zonulina Fecal"
+  material: "stool"
+  result: 492
+  result_unit: "ng/g"
+  reference_range_min: "N/A"
+  reference_range_max: 500
+  result_status: "Normal"
+  observations: "N/A"
+
+- metric: "Melatonina Fecal"
+  material: "stool"
+  result: 15
+  result_unit: "pg/mL"
+  reference_range_min: "N/A"
+  reference_range_max: 297
+  result_status: "Normal"
+  observations: "N/A"

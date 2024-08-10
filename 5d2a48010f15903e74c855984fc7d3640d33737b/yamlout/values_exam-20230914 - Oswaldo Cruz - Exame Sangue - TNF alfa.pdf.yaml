@@ -1,0 +1,12 @@
+title: "Tumor Necrosis Factor Alpha Test"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+sample_date: "2023-09-14"
+results:
+- metric: "Tumor Necrosis Factor Alpha"
+  material: "Serum"
+  result: 13.40
+  result_unit: "pg/mL"
+  reference_range_min: 0.0
+  reference_range_max: 8.1
+  result_status: "High"
+  observations: "Above the reference range"

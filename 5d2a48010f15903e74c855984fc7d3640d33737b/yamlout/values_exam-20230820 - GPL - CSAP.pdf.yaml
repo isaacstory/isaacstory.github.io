@@ -1,0 +1,140 @@
+title: "Comprehensive Stool Analysis + Parasitology"
+requested_by: "Dane Fliedner"
+sample_date: "2023-08-20"
+results:
+- metric: "Elastase"
+  material: "stool"
+  result: 335
+  result_unit: "µg/g"
+  reference_range_min: 200
+  reference_range_max: "N/A"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Fat Stain"
+  material: "stool"
+  result: "Not Detected"
+  result_unit: "None"
+  reference_range_min: "None"
+  reference_range_max: "Moderate"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Carbohydrates"
+  material: "stool"
+  result: "Negative"
+  result_unit: "Negative"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Lactoferrin"
+  material: "stool"
+  result: 2.0
+  result_unit: "µg/mL"
+  reference_range_min: "N/A"
+  reference_range_max: 7.3
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Calprotectin"
+  material: "stool"
+  result: "<10"
+  result_unit: "µg/g"
+  reference_range_min: "N/A"
+  reference_range_max: 80
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Lysozyme"
+  material: "stool"
+  result: 800
+  result_unit: "ng/mL"
+  reference_range_min: "N/A"
+  reference_range_max: 500
+  result_status: "High"
+  observations: "Elevated level indicates inflammatory immune response in the gut"
+- metric: "Secretory IgA"
+  material: "stool"
+  result: 51.8
+  result_unit: "mg/dL"
+  reference_range_min: 30
+  reference_range_max: 275
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "% Acetate"
+  material: "stool"
+  result: 63
+  result_unit: "%"
+  reference_range_min: 50
+  reference_range_max: 72
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "% Propionate"
+  material: "stool"
+  result: 15
+  result_unit: "%"
+  reference_range_min: 11
+  reference_range_max: 25
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "% Butyrate"
+  material: "stool"
+  result: 18
+  result_unit: "%"
+  reference_range_min: 11
+  reference_range_max: 32
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "% Valerate"
+  material: "stool"
+  result: 3.2
+  result_unit: "%"
+  reference_range_min: 0.8
+  reference_range_max: 5.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Butyrate"
+  material: "stool"
+  result: 2.1
+  result_unit: "mg/mL"
+  reference_range_min: 0.8
+  reference_range_max: 4.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Total SCFA's"
+  material: "stool"
+  result: 12
+  result_unit: "mg/mL"
+  reference_range_min: 5.0
+  reference_range_max: 16.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "pH"
+  material: "stool"
+  result: 5.5
+  result_unit: "N/A"
+  reference_range_min: 5.8
+  reference_range_max: 7.0
+  result_status: "Low"
+  observations: "Acidic pH, further investigation suggested"
+- metric: "Occult Blood"
+  material: "stool"
+  result: "Negative"
+  result_unit: "Negative"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Color"
+  material: "stool"
+  result: "Brown"
+  result_unit: "Brown"
+  reference_range_min: "Brown"
+  reference_range_max: "Brown"
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Consistency"
+  material: "stool"
+  result: "Soft"
+  result_unit: "Soft"
+  reference_range_min: "Soft"
+  reference_range_max: "Soft"
+  result_status: "Normal"
+  observations: "Normal"

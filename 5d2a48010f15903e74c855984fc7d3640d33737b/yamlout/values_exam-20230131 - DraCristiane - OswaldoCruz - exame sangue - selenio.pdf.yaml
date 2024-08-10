@@ -1,0 +1,12 @@
+title: "Selenium Serum Level"
+requested_by: "Dr. Cristiane Borges Barra Moura"
+sample_date: "2023-01-31"
+results:
+- metric: "Selenium"
+  material: "Serum"
+  result: 116
+  result_unit: "µg/L"
+  reference_range_min: 20
+  reference_range_max: 190
+  result_status: "Normal"
+  observations: "Normal"
