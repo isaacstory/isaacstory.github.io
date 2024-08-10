@@ -1,0 +1,12 @@
+title: "Yeast Detection"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-08-05"
+results:
+- metric: "Yeast Presence"
+  material: "feces"
+  result: "Present"
+  result_unit: "N/A"
+  reference_range_min: "Absent"
+  reference_range_max: "Absent"
+  result_status: "Abnormal"
+  observations: "Direct exam revealed presence of yeast."

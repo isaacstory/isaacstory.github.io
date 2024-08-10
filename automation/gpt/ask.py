@@ -13,7 +13,8 @@ dirout = f"{_thisdir}/../../{hash}/yamlout"
 def main():
     for ef in examfiles:
         try:
-            ask_and_save("summarizer", "summarize_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
+            # ask_and_save("summarizer", "summarize_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
+            ask_and_save("summarizer", "values_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
             print(f"Processed {ef}")
         except Exception as e:
             print(f"Error processing {ef}: {e}")

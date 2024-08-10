@@ -1,0 +1,12 @@
+title: "Clostridium Difficile Toxin A and B Test"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-08-10"
+results:
+- metric: "Clostridium Difficile Toxin A and B"
+  material: "stool"
+  result: "Negative"
+  result_unit: "N/A"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "The A/B toxin test by immunoassays has low sensitivity (around 50%). If suspicion of C. difficile infection persists, consider testing the toxin by polymerase chain reaction (PCR) method, which has high sensitivity (>90%) and specificity (100%)."

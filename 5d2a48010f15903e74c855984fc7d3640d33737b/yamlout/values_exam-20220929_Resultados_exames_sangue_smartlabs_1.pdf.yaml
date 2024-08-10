@@ -1,0 +1,108 @@
+title: "Comprehensive Blood Analysis"
+requested_by: "Paola Cassia Ferreira Di Napoli"
+sample_date: "2022-09-29"
+results:
+- metric: "Creatinine"
+  material: "Serum"
+  result: 0.72
+  result_unit: "mg/dL"
+  reference_range_min: 0.40
+  reference_range_max: 0.90
+  result_status: "Normal"
+  observations: "Normal for age group 1 to 18 years"
+- metric: "Urea"
+  material: "Serum"
+  result: 20.3
+  result_unit: "mg/dL"
+  reference_range_min: 10.0
+  reference_range_max: 50.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Uric Acid"
+  material: "Serum"
+  result: 4.1
+  result_unit: "mg/dL"
+  reference_range_min: 3.6
+  reference_range_max: 7.7
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Folic Acid"
+  material: "Serum"
+  result: 10.95
+  result_unit: "ng/mL"
+  reference_range_min: 3.37
+  reference_range_max: 20.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Phosphorus"
+  material: "Serum"
+  result: 2.5
+  result_unit: "mg/dL"
+  reference_range_min: 4.0
+  reference_range_max: 7.0
+  result_status: "Low"
+  observations: "Below normal range for children"
+- metric: "LDL Cholesterol"
+  material: "Serum"
+  result: 149.0
+  result_unit: "mg/dL"
+  reference_range_min: 0.0
+  reference_range_max: 110.0
+  result_status: "High"
+  observations: "Above normal range"
+- metric: "HDL Cholesterol"
+  material: "Serum"
+  result: "Data not provided"
+  result_unit: "mg/dL"
+  reference_range_min: "Unknown"
+  reference_range_max: "Unknown"
+  result_status: "Unknown"
+  observations: "Data not provided"
+- metric: "Triglycerides"
+  material: "Serum"
+  result: 73.0
+  result_unit: "mg/dL"
+  reference_range_min: 0.0
+  reference_range_max: 75.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Glycated Hemoglobin (A1C)"
+  material: "Blood"
+  result: 5.4
+  result_unit: "%"
+  reference_range_min: 0.0
+  reference_range_max: 5.7
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Glucose"
+  material: "Plasma"
+  result: 90.6
+  result_unit: "mg/dL"
+  reference_range_min: 70.0
+  reference_range_max: 99.0
+  result_status: "Normal"
+  observations: "Normal with fasting"
+- metric: "Vitamin B12"
+  material: "Serum"
+  result: 307.0
+  result_unit: "pg/mL"
+  reference_range_min: 210.0
+  reference_range_max: 980.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Ferritin"
+  material: "Serum"
+  result: 64.0
+  result_unit: "ng/mL"
+  reference_range_min: 22.0
+  reference_range_max: 322.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Calcium"
+  material: "Serum"
+  result: 9.2
+  result_unit: "mg/dL"
+  reference_range_min: 8.4
+  reference_range_max: 10.2
+  result_status: "Normal"
+  observations: "Normal"

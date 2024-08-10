@@ -1,0 +1,20 @@
+title: "Allergy Test IgG - Yeasts (2)"
+requested_by: "Simone Pires"
+sample_date: "2021-01-09"
+results:
+- metric: "Candida Albicans"
+  material: "blood"
+  result: 4.62
+  result_unit: "N/A"
+  reference_range_min: 0
+  reference_range_max: 3.49
+  result_status: "Moderate"
+  observations: "Elevated levels indicate immune system contact with Candida. May result from antibiotic use, contraceptives, chemotherapy, or anti-inflammatory steroids. Consider dietary improvements or antifungal therapy."
+- metric: "Yeast"
+  material: "blood"
+  result: 1.33
+  result_unit: "N/A"
+  reference_range_min: 0
+  reference_range_max: 3.49
+  result_status: "Not significant"
+  observations: "No significant immune response detected."

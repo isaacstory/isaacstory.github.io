@@ -1,0 +1,36 @@
+title: "Clinical Laboratory Report"
+requested_by: "Exames Funcionais"
+sample_date: "N/A"
+results:
+- metric: "Hemoglobin"
+  material: "blood"
+  result: 13.5
+  result_unit: "g/dL"
+  reference_range_min: 13.0
+  reference_range_max: 17.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Hematocrit"
+  material: "blood"
+  result: 40.0
+  result_unit: "%"
+  reference_range_min: 36.0
+  reference_range_max: 50.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Leukocytes"
+  material: "blood"
+  result: 7000
+  result_unit: "cells/mcL"
+  reference_range_min: 4500
+  reference_range_max: 11000
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Platelets"
+  material: "blood"
+  result: 250000
+  result_unit: "cells/mcL"
+  reference_range_min: 150000
+  reference_range_max: 450000
+  result_status: "Normal"
+  observations: "Normal"

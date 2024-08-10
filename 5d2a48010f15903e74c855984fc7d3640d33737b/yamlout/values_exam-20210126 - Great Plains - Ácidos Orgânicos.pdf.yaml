@@ -1,0 +1,140 @@
+title: "Organic Acid Test - Nutritional and Metabolic Profile"
+requested_by: "Simone Pires"
+sample_date: "2021-01-17"
+results:
+- metric: "Citramalic Acid"
+  material: "urine"
+  result: 1.7
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 5.0
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "5-Hydroxymethyl-2-furancarboxylic Acid"
+  material: "urine"
+  result: 44
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 28
+  result_status: "High"
+  observations: "Elevated levels associated with Aspergillus"
+- metric: "3-Oxoglutaric Acid"
+  material: "urine"
+  result: 0.62
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 0.46
+  result_status: "High"
+  observations: "Elevated levels"
+- metric: "Furancarbonylglycine"
+  material: "urine"
+  result: 0.21
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 3.1
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "Tartaric Acid"
+  material: "urine"
+  result: 87
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 6.5
+  result_status: "High"
+  observations: "Elevated levels associated with Aspergillus"
+- metric: "Arabinose"
+  material: "urine"
+  result: 136
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 50
+  result_status: "High"
+  observations: "Elevated levels"
+- metric: "Carboxycitric Acid"
+  material: "urine"
+  result: 63
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 25
+  result_status: "High"
+  observations: "Elevated levels"
+- metric: "Tricarballylic Acid"
+  material: "urine"
+  result: 0.43
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 1.3
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "Hippuric Acid"
+  material: "urine"
+  result: 115
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 680
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "2-Hydroxyphenylacetic Acid"
+  material: "urine"
+  result: 0.51
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 0.86
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "4-Hydroxybenzoic Acid"
+  material: "urine"
+  result: 2.9
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 3.0
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "4-Hydroxyhippuric Acid"
+  material: "urine"
+  result: 7.0
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 30
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "DHPPA"
+  material: "urine"
+  result: 0.11
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 0.59
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "4-Hydroxyphenylacetic Acid (Clostridium)"
+  material: "urine"
+  result: 19
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 322
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "HPHPA"
+  material: "urine"
+  result: 18
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 220
+  result_status: "Normal"
+  observations: "Within normal range"
+- metric: "4-Cresol"
+  material: "urine"
+  result: 142
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 84
+  result_status: "High"
+  observations: "Elevated levels indicate potential Clostridium difficile presence"
+- metric: "3-Indoleacetic Acid"
+  material: "urine"
+  result: 4.1
+  result_unit: "mmol/mol of creatinine"
+  reference_range_min: 0
+  reference_range_max: 140.60
+  result_status: "Normal"
+  observations: "Within normal range"

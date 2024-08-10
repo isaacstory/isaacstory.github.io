@@ -1,0 +1,44 @@
+title: "Blood Test Results"
+requested_by: "Rogério Rodrigues Rita"
+sample_date: "2022-09-29"
+results:
+- metric: "Ceruloplasmin"
+  material: "Serum"
+  result: 25.6
+  result_unit: "mg/dL"
+  reference_range_min: 30.0
+  reference_range_max: 70.0
+  result_status: "Low"
+  observations: "For children aged 1 to 9 years."
+- metric: "IgE"
+  material: "Serum"
+  result: 68.8
+  result_unit: "KU/L"
+  reference_range_min: 0.0
+  reference_range_max: 52.0
+  result_status: "High"
+  observations: "For children aged 3 to 9 years."
+- metric: "Serum Iron"
+  material: "Serum"
+  result: 76.4
+  result_unit: "µg/dL"
+  reference_range_min: 40.0
+  reference_range_max: 180.0
+  result_status: "Normal"
+  observations: "N/A"
+- metric: "Total Iron Binding Capacity (TIBC)"
+  material: "Serum"
+  result: 307
+  result_unit: "µg/dL"
+  reference_range_min: 250
+  reference_range_max: 425
+  result_status: "Normal"
+  observations: "N/A"
+- metric: "Transferrin Saturation"
+  material: "Serum"
+  result: 24.9
+  result_unit: "%"
+  reference_range_min: 20
+  reference_range_max: 50
+  result_status: "Normal"
+  observations: "N/A"

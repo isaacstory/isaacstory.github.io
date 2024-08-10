@@ -1,0 +1,172 @@
+title: "Comprehensive Laboratory Exam"
+requested_by: "Dr. Eda Cavalieri de Paula"
+sample_date: "2020-08-10"
+results:
+- metric: "pH"
+  material: "blood"
+  result: 7.34
+  result_unit: ""
+  reference_range_min: 7.32
+  reference_range_max: 7.42
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "pCO2"
+  material: "blood"
+  result: 47
+  result_unit: "mmHg"
+  reference_range_min: 38
+  reference_range_max: 50
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "HCO3"
+  material: "blood"
+  result: 25.4
+  result_unit: "mmol/L"
+  reference_range_min: 22
+  reference_range_max: 29
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Base Excess"
+  material: "blood"
+  result: -0.9
+  result_unit: ""
+  reference_range_min: -3
+  reference_range_max: 3
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "pO2"
+  material: "blood"
+  result: 25
+  result_unit: "mmHg"
+  reference_range_min: 20
+  reference_range_max: 50
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "O2 Saturation"
+  material: "blood"
+  result: 41
+  result_unit: "%"
+  reference_range_min: 55
+  reference_range_max: 75
+  result_status: "Low"
+  observations: "Low"
+- metric: "CO2 Content"
+  material: "blood"
+  result: 26.8
+  result_unit: "mmol/L"
+  reference_range_min: 22
+  reference_range_max: 26
+  result_status: "High"
+  observations: "High"
+- metric: "Lactic Acid"
+  material: "plasma"
+  result: 16.7
+  result_unit: "mg/dL"
+  reference_range_min: 4.5
+  reference_range_max: 19.8
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Urea"
+  material: "serum"
+  result: 28
+  result_unit: "mg/dL"
+  reference_range_min: 17
+  reference_range_max: 49
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Creatinine"
+  material: "serum"
+  result: 0.23
+  result_unit: "mg/dL"
+  reference_range_min: 0.24
+  reference_range_max: 0.41
+  result_status: "Low"
+  observations: "Low"
+- metric: "Triglycerides"
+  material: "serum"
+  result: 71
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 75
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Total Cholesterol"
+  material: "serum"
+  result: 184
+  result_unit: "mg/dL"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "N/A"
+  observations: "No reference values for age group"
+- metric: "HDL Cholesterol"
+  material: "serum"
+  result: 46
+  result_unit: "mg/dL"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "N/A"
+  observations: "No reference values for age group"
+- metric: "LDL Cholesterol"
+  material: "serum"
+  result: 121
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 110
+  result_status: "High"
+  observations: "High"
+- metric: "VLDL Cholesterol"
+  material: "serum"
+  result: 17
+  result_unit: "mg/dL"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "N/A"
+  observations: "No reference values established"
+- metric: "Total Lipids"
+  material: "serum"
+  result: 541.6
+  result_unit: "mg/dL"
+  reference_range_min: 400
+  reference_range_max: 1000
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Magnesium"
+  material: "serum"
+  result: 2.3
+  result_unit: "mg/dL"
+  reference_range_min: 1.7
+  reference_range_max: 2.3
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Sodium"
+  material: "serum"
+  result: 141
+  result_unit: "mEq/L"
+  reference_range_min: 136
+  reference_range_max: 145
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Calcium"
+  material: "serum"
+  result: 10.7
+  result_unit: "mg/dL"
+  reference_range_min: 9
+  reference_range_max: 11
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Potassium"
+  material: "serum"
+  result: 5.4
+  result_unit: "mEq/L"
+  reference_range_min: 3.3
+  reference_range_max: 4.6
+  result_status: "High"
+  observations: "High"
+- metric: "Hemoglobin"
+  material: "blood"
+  result: 13.6
+  result_unit: "g/dL"
+  reference_range_min: 10.5
+  reference_range_max: 13.5
+  result_status: "High"
+  observations: "High"

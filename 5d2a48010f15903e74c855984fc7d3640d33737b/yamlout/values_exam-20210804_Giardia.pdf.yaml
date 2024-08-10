@@ -1,0 +1,12 @@
+title: "Giardia lamblia Antigen Test"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-08-04"
+results:
+- metric: "Giardia lamblia Antigen"
+  material: "stool"
+  result: "Negative"
+  result_unit: "N/A"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "None"

@@ -1,0 +1,84 @@
+title: "Immunophenotyping and Serology Exam"
+requested_by: "Dr. Gustavo Aguiar Campana"
+sample_date: "2021-01-09"
+results:
+- metric: "CD4% (Linfócitos T auxiliary - CD4+)"
+  material: "blood"
+  result: 43.2
+  result_unit: "%"
+  reference_range_min: 27.7
+  reference_range_max: 46.3
+  result_status: "Normal"
+  observations: "Specifies T-helper lymphocytes (Pan T)"
+- metric: "CD4 Absolute"
+  material: "blood"
+  result: 1889.4
+  result_unit: "/mm3"
+  reference_range_min: 786.2
+  reference_range_max: 2085.5
+  result_status: "Normal"
+  observations: "Provides absolute value of CD4 directly from flow cytometry"
+- metric: "CD8% (Linfócitos T cytotoxic - CD8+)"
+  material: "blood"
+  result: 15.2
+  result_unit: "%"
+  reference_range_min: 15.7
+  reference_range_max: 33.8
+  result_status: "Low"
+  observations: "Specifies cytotoxic T lymphocytes (Pan T)"
+- metric: "CD8 Absolute"
+  material: "blood"
+  result: 664
+  result_unit: "/mm3"
+  reference_range_min: 452
+  reference_range_max: 1701
+  result_status: "Normal"
+  observations: "Provides absolute value of CD8 directly from flow cytometry"
+- metric: "CD3% (Lymphocytes T - CD3+)"
+  material: "blood"
+  result: 61.7
+  result_unit: "%"
+  reference_range_min: 57.1
+  reference_range_max: 72.7
+  result_status: "Normal"
+  observations: "Specifies overall T-lymphocytes (Pan T)"
+- metric: "CD3 Absolute"
+  material: "blood"
+  result: 2697
+  result_unit: "/mm3"
+  reference_range_min: 1498
+  reference_range_max: 3816
+  result_status: "Normal"
+  observations: "Provides absolute value of CD3 directly from flow cytometry"
+- metric: "Sarampo IgG"
+  material: "serum"
+  result: ">300"
+  result_unit: "U/mL"
+  reference_range_min: 13.5
+  reference_range_max: 16.5
+  result_status: "Reagente"
+  observations: "Indicates seropositivity for Measles IgG antibodies"
+- metric: "Paget's Disease"
+  material: "serum"
+  result: "Not detected"
+  result_unit: "genotype"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Normal"
+  observations: "Typically used for screening Paget’s disease of bone but no detection was noted"
+- metric: "Lymphocytes CD56+CD16+% (CD56+CD16+ Lymphocytes)"
+  material: "blood"
+  result: 11.2
+  result_unit: "%"
+  reference_range_min: 7.8
+  reference_range_max: 16.1
+  result_status: "Normal"
+  observations: "Specifies Natural Killer cells containing CD56 and CD16 markers"
+- metric: "Serotonin"
+  material: "serum"
+  result: 487.2
+  result_unit: "ng/mL"
+  reference_range_min: 30.0
+  reference_range_max: 200.0
+  result_status: "High"
+  observations: "Serotonin levels are significantly elevated beyond normal reference range"

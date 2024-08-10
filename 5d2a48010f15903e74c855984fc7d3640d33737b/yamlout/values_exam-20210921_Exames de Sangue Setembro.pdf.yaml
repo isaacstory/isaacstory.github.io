@@ -1,0 +1,148 @@
+title: "Exam Summary"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-09-24"
+results:
+- metric: "Alanine Aminotransferase (TGP)"
+  material: "Serum"
+  result: 18
+  result_unit: "U/L"
+  reference_range_min: 0
+  reference_range_max: 41
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Alkaline Phosphatase"
+  material: "Serum"
+  result: 193
+  result_unit: "U/L"
+  reference_range_min: 0
+  reference_range_max: 281
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Aspartate Aminotransferase (TGO)"
+  material: "Serum"
+  result: 42
+  result_unit: "U/L"
+  reference_range_min: 0
+  reference_range_max: 40
+  result_status: "High"
+  observations: "Slightly elevated"
+- metric: "Gamma-Glutamyl Transferase"
+  material: "Serum"
+  result: 9
+  result_unit: "U/L"
+  reference_range_min: 0
+  reference_range_max: 60
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Prealbumin"
+  material: "Serum"
+  result: 0.19
+  result_unit: "g/L"
+  reference_range_min: 0.20
+  reference_range_max: 0.40
+  result_status: "Low"
+  observations: "Below normal range"
+- metric: "IgA - Immunoglobulin A"
+  material: "Serum"
+  result: 87.6
+  result_unit: "mg/dL"
+  reference_range_min: 20.0
+  reference_range_max: 100.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgG Subclass 4"
+  material: "Serum"
+  result: 31.1
+  result_unit: "mg/dL"
+  reference_range_min: 1.0
+  reference_range_max: 53.7
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "25 OH Vitamin D"
+  material: "Serum"
+  result: 63.7
+  result_unit: "ng/mL"
+  reference_range_min: 20
+  reference_range_max: 60
+  result_status: "High"
+  observations: "Slightly above normal range"
+- metric: "Hemoglobin A1c"
+  material: "Whole Blood"
+  result: 4.9
+  result_unit: "%"
+  reference_range_min: 0
+  reference_range_max: 5.6
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Glycated Hemoglobin - HbA1c"
+  material: "Whole Blood"
+  result: 94
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 130
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Insulin"
+  material: "Serum"
+  result: "<2.0"
+  result_unit: "µUI/mL"
+  reference_range_min: 2.6
+  reference_range_max: 24.9
+  result_status: "Low"
+  observations: "Below normal range"
+- metric: "Triglycerides"
+  material: "Serum"
+  result: 71
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 85
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Total Cholesterol"
+  material: "Serum"
+  result: 143
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 170
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "HDL Cholesterol"
+  material: "Serum"
+  result: 40
+  result_unit: "mg/dL"
+  reference_range_min: 45
+  reference_range_max: "N/A"
+  result_status: "Low"
+  observations: "Below normal range"
+- metric: "LDL Cholesterol"
+  material: "Serum"
+  result: 87
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 110
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Total Lipids"
+  material: "Serum"
+  result: 500.8
+  result_unit: "mg/dL"
+  reference_range_min: 400
+  reference_range_max: 1000
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Homocysteine"
+  material: "Serum"
+  result: 6.1
+  result_unit: "µmol/L"
+  reference_range_min: 5.5
+  reference_range_max: 16.2
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Rubella IgG"
+  material: "Serum"
+  result: 161.0
+  result_unit: "UI/mL"
+  reference_range_min: 10.0
+  reference_range_max: "N/A"
+  result_status: "Reagente"
+  observations: "Immune status confirmed"

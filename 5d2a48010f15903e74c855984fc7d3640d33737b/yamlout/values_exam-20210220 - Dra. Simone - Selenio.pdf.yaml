@@ -1,0 +1,20 @@
+title: "Exam Results"
+requested_by: "Dra. Dalva Margareth Valente Gomes"
+sample_date: "20/02/2021"
+results:
+- metric: "Selenium"
+  material: "serum"
+  result: 103
+  result_unit: "µg/L"
+  reference_range_min: 20
+  reference_range_max: 190
+  result_status: "Normal"
+  observations: "Method: ICP-MS (Inductively Coupled Plasma Mass Spectrometry)"
+- metric: "Tumor Necrosis Factor Alpha"
+  material: "serum"
+  result: 13.00
+  result_unit: "pg/mL"
+  reference_range_min: 0
+  reference_range_max: 8.1
+  result_status: "High"
+  observations: "Method: Chemiluminescence"

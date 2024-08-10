@@ -1,0 +1,132 @@
+title: "IgG Food MAP (190) - Dry Blood Spot"
+requested_by: "No Physician"
+sample_date: "2021-01-09"
+results:
+- metric: "Cabbage"
+  material: "blood"
+  result: 2.47
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Carrot"
+  material: "blood"
+  result: 0.67
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Cauliflower"
+  material: "blood"
+  result: 1.43
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Celery"
+  material: "blood"
+  result: 1.24
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Bell Pepper"
+  material: "blood"
+  result: 2.11
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Cucumber"
+  material: "blood"
+  result: 0.51
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Eggplant"
+  material: "blood"
+  result: 1.01
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Enokitake"
+  material: "blood"
+  result: 0.40
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Garlic"
+  material: "blood"
+  result: 3.41
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Kale"
+  material: "blood"
+  result: 0.67
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Leek"
+  material: "blood"
+  result: 0.60
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Lettuce"
+  material: "blood"
+  result: 0.67
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Lotus Root"
+  material: "blood"
+  result: 0.68
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Swiss Chard"
+  material: "blood"
+  result: 1.46
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Green Olive"
+  material: "blood"
+  result: 0.36
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"
+- metric: "Onion"
+  material: "blood"
+  result: 2.02
+  result_unit: "MFI x 1000"
+  reference_range_min: 0.00
+  reference_range_max: 4.47
+  result_status: "Low"
+  observations: "Normal reactivity"

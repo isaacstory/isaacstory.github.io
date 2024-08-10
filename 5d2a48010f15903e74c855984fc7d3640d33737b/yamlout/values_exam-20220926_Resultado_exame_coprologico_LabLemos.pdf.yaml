@@ -1,0 +1,92 @@
+title: "Gastrointestinal Investigation: Copromax Profile"
+requested_by: "Rogerio Rodrigues Rita"
+sample_date: "2022-09-26"
+results:
+- metric: "Calprotectin"
+  material: "stool"
+  result: 49
+  result_unit: "mcg/g"
+  reference_range_min: 0
+  reference_range_max: 50
+  result_status: "Normal"
+  observations: "No gastrointestinal (GI) inflammation. Follow-up not necessary."
+- metric: "Alpha 1 Antitrypsin"
+  material: "stool"
+  result: 17
+  result_unit: "mg/dL"
+  reference_range_min: 0
+  reference_range_max: 27
+  result_status: "Normal"
+  observations: "No indications of inflammation or increased intestinal permeability."
+- metric: "Zonulin"
+  material: "stool"
+  result: 130
+  result_unit: "ng/mL"
+  reference_range_min: 0
+  reference_range_max: 80
+  result_status: "High"
+  observations: "Increased intestinal permeability."
+- metric: "IgA Secretory"
+  material: "stool"
+  result: 342
+  result_unit: "mg/dL"
+  reference_range_min: 51
+  reference_range_max: 204
+  result_status: "High"
+  observations: "Increased intestinal immunological activity or potential local inflammatory response."
+- metric: "Lactoferrin"
+  material: "stool"
+  result: 360
+  result_unit: "ng/mL"
+  reference_range_min: 0
+  reference_range_max: 7200
+  result_status: "Normal"
+  observations: "No significant inflammation of the gastrointestinal tract."
+- metric: "Elastase Pancreatic"
+  material: "stool"
+  result: 218
+  result_unit: "mcg/g"
+  reference_range_min: 200
+  reference_range_max: 500
+  result_status: "Normal"
+  observations: "Normal exocrine pancreatic function."
+- metric: "Physical Examination"
+  material: "stool"
+  result: "hard, lumpy (scybala), light brown"
+  result_unit: "description"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Abnormal"
+  observations: "Constipation, potentially secondary to colonic hypotonia, dyskinetic mechanisms, or parasympathetic/hormonal changes."
+- metric: "Microscopy"
+  material: "stool"
+  result: "excessive, abnormal flora with numerous Gram-positive and Gram-negative bacilli. Presence of Charcot-Leyden crystals."
+  result_unit: "description"
+  reference_range_min: "N/A"
+  reference_range_max: "N/A"
+  result_status: "Abnormal"
+  observations: "Potential dysbiosis and allergic or parasitic processes."
+- metric: "Helicobacter pylori Antigen"
+  material: "stool"
+  result: "Positive"
+  result_unit: "N/A"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Abnormal"
+  observations: "Confirmed presence of Helicobacter pylori antigen."
+- metric: "Blood Occult"
+  material: "stool"
+  result: "Negative"
+  result_unit: "N/A"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Normal"
+  observations: "No hidden blood detected."
+- metric: "Bilirubin"
+  material: "stool"
+  result: "Positive"
+  result_unit: "N/A"
+  reference_range_min: "Negative"
+  reference_range_max: "Negative"
+  result_status: "Abnormal"
+  observations: "Presence of bilirubin, indicating liver/gallbladder dysfunction."

@@ -1,0 +1,20 @@
+title: "Blood Examination"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-09-22"
+results:
+- metric: "Serotonin"
+  material: "Serum"
+  result: 166.8
+  result_unit: "ng/mL"
+  reference_range_min: 30.0
+  reference_range_max: 200.0
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "Tumor Necrosis Factor Alpha"
+  material: "Serum"
+  result: 19.3
+  result_unit: "pg/mL"
+  reference_range_min: 0.0
+  reference_range_max: 8.1
+  result_status: "High"
+  observations: "Above normal range"

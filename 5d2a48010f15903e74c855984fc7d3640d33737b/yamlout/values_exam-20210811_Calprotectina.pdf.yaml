@@ -1,0 +1,12 @@
+title: "Calprotectin Test"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-08-11"
+results:
+- metric: "Calprotectin"
+  material: "feces"
+  result: 48.0
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 50.0
+  result_status: "Normal"
+  observations: "Concentrations of calprotectin equal to or less than 50.0 µg/g are not suggestive of an active inflammatory process in the gastrointestinal system."

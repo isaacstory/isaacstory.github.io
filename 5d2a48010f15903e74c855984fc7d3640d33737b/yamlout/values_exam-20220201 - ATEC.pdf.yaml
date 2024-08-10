@@ -1,0 +1,12 @@
+title: "Autism Treatment Evaluation Checklist (ATEC)"
+requested_by: "Tony Calleri França"
+sample_date: "N/A"
+results:
+- metric: "Sociability"
+  material: "N/A"
+  result: "Scoring from 0 to 70 with higher values indicating greater severity of symptoms"
+  result_unit: "score"
+  reference_range_min: 0
+  reference_range_max: 70
+  result_status: "N/A"
+  observations: "Subscale scores: Fala/Linguagem/Comunicação 18, Sozialverhalten 18, Percepção sensorial /cognitiva 19, Saúde / Aspectos físicos / Comportamento 15. Total Score 70"

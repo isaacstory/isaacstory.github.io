@@ -1,0 +1,124 @@
+title: "Allergy Testing"
+requested_by: "Dr. Simone Pires"
+sample_date: "2021-02-20"
+results:
+- metric: "IgE Specific for Sea Food"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Includes Fish, Shrimp, Mussel, Tuna, and Salmon"
+- metric: "IgE Specific for Cocoa (F93)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Gluten (F79)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Egg"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Tree Nuts"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Includes Peanut, Hazelnut, Brazil Nut, Almond, and Coconut"
+- metric: "IgE Specific for Soy (F14)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Banana (F92)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Beef (F27)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Chicken (F83)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Milk Proteins (F2)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Egg White (F1)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Alpha-lactoalbumin (F76)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Egg Yolk (F75)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Beta-lactoglobulin (F77)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
+- metric: "IgE Specific for Casein (F78)"
+  material: "serum"
+  result: "< 0.10"
+  result_unit: "KU/L"
+  reference_range_min: 0.00
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Normal"
