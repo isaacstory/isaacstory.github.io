@@ -19,7 +19,7 @@
           <exam-summary-table :examdata="examdata"></exam-summary-table>
         </template>
         <template v-slot:1>
-          <h2>TODO: Exam Values</h2>
+          <exam-values-table :examvalues="examvalues"></exam-values-table>
         </template>
       </tab-nav>
     </div>
@@ -30,18 +30,23 @@
         components: {
           'patient-header': httpVueLoader('./components/PatientHeader.vue'),
           'exam-summary-table': httpVueLoader('./components/ExamSummaryTable.vue'),
+          'exam-values-table': httpVueLoader('./components/ExamValuesTable.vue'),
           'tab-nav': httpVueLoader('./components/TabNav.vue')
         },
         data() {
           return {
             examdata: [],
+            examvalues: []
           }
         },
         async mounted() {
           try {
-            const response = await fetch('./jsonout/exam.json');
-            const data = await response.json();
-            this.examdata = data;
+            const [rExamsSummary, rExamsValues] = await Promise.all([
+              fetch('./jsonout/exam.json'),
+              fetch('./jsonout/examvalues.json')
+            ])
+            this.examdata = await rExamsSummary.json();
+            this.examvalues = await rExamsValues.json();
           } catch (error) {
             console.error('Error loading the data:', error);
           }

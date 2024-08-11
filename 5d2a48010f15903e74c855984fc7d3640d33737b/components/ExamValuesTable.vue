@@ -11,19 +11,19 @@
                         <th>Date</th>
                         <th>Material</th>
                         <th>Exam</th>
-                        <th>Doctor</th>
-                        <th>Summary</th>
+                        <th>Value</th>
+                        <th>Ref range</th>
                         <th>File</th>
                     </tr>
                 </thead>
                 <tbody>
                     <!-- Example Record -->
-                    <tr v-for="item in filteredExams" :key="item.file">
+                    <tr v-for="item in filteredExams" :key="item.key">
                         <td style="min-width: 62px;">{{ item.sample_date }}</td>
                         <td>{{ item.material }}</td>
-                        <td>{{ item.title }}</td>
-                        <td>{{ item.requested_by }}</td>
-                        <td>{{ item.assessmentSummary.join(' / ') }}</td>
+                        <td>{{ item.metric }}</td>
+                        <td>{{ item.display_result }}</td>
+                        <td>{{ item.display_ref_range }}</td>
                         <td><a :href="'drive/Exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
                     </tr>
                 </tbody>
@@ -35,25 +35,44 @@
 <script>
   module.exports = {
     props: {
-      examdata: {
+      examvalues: {
         type: Array,
         required: true
       }
     },
+    created() {
+        const individualValues = [];
+        this.examvalues.forEach(item => {
+            item.results.forEach(res => {
+                individualValues.push({
+                    key: `${item.file}-${res.metric}`,
+                    ...res,
+                    display_result: `${res.result} (${res.result_status})`,
+                    display_ref_range: `${res.reference_range_min} - ${res.reference_range_max} (${res.result_unit})`,
+                    file: item.file,
+                    sample_date: item.sample_date,
+                    title: item.title,
+                    requested_by: item.requested_by,
+                });
+            });
+        });
+        this.individualValues = individualValues;
+    },
     data() {
         return {
-            searchQuery: ''
+            searchQuery: '',
+            individualValues: []
         }
     },
     computed: {
         filteredExams() {
             const q = this.searchQuery.toLowerCase()
-            return this.examdata.filter(item => {
+            return this.individualValues.filter(item => {
                 return item?.sample_date?.toLowerCase().includes(q) ||
                        item?.material?.toLowerCase().includes(q) ||
-                       item?.title?.toLowerCase().includes(q) ||
-                       item?.requested_by?.toLowerCase().includes(q) ||
-                       item?.assessmentSummary.join(', ').toLowerCase().includes(q);
+                       item?.metric?.toLowerCase().includes(q) ||
+                       item?.display_result?.toLowerCase().includes(q) ||
+                       item?.display_ref_range?.toLowerCase().includes(q);
             });
         }
     },
