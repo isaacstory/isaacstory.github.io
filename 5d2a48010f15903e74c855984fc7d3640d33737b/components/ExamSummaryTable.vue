@@ -5,7 +5,6 @@
         </section>
 
         <section class="records">
-            <h2>Exams Summary</h2>
             <table id="recordsTable">
                 <thead>
                     <tr>
