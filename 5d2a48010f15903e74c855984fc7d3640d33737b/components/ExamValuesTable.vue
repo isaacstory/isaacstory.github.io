@@ -22,7 +22,9 @@
                         <td style="min-width: 62px;">{{ item.sample_date }}</td>
                         <td>{{ item.material }}</td>
                         <td>{{ item.metric }}</td>
-                        <td>{{ item.display_result }}</td>
+                        <td :class="{ 'abnormal-value': item.result_status !== 'Normal' }">
+                            {{ item.display_result }}
+                        </td>
                         <td>{{ item.display_ref_range }}</td>
                         <td><a :href="'drive/Exams/' + item.file" target="_blank"><img :src="fileIcon(item)" alt="PDF"></a></td>
                     </tr>
@@ -116,6 +118,12 @@
 
     table, th, td {
         border: 1px solid #ddd;
+    }
+
+    .abnormal-value {
+        background-color: #ffcccc; /* Light red background for abnormal values */
+        font-weight: bold;
+        color: #cc0000; /* Dark red text for abnormal values */
     }
 
     th, td {
