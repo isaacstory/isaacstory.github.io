@@ -10,9 +10,7 @@ _thisdir = os.path.dirname(os.path.abspath(__file__))
 yamldir = f"{_thisdir}/../{hash}/yamlout"
 jsondir = f"{_thisdir}/../{hash}/jsonout"
 
-def main():
-    # d = read_yaml(f'{yamldir}/summarize_exam-20201019 - Sangue 2 - OswaldoCruz.pdf.yaml')
-    # print(d)
+def exam_summarize():
     exams = [{'file': f} for f in examfiles]
     for e in exams:
         e.update(read_yaml(f'{yamldir}/summarize_exam-{e["file"]}.yaml'))
@@ -20,6 +18,19 @@ def main():
     exams.sort(key=lambda e: e['sample_date'])
     with open(f"{jsondir}/exam.json", "w") as file:
         json.dump(exams, file)
+
+def exam_values():
+    exams = [{'file': f} for f in examfiles]
+    for e in exams:
+        e.update(read_yaml(f'{yamldir}/values_exam-{e["file"]}.yaml'))
+        e['meta'] = read_yaml(f'{yamldir}/values_exam-{e["file"]}.yaml')
+    exams.sort(key=lambda e: e['sample_date'])
+    with open(f"{jsondir}/examvalues.json", "w") as file:
+        json.dump(exams, file)
+
+def main():
+    exam_summarize()
+    exam_values()
 
 def read_yaml(filename):
     with open(filename, "r") as f:
