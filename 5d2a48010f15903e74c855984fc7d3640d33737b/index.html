@@ -14,7 +14,14 @@
   <body>
     <div id="app" class="container">
       <patient-header></patient-header>
-      <exam-summary-table :examdata="examdata"></exam-summary-table>
+      <tab-nav :tab-names="['Exams Summary', 'Exam Values']">
+        <template v-slot:0>
+          <exam-summary-table :examdata="examdata"></exam-summary-table>
+        </template>
+        <template v-slot:1>
+          <h2>TODO: Exam Values</h2>
+        </template>
+      </tab-nav>
     </div>
 
     <script type="text/javascript">
@@ -22,7 +29,8 @@
         el: '#app',
         components: {
           'patient-header': httpVueLoader('./components/PatientHeader.vue'),
-          'exam-summary-table': httpVueLoader('./components/ExamSummaryTable.vue')
+          'exam-summary-table': httpVueLoader('./components/ExamSummaryTable.vue'),
+          'tab-nav': httpVueLoader('./components/TabNav.vue')
         },
         data() {
           return {
