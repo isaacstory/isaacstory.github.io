@@ -16,6 +16,21 @@
       <p>Isaac's motor development is strong; he is physically healthy and enjoys running, demonstrating good coordination and strength. However, he exhibits hyperactivity, often struggling to sit still or focus on tasks. Socially, Isaac prefers solitary play and has difficulty engaging with other children or adults. He tends to use toys in a non-functional manner and finds it challenging to participate in shared play activities.</p>
     </div>
 
+    <div class="treatment-interventions section">
+        <h2>Treatment and Interventions</h2>
+        <p>Isaac has been undergoing a combination of behavioral therapies and biomedical interventions. His current therapeutic regimen includes:</p>
+        <ul>
+            <li><strong>Dietary Modifications:</strong> Gluten-free, dairy-free, and sugar-free diet, with occasional deviations on gluten and sugar</li>
+            <li><strong>Behavioral Therapies:</strong> Occupational therapy, music therapy, Applied Behavior Analysis (ABA)</li>
+            <li><strong>Supplements:</strong> Melatonin, taurine, a multivitamin complex, GABA, and others</li>
+        </ul>
+        <p>Notable past interventions:</p>
+        <ul>
+            <li>Cannabidiol (CBD) was attempted but discontinued due to poor tolerance</li>
+            <li>Hyperbaric Oxygen Therapy provided temporary improvement that regressed after treatment stopped</li>
+        </ul>
+    </div>
+
     <div class="current-status section">
       <h2>Current Status</h2>
       <p>Isaac remains in good health. We have an ongoing concern regarding his communication abilities and the impact this has on his learning and development. Despite slow progress, recent improvements in his ability to verbalize basic needs have been encouraging. Isaac continues to receive specialized educational support, including the recent addition of a therapeutic assistant at school, which has shown promise in providing more individualized attention.</p>
@@ -139,19 +154,23 @@
               <td>Improved sleep. Spoke a few more words. All this while undergoing treatment.</td>
             </tr>
             <tr>
-              <td>Dec 2023</td>
-              <td>VUS research in parents T-Mut</td>
-              <td>
-                <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">Genetic variant in MED13 gene found in father</a>
-              </td>
-            </tr>
-            <tr>
               <td>Jan 2024</td>
               <td>Genetic evaluation EXOMA Bioraras</td>
               <td>
                 <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">Other findings beyond MED13</a>
               </td>
             </tr>
+            <tr>
+              <td>Jan 2024</td>
+              <td>Genetic evaluation EXOMA Bioraras</td>
+              <td>
+                <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">
+                    Other findings beyond MED13</a>: <br>
+                  - Pathogenic variant in GALT gene (associated with Galactosemia)<br>
+                  - Six variants of uncertain significance in MED13, ASS1, TAT, DLGAP1, and FHL1 genes
+                
+              </td>
+            </tr>             
             <tr>
               <td>Jan-Feb 2024</td>
               <td>38 sessions of HBOT</td>

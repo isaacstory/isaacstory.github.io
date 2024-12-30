@@ -8,7 +8,7 @@
                 <p><strong>Date of Birth:</strong>2018-11-06</p>
                 <p><strong>Conditions:</strong> Autism Spectrum Disorder</p>
             </div>
-            <img src="isaac.png" alt="Patient Photo" class="patient-photo">
+            <img src="isaac3.jpeg" alt="Patient Photo" class="patient-photo">
         </div>
     </header>
   </template>
