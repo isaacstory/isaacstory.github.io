@@ -157,13 +157,6 @@
               <td>Jan 2024</td>
               <td>Genetic evaluation EXOMA Bioraras</td>
               <td>
-                <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">Other findings beyond MED13</a>
-              </td>
-            </tr>
-            <tr>
-              <td>Jan 2024</td>
-              <td>Genetic evaluation EXOMA Bioraras</td>
-              <td>
                 <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">
                     Other findings beyond MED13</a>: <br>
                   - Pathogenic variant in GALT gene (associated with Galactosemia)<br>
