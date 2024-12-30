@@ -2,7 +2,7 @@ import dotenv
 import os
 import yaml
 import json
-from automation.inventory import examfiles
+from automation.inventory import examfiles, examfiles_forvalues
 
 dotenv.load_dotenv()
 hash = os.getenv("HASH")
@@ -20,8 +20,9 @@ def exam_summarize():
         json.dump(exams, file)
 
 def exam_values():
-    exams = [{'file': f} for f in examfiles]
+    exams = [{'file': f} for f in examfiles_forvalues]
     for e in exams:
+        print(f'{yamldir}/values_exam-{e["file"]}.yaml')
         e.update(read_yaml(f'{yamldir}/values_exam-{e["file"]}.yaml'))
         e['meta'] = read_yaml(f'{yamldir}/values_exam-{e["file"]}.yaml')
     exams.sort(key=lambda e: e['sample_date'])

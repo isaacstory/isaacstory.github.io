@@ -1,5 +1,3 @@
-
-
 <!doctype html>
 <html lang="en">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -14,11 +12,14 @@
   <body>
     <div id="app" class="container">
       <patient-header></patient-header>
-      <tab-nav :tab-names="['Exams Summary', 'Exam Values']">
+      <tab-nav :tab-names="['Clinical Notes', 'Exams Summary', 'Exam Values']">
         <template v-slot:0>
-          <exam-summary-table :examdata="examdata"></exam-summary-table>
+          <clinical-notes></clinical-notes>
         </template>
         <template v-slot:1>
+          <exam-summary-table :examdata="examdata"></exam-summary-table>
+        </template>
+        <template v-slot:2>
           <exam-values-table :examvalues="examvalues"></exam-values-table>
         </template>
       </tab-nav>
@@ -31,6 +32,7 @@
           'patient-header': httpVueLoader('./components/PatientHeader.vue'),
           'exam-summary-table': httpVueLoader('./components/ExamSummaryTable.vue'),
           'exam-values-table': httpVueLoader('./components/ExamValuesTable.vue'),
+          'clinical-notes': httpVueLoader('./components/ClinicalNotes.vue'),
           'tab-nav': httpVueLoader('./components/TabNav.vue')
         },
         data() {
