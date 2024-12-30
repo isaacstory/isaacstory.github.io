@@ -32,7 +32,7 @@
         <table>
           <thead>
             <tr>
-              <th>When</th>
+              <th style="min-width: 100px;">When</th>
               <th>Exams/Treatment/Information</th>
               <th>Results</th>
             </tr>
@@ -55,7 +55,9 @@
             <tr>
               <td>Aug 2020</td>
               <td>Digital EEG and Quantitative EEG exam in São José</td>
-              <td>Normal</td>
+              <td>
+                <a href="drive/Exams/20200812 - EEG - Laudo.pdf">Normal</a>
+              </td>
             </tr>
             <tr>
               <td>Aug 2020</td>
@@ -75,7 +77,9 @@
             <tr>
               <td>Jan 2021</td>
               <td>Chromosomal microarray analysis</td>
-              <td>Deletion 3q26.31 3q26.32</td>
+              <td>
+                <a href="drive/Exams/20210111 - ExameDraSimone - Analise Cromossomica Microarray.pdf">Deletion 3q26.31 3q26.32</a>
+              </td>
             </tr>
             <tr>
               <td>Feb 2021</td>
@@ -90,29 +94,32 @@
             <tr>
               <td>Jan 2022</td>
               <td>Hair toxicity test</td>
-              <td>Aluminum 18 (ref < 8.0)<br>No action taken</td>
+              <td>
+                <a href="drive/Exams/20220109_(MCSEM.2501)_Elementos Toxicos e Essenciais - Cabelo.pdf">Aluminum 18 (ref < 8.0)<br>No action taken</a>
+              </td>
             </tr>
             <tr>
               <td>Jul 2023</td>
-              <td>TISMOO exam</td>
-              <td>Genetic variant in MED13 gene</td>
+              <td>Exome made with TISMOO</td>
+              <td>
+                <a href="drive/Exams/20230418 - Exoma.pdf">Genetic variant in MED13 gene</a>
+              </td>
             </tr>
             <tr>
               <td>Aug 2023</td>
               <td>FRAT - Folate Receptor Antibody Test</td>
-              <td>Negative</td>
+              <td>
+                <a href="drive/Exams/20230710 - Frat test - Ilyad Neurosciences.pdf">Negative</a>
+              </td>
             </tr>
             <tr>
               <td>Aug 2023</td>
-              <td>MITO SWAB - Mitochondrial respiratory chain complexes (RC-I and RC-IV) activities and Citrate Synthase (CS) enzyme activity</td>
-              <td>Citrate Synthase = 29.24 (242%) (ref 4.4 - 22)<br>
+              <td>MITO SWAB - Mitochondrial respiratory chain complexes (RC-I and RC-IV) activities and Citrate Synthase (CS) enzyme activity <br> Notes: Recommended to repeat the buccal testing within six months</td>
+              <td>
+                <a href="drive/Exams/20230705 - Mitoswab.pdf">Citrate Synthase = 29.24 (242%) (ref 4.4 - 22)<br>
                   RC-IV (RC-IV/CS) = 0.140 (45%) (ref 0.15 - 0.6)<br>
-                  RC-I (RC-I/CS) = 3.6 (54%) (ref 3.4 - 11.9)</td>
-            </tr>
-            <tr>
-              <td>Aug 2023</td>
-              <td>Notes: Recommended to repeat the buccal testing within six months</td>
-              <td></td>
+                  RC-I (RC-I/CS) = 3.6 (54%) (ref 3.4 - 11.9)</a>
+              </td>
             </tr>
             <tr>
               <td>Sep-Oct 2023</td>
@@ -122,7 +129,9 @@
             <tr>
               <td>Oct 2023</td>
               <td>VEEG performed, duration 12 hours</td>
-              <td>Normal</td>
+              <td>
+                <a href="drive/Exams/20231020_EEG_Laudo_VEEG.pdf">Normal</a>
+              </td>
             </tr>
             <tr>
               <td>Nov-Dec 2023</td>
@@ -132,12 +141,16 @@
             <tr>
               <td>Dec 2023</td>
               <td>VUS research in parents T-Mut</td>
-              <td>Genetic variant in MED13 gene found in father</td>
+              <td>
+                <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">Genetic variant in MED13 gene found in father</a>
+              </td>
             </tr>
             <tr>
               <td>Jan 2024</td>
               <td>Genetic evaluation EXOMA Bioraras</td>
-              <td>Other findings beyond MED13</td>
+              <td>
+                <a href="drive/Exams/20240123 - Bioraras - Relatorio_exoma.pdf">Other findings beyond MED13</a>
+              </td>
             </tr>
             <tr>
               <td>Jan-Feb 2024</td>
@@ -161,7 +174,7 @@
             </tr>
             <tr>
               <td>Jul 2024</td>
-              <td>Started responding to questions and communicating more wants after Fortaleza trip</td>
+              <td>Started responding to questions and communicating more wants after trip to Fortaleza</td>
               <td>Big Achievement</td>
             </tr>
             <tr>
