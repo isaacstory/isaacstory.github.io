@@ -1,36 +1,316 @@
-title: "Clinical Laboratory Report"
-requested_by: "Exames Funcionais"
-sample_date: "N/A"
+title: "Toxic and Essential Elements Analysis - Hair"
+requested_by: "Dr. Rogério Rita"
+sample_date: "2022-01-09"
 results:
-- metric: "Hemoglobin"
-  material: "blood"
-  result: 13.5
-  result_unit: "g/dL"
-  reference_range_min: 13.0
-  reference_range_max: 17.0
+- metric: "Aluminum (Al)"
+  material: "hair"
+  result: 18
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 8.0
+  result_status: "High"
+  observations: "Elevated levels observed, associated with neurotoxicity and potential behavioral disorders."
+- metric: "Antimony (Sb)"
+  material: "hair"
+  result: 0.036
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.066
   result_status: "Normal"
-  observations: "Normal"
-- metric: "Hematocrit"
-  material: "blood"
-  result: 40.0
-  result_unit: "%"
-  reference_range_min: 36.0
-  reference_range_max: 50.0
+  observations: "Within reference range."
+- metric: "Arsenic (As)"
+  material: "hair"
+  result: 0.074
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.080
   result_status: "Normal"
-  observations: "Normal"
-- metric: "Leukocytes"
-  material: "blood"
-  result: 7000
-  result_unit: "cells/mcL"
-  reference_range_min: 4500
-  reference_range_max: 11000
+  observations: "Within reference range."
+- metric: "Barium (Ba)"
+  material: "hair"
+  result: 0.69
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.50
+  result_status: "High"
+  observations: "Elevated levels observed, suggesting environmental exposure."
+- metric: "Beryllium (Be)"
+  material: "hair"
+  result: "< 0.01"
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.020
   result_status: "Normal"
-  observations: "Normal"
-- metric: "Platelets"
-  material: "blood"
-  result: 250000
-  result_unit: "cells/mcL"
-  reference_range_min: 150000
-  reference_range_max: 450000
+  observations: "Below detection limits."
+- metric: "Bismuth (Bi)"
+  material: "hair"
+  result: 0.090
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 2.0
   result_status: "Normal"
-  observations: "Normal"
+  observations: "Within reference range."
+- metric: "Cadmium (Cd)"
+  material: "hair"
+  result: 0.068
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.070
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Lead (Pb)"
+  material: "hair"
+  result: 0.41
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 1.0
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Mercury (Hg)"
+  material: "hair"
+  result: 0.29
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.40
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Platinum (Pt)"
+  material: "hair"
+  result: "< 0.003"
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.005
+  result_status: "Normal"
+  observations: "Below detection limits."
+- metric: "Thallium (Tl)"
+  material: "hair"
+  result: "< 0.001"
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.002
+  result_status: "Normal"
+  observations: "Below detection limits."
+- metric: "Thorium (Th)"
+  material: "hair"
+  result: 0.001
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.002
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Uranium (U)"
+  material: "hair"
+  result: 0.007
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.060
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Nickel (Ni)"
+  material: "hair"
+  result: 0.12
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.20
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Silver (Ag)"
+  material: "hair"
+  result: 0.32
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.20
+  result_status: "High"
+  observations: "Elevated levels observed, linked to environmental exposure."
+- metric: "Tin (Sn)"
+  material: "hair"
+  result: 0.33
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 0.30
+  result_status: "High"
+  observations: "Elevated levels observed, potential dietary or environmental sources."
+- metric: "Titanium (Ti)"
+  material: "hair"
+  result: 0.39
+  result_unit: "µg/g"
+  reference_range_min: 0
+  reference_range_max: 1.0
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Calcium (Ca)"
+  material: "hair"
+  result: 257
+  result_unit: "µg/g"
+  reference_range_min: 125
+  reference_range_max: 370
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Magnesium (Mg)"
+  material: "hair"
+  result: 30
+  result_unit: "µg/g"
+  reference_range_min: 12
+  reference_range_max: 30
+  result_status: "Normal"
+  observations: "At the upper limit of the reference range."
+- metric: "Sodium (Na)"
+  material: "hair"
+  result: 35
+  result_unit: "µg/g"
+  reference_range_min: 20
+  reference_range_max: 200
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Potassium (K)"
+  material: "hair"
+  result: 83
+  result_unit: "µg/g"
+  reference_range_min: 12
+  reference_range_max: 200
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Copper (Cu)"
+  material: "hair"
+  result: 7.8
+  result_unit: "µg/g"
+  reference_range_min: 11
+  reference_range_max: 18
+  result_status: "Low"
+  observations: "Deficiency detected; potential implications for enzymatic activities."
+- metric: "Zinc (Zn)"
+  material: "hair"
+  result: 72
+  result_unit: "µg/g"
+  reference_range_min: 100
+  reference_range_max: 190
+  result_status: "Low"
+  observations: "Deficiency detected; potential effects on immunity and enzymatic functions."
+- metric: "Manganese (Mn)"
+  material: "hair"
+  result: 0.27
+  result_unit: "µg/g"
+  reference_range_min: 0.10
+  reference_range_max: 0.50
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Chromium (Cr)"
+  material: "hair"
+  result: 0.38
+  result_unit: "µg/g"
+  reference_range_min: 0.43
+  reference_range_max: 0.80
+  result_status: "Low"
+  observations: "Deficiency observed; potential impact on glucose and cholesterol regulation."
+- metric: "Vanadium (V)"
+  material: "hair"
+  result: 0.052
+  result_unit: "µg/g"
+  reference_range_min: 0.030
+  reference_range_max: 0.10
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Molybdenum (Mo)"
+  material: "hair"
+  result: 0.084
+  result_unit: "µg/g"
+  reference_range_min: 0.050
+  reference_range_max: 0.13
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Boron (B)"
+  material: "hair"
+  result: 1.5
+  result_unit: "µg/g"
+  reference_range_min: 0.70
+  reference_range_max: 5.0
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Iodine (I)"
+  material: "hair"
+  result: 0.70
+  result_unit: "µg/g"
+  reference_range_min: 0.25
+  reference_range_max: 1.3
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Lithium (Li)"
+  material: "hair"
+  result: 0.014
+  result_unit: "µg/g"
+  reference_range_min: 0.007
+  reference_range_max: 0.020
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Phosphorus (P)"
+  material: "hair"
+  result: 152
+  result_unit: "µg/g"
+  reference_range_min: 150
+  reference_range_max: 220
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Selenium (Se)"
+  material: "hair"
+  result: 0.50
+  result_unit: "µg/g"
+  reference_range_min: 0.70
+  reference_range_max: 1.1
+  result_status: "Low"
+  observations: "Deficiency observed; associated with antioxidant and thyroid functions."
+- metric: "Strontium (Sr)"
+  material: "hair"
+  result: 0.55
+  result_unit: "µg/g"
+  reference_range_min: 0.16
+  reference_range_max: 1.0
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Sulfur (S)"
+  material: "hair"
+  result: 48200
+  result_unit: "µg/g"
+  reference_range_min: 45500
+  reference_range_max: 53000
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Cobalt (Co)"
+  material: "hair"
+  result: 0.014
+  result_unit: "µg/g"
+  reference_range_min: 0.004
+  reference_range_max: 0.020
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Iron (Fe)"
+  material: "hair"
+  result: 8.7
+  result_unit: "µg/g"
+  reference_range_min: 7.0
+  reference_range_max: 16
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Germanium (Ge)"
+  material: "hair"
+  result: 0.035
+  result_unit: "µg/g"
+  reference_range_min: 0.030
+  reference_range_max: 0.040
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Rubidium (Rb)"
+  material: "hair"
+  result: 0.16
+  result_unit: "µg/g"
+  reference_range_min: 0.016
+  reference_range_max: 0.18
+  result_status: "Normal"
+  observations: "Within reference range."
+- metric: "Zirconium (Zr)"
+  material: "hair"
+  result: 0.050
+  result_unit: "µg/g"
+  reference_range_min: 0.040
+  reference_range_max: 1.0
+  result_status: "Normal"
+  observations: "Within reference range."

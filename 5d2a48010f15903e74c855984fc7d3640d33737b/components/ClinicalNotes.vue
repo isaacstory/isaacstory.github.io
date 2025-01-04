@@ -5,40 +5,43 @@
       <ul>
         <li><strong>Name:</strong> Isaac França</li>
         <li><strong>Date of Birth:</strong> 11/06/2018</li>
-        <li><strong>Age:</strong> 5 years old</li>
+          <li><strong>Age:</strong> 6 years old</li>
         <li><strong>Primary Diagnosis:</strong> Autism Spectrum Disorder (ASD)</li>
       </ul>
     </div>
 
     <div class="clinical-history section">
       <h2>Clinical History</h2>
-      <p>Isaac França is a 5-year-old male diagnosed with Autism Spectrum Disorder (ASD) around the age of 2.5 years. The initial concerns arose when he was approximately 18 months old, as his speech development was delayed, and he showed a lack of response when called by name. He has never developed functional speech and continues to have significant challenges in using spoken language to communicate. While he has a big vocabulary and can sing many different songs, he lacks the ability to use language with the intention to communicate. Recently, there has been some progress, as Isaac has started to verbalize simple words to express basic needs (e.g., chocolate, sleep, juice). Despite these small advances, he remains largely non-verbal and continues to wear diapers.</p>
-      <p>Isaac's motor development is strong; he is physically healthy and enjoys running, demonstrating good coordination and strength. However, he exhibits hyperactivity, often struggling to sit still or focus on tasks. Socially, Isaac prefers solitary play and has difficulty engaging with other children or adults. He tends to use toys in a non-functional manner and finds it challenging to participate in shared play activities.</p>
+        <p>Isaac França is a 6-year-old male diagnosed with Autism Spectrum Disorder (ASD) around the age of 2.5 years. Initial concerns arose when he was approximately 18 months old due to delayed speech development and a lack of response when called by name. He has never fully developed functional speech; although he possesses a broad vocabulary and can sing many songs, he often struggles to use language intentionally for communication. Over time, he has shown limited progress in verbalizing simple words to express basic needs, but remains predominantly non-verbal.</p>
+        <p>In terms of physical development, Isaac is strong and healthy. Early in life, he enjoyed running and showed good coordination. However, hyperactivity has become more pronounced, significantly affecting his daily functioning. He rarely sits still, constantly running from room to room, frequently holding or waving objects such as ribbons, cloths, or pieces of paper. Additionally, he often jumps on and off the couch, making it hard for him to engage in structured activities, functional play, or even watch short videos. This high level of activity and difficulty sustaining attention greatly concerns his family and therapists, as it impacts his learning and cognitive development.</p>
     </div>
+      <p>Socially, Isaac continues to prefer solitary play and rarely interacts with peers or adults in a meaningful way. He often uses toys in a non-functional manner, and shared play remains limited. Ongoing therapies aim to address his communication barriers, social skills, and hyperactivity.</p>
 
     <div class="treatment-interventions section">
         <h2>Treatment and Interventions</h2>
-        <p>Isaac has been undergoing a combination of behavioral therapies and biomedical interventions. His current therapeutic regimen includes:</p>
+        <p>Isaac has been undergoing a combination of behavioral and biomedical interventions. His current therapeutic regimen includes:</p>
         <ul>
-            <li><strong>Dietary Modifications:</strong> Gluten-free, dairy-free, and sugar-free diet, with occasional deviations on gluten and sugar</li>
+          <li><strong>Dietary Modifications:</strong> Gluten-free, dairy-free, and sugar-free diet (with occasional deviations on gluten and sugar)</li>
             <li><strong>Behavioral Therapies:</strong> Occupational therapy, music therapy, Applied Behavior Analysis (ABA)</li>
             <li><strong>Supplements:</strong> Melatonin, taurine, a multivitamin complex, GABA, and others</li>
         </ul>
         <p>Notable past interventions:</p>
         <ul>
             <li>Cannabidiol (CBD) was attempted but discontinued due to poor tolerance</li>
-            <li>Hyperbaric Oxygen Therapy provided temporary improvement that regressed after treatment stopped</li>
+          <li>Hyperbaric Oxygen Therapy provided temporary improvement, but regressed after treatment ended</li>
         </ul>
     </div>
 
     <div class="current-status section">
       <h2>Current Status</h2>
-      <p>Isaac remains in good health. We have an ongoing concern regarding his communication abilities and the impact this has on his learning and development. Despite slow progress, recent improvements in his ability to verbalize basic needs have been encouraging. Isaac continues to receive specialized educational support, including the recent addition of a therapeutic assistant at school, which has shown promise in providing more individualized attention.</p>
+        <p>At present, the biggest concern regarding Isaac’s development is his pronounced hyperactivity. He spends much of his day running indoors, moving rapidly from the living room to the kitchen and back, often waving items in his hand (ribbons, cloth, paper). He also jumps between couches and has significant difficulty focusing on any task or play activity. His parents are worried that this persistent lack of attention interferes with cognitive development, as he cannot engage in learning opportunities or structured play.</p>
+        <p>On a more positive note, Isaac has been sleeping significantly better. Previously, he would often wake around 3 or 4 AM and stay awake for the remainder of the night, leading to sleep deprivation for both him and his mother. Now, these disruptions are much less frequent, and he usually remains asleep through the night. His bowel movements have also improved; whereas they used to alternate between pasty and hard, they are currently more consistently firm. Additionally, he used to laugh spontaneously without apparent reason throughout the day. This inappropriate laughter has become considerably less frequent.</p>
+        <p>Isaac continues to receive specialized educational support, including a therapeutic assistant at school, which has helped to provide more individualized attention. Nonetheless, his parents and clinical team remain focused on addressing his hyperactivity, improving attention, and encouraging more functional communication.</p>
     </div>
 
     <div class="family-history section">
       <h2>Family History</h2>
-      <p>There is a known family history of autism on the paternal side, with one adult cousin diagnosed with ASD. However, given the large family size, this may or may not be directly relevant to Isaac's condition.</p>
+        <p>There is a known family history of autism on the paternal side, with one adult cousin diagnosed with ASD. Due to the large family size, the direct relevance of this family history to Isaac’s condition remains uncertain.</p>
     </div>
 
     <div class="timeline section">
@@ -107,12 +110,29 @@
               <td></td>
             </tr>
             <tr>
+              <td>Oct 2021</td>
+              <td>Started biomedical treatment with Dr. Rogério Rita</td>
+              <td></td>
+            </tr>
+            <tr>
               <td>Jan 2022</td>
               <td>Hair toxicity test</td>
               <td>
-                <a href="drive/Exams/20220109_(MCSEM.2501)_Elementos Toxicos e Essenciais - Cabelo.pdf">Aluminum 18 (ref < 8.0)<br>No action taken</a>
+                  Elevated toxic metals:
+                  <br>- Aluminum: 18 µg/g (ref &lt; 8.0)
+                  <br>- Silver: 0.32 µg/g (ref &lt; 0.20)
+                  <br>- Tin: 0.33 µg/g (ref &lt; 0.30)
+                  <br>Low essential elements:
+                  <br>- Zinc: 72 µg/g (ref 100-190)
+                  <br>- Copper: 7.8 µg/g (ref 11-18)
+                  <br>- Selenium: 0.50 µg/g (ref 0.70-1.10)
+                  <br>- Chromium: 0.38 µg/g (ref 0.43-0.80)
+                  <br>----------
+                  <br>No action taken.
+                  <a href="drive/Exams/20220109_(MCSEM.2501)_Elementos Toxicos e Essenciais - Cabelo.pdf">
+                    See full results</a>
               </td>
-            </tr>
+            </tr> 
             <tr>
               <td>Jul 2023</td>
               <td>Exome made with TISMOO</td>
@@ -139,7 +159,7 @@
             <tr>
               <td>Sep-Oct 2023</td>
               <td>Rectal ozone therapy Nooocaut protocol. Daily for 20 days</td>
-              <td>Improved sleep. Spoke a few more words. All this while undergoing treatment.</td>
+                <td>Improved sleep. Spoke a few more words during treatment.</td>
             </tr>
             <tr>
               <td>Oct 2023</td>
@@ -151,7 +171,7 @@
             <tr>
               <td>Nov-Dec 2023</td>
               <td>Rectal and auricular ozone therapy Nooocaut protocol. 10 sessions</td>
-              <td>Improved sleep. Spoke a few more words. All this while undergoing treatment.</td>
+                <td>Improved sleep. Spoke a few more words during treatment.</td>
             </tr>
             <tr>
               <td>Jan 2024</td>
