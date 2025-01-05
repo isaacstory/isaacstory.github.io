@@ -41,21 +41,3 @@ prescriptions:
   - "Vitamin K2 Trans 100 mcg"
   start_date: "2024-11-26"
   dosage_frequency: "5 drops/day"
-- name: "SuperOmega 3"
-  type: "supplement"
-  items:
-  - "SuperOmega 3 1000 mg"
-  start_date: "2024-11-26"
-  dosage_frequency: "2 capsules 2x/day post menstruation for 15 days"
-- name: "Flaxseed Oil"
-  type: "supplement"
-  items:
-  - "Flaxseed Oil 1000 mg"
-  start_date: "2024-11-26"
-  dosage_frequency: "2 capsules 2x/day pre and during menstruation"
-- name: "Iron (Albion)"
-  type: "supplement"
-  items:
-  - "Iron (Albion) 150 mg"
-  start_date: "2024-11-26"
-  dosage_frequency: "1 dose divided between lunch and dinner on alternate days"

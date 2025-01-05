@@ -14,8 +14,8 @@
       <h2>Clinical History</h2>
         <p>Isaac França is a 6-year-old male diagnosed with Autism Spectrum Disorder (ASD) around the age of 2.5 years. Initial concerns arose when he was approximately 18 months old due to delayed speech development and a lack of response when called by name. He has never fully developed functional speech; although he possesses a broad vocabulary and can sing many songs, he often struggles to use language intentionally for communication. Over time, he has shown limited progress in verbalizing simple words to express basic needs, but remains predominantly non-verbal.</p>
         <p>In terms of physical development, Isaac is strong and healthy. Early in life, he enjoyed running and showed good coordination. However, hyperactivity has become more pronounced, significantly affecting his daily functioning. He rarely sits still, constantly running from room to room, frequently holding or waving objects such as ribbons, cloths, or pieces of paper. Additionally, he often jumps on and off the couch, making it hard for him to engage in structured activities, functional play, or even watch short videos. This high level of activity and difficulty sustaining attention greatly concerns his family and therapists, as it impacts his learning and cognitive development.</p>
-    </div>
-      <p>Socially, Isaac continues to prefer solitary play and rarely interacts with peers or adults in a meaningful way. He often uses toys in a non-functional manner, and shared play remains limited. Ongoing therapies aim to address his communication barriers, social skills, and hyperactivity.</p>
+        <p>Socially, Isaac continues to prefer solitary play and rarely interacts with peers or adults in a meaningful way. He often uses toys in a non-functional manner, and shared play remains limited. Ongoing therapies aim to address his communication barriers, social skills, and hyperactivity.</p>
+      </div>
 
     <div class="treatment-interventions section">
         <h2>Treatment and Interventions</h2>
@@ -35,14 +35,15 @@
     <div class="current-supplements section">
       <h2>Current supplementation (as of 2025-jan)</h2>
       <ul>
-        <li>DHH-B, 1/2 capsule at bedtime</li>
-        <li>Taurine 500mg, 1 capsule at bedtime</li>
-        <li>Melatonin DUO, 1 capsule at bedtime</li>
-        <li>L-theanine + GABA complex, twice a day (L-Teanina 500 mg; GABA 500 mg; Memantina 5 mg; Inositol 500 mg; Citicolina 200 mg; 5-HTP 50 mg)</li>
-        <li>Vitamin drops mix, 5 drops/day (Vitamin D3 7000 IU; Vitamin A 1500 IU; Vitamin E 100 IU; Mix tocopherol 50 mg; Vitamin K2 Trans 100 mcg)</li>
-        <li>Vitamin formula, 1 dose fractioned with meals (Ascorbate magnesium 500 mg; Thiamine 20 mg; Vitamin B2 5 mg; Vitamin B3 30 mg; Vitamin B5 30 mg; Vitamin B6 20 mg; Zinc (acetate) 30 mg; Hydroxocobalamin 500 mcg; Folic acid 500 mcg; Biotin 100 mcg; Selenium (selenite) 100 mcg; Manganese (Albion) 0.5 mg)</li>
-        <li>Super Omega 3. 2.5ml twice a day</li>
-        <li>Methylcobalamin 1000 mcg, 1 drop/day</li>
+        <li>- DHH-B, 1/2 capsule at bedtime</li>
+        <li>- Taurine 500mg, 1 capsule at bedtime</li>
+        <li>- Melatonin DUO, 1 capsule at bedtime</li>
+        <li>- L-theanine + GABA complex, 10ml twice a day (L-Teanina 500 mg; GABA 500 mg; Memantina 5 mg; Inositol 500 mg; Citicolina 200 mg; 5-HTP 50 mg)</li>
+        <li>- Vitamin drops mix, 5 drops/day (Vitamin D3 7000 IU; Vitamin A 1500 IU; Vitamin E 100 IU; Mix tocopherol 50 mg; Vitamin K2 Trans 100 mcg)</li>
+        <li>- Vitamin formula, 1 x 16ml dose / day with meal (Ascorbate magnesium 500 mg; Thiamine 20 mg; Vitamin B2 5 mg; Vitamin B3 30 mg; Vitamin B5 30 mg; Vitamin B6 20 mg; Zinc (acetate) 30 mg; Hydroxocobalamin 500 mcg; Folic acid 500 mcg; Biotin 100 mcg; Selenium (selenite) 100 mcg; Manganese (Albion) 0.5 mg)</li>
+        <li>- Super Omega 3. 5ml once a day (1080mg EPA + 720MG DHA)</li>
+        <li>- Methylcobalamin 1000 mcg, 1 drop/day</li>
+        <li>- L-Carnitine 1000mg, 3ml 2x/day</li>
       </ul>
     </div>
 
