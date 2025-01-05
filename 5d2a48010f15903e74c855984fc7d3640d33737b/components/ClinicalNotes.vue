@@ -32,6 +32,20 @@
         </ul>
     </div>
 
+    <div class="current-supplements section">
+      <h2>Current supplementation (as of 2025-jan)</h2>
+      <ul>
+        <li>DHH-B, 1/2 capsule at bedtime</li>
+        <li>Taurine 500mg, 1 capsule at bedtime</li>
+        <li>Melatonin DUO, 1 capsule at bedtime</li>
+        <li>L-theanine + GABA complex, twice a day (L-Teanina 500 mg; GABA 500 mg; Memantina 5 mg; Inositol 500 mg; Citicolina 200 mg; 5-HTP 50 mg)</li>
+        <li>Vitamin drops mix, 5 drops/day (Vitamin D3 7000 IU; Vitamin A 1500 IU; Vitamin E 100 IU; Mix tocopherol 50 mg; Vitamin K2 Trans 100 mcg)</li>
+        <li>Vitamin formula, 1 dose fractioned with meals (Ascorbate magnesium 500 mg; Thiamine 20 mg; Vitamin B2 5 mg; Vitamin B3 30 mg; Vitamin B5 30 mg; Vitamin B6 20 mg; Zinc (acetate) 30 mg; Hydroxocobalamin 500 mcg; Folic acid 500 mcg; Biotin 100 mcg; Selenium (selenite) 100 mcg; Manganese (Albion) 0.5 mg)</li>
+        <li>Super Omega 3. 2.5ml twice a day</li>
+        <li>Methylcobalamin 1000 mcg, 1 drop/day</li>
+      </ul>
+    </div>
+
     <div class="current-status section">
       <h2>Current Status</h2>
         <p>At present, the biggest concern regarding Isaac’s development is his pronounced hyperactivity. He spends much of his day running indoors, moving rapidly from the living room to the kitchen and back, often waving items in his hand (ribbons, cloth, paper). He also jumps between couches and has significant difficulty focusing on any task or play activity. His parents are worried that this persistent lack of attention interferes with cognitive development, as he cannot engage in learning opportunities or structured play.</p>
@@ -41,7 +55,7 @@
 
     <div class="family-history section">
       <h2>Family History</h2>
-        <p>There is a known family history of autism on the paternal side, with one adult cousin diagnosed with ASD. Due to the large family size, the direct relevance of this family history to Isaac’s condition remains uncertain.</p>
+        <p>Tony - Isaac's father - comes from a large family. One of his cousins is a male adult diagnosed with ASD.</p>
     </div>
 
     <div class="timeline section">

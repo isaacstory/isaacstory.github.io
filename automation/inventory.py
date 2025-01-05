@@ -103,16 +103,16 @@ examfiles_forvalues = [
 ]
 
 prescription_files = [
-    "20201208 - DraSimone - Prescrição.jpeg",
+    # "20201208 - DraSimone - Prescrição.jpeg",
     "20210114 - Prescricao - Dra Simone.pdf",
     "20210223 - SimonePires - Prescricao Alimentacao e Medicamento.pdf",
     "20210406 - Prescrição Dra Simone.pdf",
     "20210701 - Prescrição Dra Simone.pdf",
     "20210929 - Prescrição Dra Simone.pdf",
-    "20211028 - DrRogerio - Prescricao 1de3.jpeg",
-    "20211028 - DrRogerio - Prescricao 2de3.jpeg",
-    "20211028 - DrRogerio - Prescricao 3de3.jpeg",
-    # "20221031 - DrRogerio - prescricao_medicamentos.pdf",
+    # "20211028 - DrRogerio - Prescricao 1de3.jpeg",
+    # "20211028 - DrRogerio - Prescricao 2de3.jpeg",
+    # "20211028 - DrRogerio - Prescricao 3de3.jpeg",
+    "20221031 - DrRogerio - prescricao_medicamentos.pdf",
     "20221111 - DrRogerio - laudo_repete_ano.pdf",
     "20221111 - DrRogerio - prescricao_medicamentos.pdf",
     "20221111 - DrRogerio - prescricao_medicamentos_2.pdf",
