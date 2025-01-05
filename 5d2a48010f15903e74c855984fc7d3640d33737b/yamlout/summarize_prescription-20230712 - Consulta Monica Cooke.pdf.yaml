@@ -1,0 +1,40 @@
+title: "Prescription - medication"
+issued_by: "Monica Cooke"
+sample_date: "2023-07-12"
+prescriptions:
+- name: "Augmentin"
+  type: "medication"
+  items:
+  - "Augmentin 2.5 ml"
+  start_date: "2023-07-12"
+  dosage_frequency: "twice a day for 14 days"
+- name: "Red root"
+  type: "supplement"
+  items:
+  - "Red root"
+  start_date: "2023-07-12"
+  dosage_frequency: "10 drops three times a day for 14 days"
+- name: "Clove"
+  type: "supplement"
+  items:
+  - "Clove"
+  start_date: "2023-07-12"
+  dosage_frequency: "10 drops three times a day for 14 days"
+- name: "Juniper"
+  type: "supplement"
+  items:
+  - "Juniper"
+  start_date: "2023-07-12"
+  dosage_frequency: "10 drops three times a day for 14 days"
+- name: "Saccharomyces boulardii"
+  type: "probiotic"
+  items:
+  - "Saccharomyces boulardii"
+  start_date: "2023-07-12"
+  dosage_frequency: "1 capsule daily"
+- name: "Culturelle probiotic"
+  type: "probiotic"
+  items:
+  - "Culturelle probiotic"
+  start_date: "2023-07-12"
+  dosage_frequency: "1 capsule daily"

@@ -1,0 +1,34 @@
+Extract structured data from this prescription file.
+Give your answer as yaml.
+The yaml file should have the following format (example below)
+
+```yaml
+title: "Prescription - supplements|medication|diet"
+issued_by: "Dr. Smith"
+sample_date: "2021-01-09"
+prescriptions:
+- name: "Restrictive diet"
+  type: "diet"
+  items:
+  - "No sugar"
+  - "No gluten"
+  - "Low corn"
+  start_date: "2021-01-09"
+  dosage_frequency: "N/A"
+- name: "Vitamin drops"
+  type: "vitamin"
+  items:
+  - "Vitamin D3 3000 IU"
+  - "Vitamin A 1500 IU"
+  - "Mixed tocopherols 50 mg"
+  - "Vitamin E 50 IU"
+  - "Vitamin K2 20 mcg"
+  start_date: "2021-01-09"
+  dosage_frequency: "5 drops/day"
+```
+
+And here's what the fields mean:
+
+All fields are required.
+If there is an unknown value, just put "Unknown" or "N/A" in that field.
+Important: the yaml content must be in english.

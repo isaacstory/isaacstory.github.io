@@ -1,0 +1,28 @@
+title: "Prescription - supplements|medication|diet"
+issued_by: "Dr. Dane R. Fliedner"
+sample_date: "2022-11-16"
+prescriptions:
+- name: "Black Cumin Seed Oil"
+  type: "supplement"
+  items:
+  - "1/8 tsp (625 mg) twice daily for inflammation"
+  start_date: "2022-11-16"
+  dosage_frequency: "Twice daily"
+- name: "NAC"
+  type: "supplement"
+  items:
+  - "1 capsule (500mg) for detox"
+  start_date: "2022-11-16"
+  dosage_frequency: "Once daily"
+- name: "Vitamin B12 (Hydroxy B12)"
+  type: "vitamin"
+  items:
+  - "1 drop, twice a day, under the tongue for Low levels"
+  start_date: "2022-11-16"
+  dosage_frequency: "Twice a day"
+- name: "Epsom Salt Baths"
+  type: "therapy"
+  items:
+  - "2 cups of Epsom salt and 2 teaspoons of baking soda"
+  start_date: "2022-11-16"
+  dosage_frequency: "Daily or every other day"

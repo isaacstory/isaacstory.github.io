@@ -1,0 +1,10 @@
+title: "Prescription - supplements|medication|diet"
+issued_by: "Unknown"
+sample_date: "2022-11-11"
+prescriptions:
+- name: "Retal Ozone Therapy"
+  type: "protocol"
+  items:
+  - "Daily application"
+  start_date: "2022-11-11"
+  dosage_frequency: "20 days"

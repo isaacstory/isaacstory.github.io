@@ -1,0 +1,52 @@
+title: "Prescription - supplements|medication"
+issued_by: "Mary Margaret Burch, NP"
+sample_date: "2023-10-25"
+prescriptions:
+- name: "Meclizine"
+  type: "medication"
+  items:
+  - "Meclizine 7.5 mg"
+  start_date: "N/A"
+  dosage_frequency: "Twice daily"
+- name: "Hydroxyzine"
+  type: "medication"
+  items:
+  - "Hydroxyzine 6ml (2mg/ml)"
+  start_date: "N/A"
+  dosage_frequency: "6ml at bedtime, can increase up to 12ml"
+- name: "Taurine"
+  type: "supplement"
+  items:
+  - "Taurine 500 mg"
+  start_date: "N/A"
+  dosage_frequency: "500 mg in the morning"
+- name: "Glutathione"
+  type: "supplement"
+  items:
+  - "Glutathione 0.5 ml"
+  start_date: "N/A"
+  dosage_frequency: "Twice daily"
+- name: "Uva Ursi"
+  type: "supplement"
+  items:
+  - "Uva Ursi 10 drops"
+  start_date: "N/A"
+  dosage_frequency: "3 times a day for 14 days"
+- name: "Oregon Grape Root"
+  type: "supplement"
+  items:
+  - "Oregon Grape Root 3 ml"
+  start_date: "N/A"
+  dosage_frequency: "3 times a day for 14 days"
+- name: "Clove"
+  type: "supplement"
+  items:
+  - "Clove 10 drops"
+  start_date: "N/A"
+  dosage_frequency: "4 times a day for 14 days"
+- name: "Kidney Kool"
+  type: "supplement"
+  items:
+  - "Kidney Kool 1 ml"
+  start_date: "N/A"
+  dosage_frequency: "Twice daily"

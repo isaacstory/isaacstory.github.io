@@ -1,0 +1,10 @@
+title: "Prescription - supplements|medication|diet"
+issued_by: "Dr. Rogerio Rodrigues Rita"
+sample_date: "2023-09-05"
+prescriptions:
+- name: "Retal Ozone Therapy Protocol NOOOCAUT"
+  type: "therapy"
+  items:
+  - "Daily application"
+  start_date: "2023-09-05"
+  dosage_frequency: "Once a day for 20 days"

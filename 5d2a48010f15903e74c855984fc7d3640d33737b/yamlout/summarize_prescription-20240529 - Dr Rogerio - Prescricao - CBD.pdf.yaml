@@ -1,0 +1,10 @@
+title: "Prescription - supplements"
+issued_by: "Dr. Rogerio Rodrigues"
+sample_date: "2024-05-29"
+prescriptions:
+- name: "Óleo de CBD Broad Spectrum Extra Strength"
+  type: "supplement"
+  items:
+  - "3000 mg/30 ml"
+  start_date: "2024-05-29"
+  dosage_frequency: "5 drops 3x a day during meals, increase by 1 drop every 3 days until desired effect or as per medical advice, maximum 10 drops 3x a day"

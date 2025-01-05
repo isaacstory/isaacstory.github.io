@@ -1,0 +1,10 @@
+title: "Prescription - supplements"
+issued_by: "Rogerio Rodrigues Rita"
+sample_date: "2023-11-17"
+prescriptions:
+- name: "Óleo de CBD Full Spectrum Extra Sthengh 3000 mg/30 ml"
+  type: "supplement"
+  items:
+  - "1 bottle"
+  start_date: "2023-11-17"
+  dosage_frequency: "2 drops 3 times a day with meals, increase 1 drop every 7 days until desired effect, up to a maximum of 10 drops 3 times a day"

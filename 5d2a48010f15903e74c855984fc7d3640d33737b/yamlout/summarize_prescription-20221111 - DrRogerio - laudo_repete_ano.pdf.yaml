@@ -1,0 +1,11 @@
+title: "Medical Report - Educational Inclusion"
+issued_by: "Dr. Rogério Rodrigues Rita"
+sample_date: "2022-11-11"
+prescriptions:
+- name: "Special Educational Needs"
+  type: "service"
+  items:
+  - "Inclusion in education"
+  - "Additional year in early childhood education"
+  start_date: "2022-11-11"
+  dosage_frequency: "N/A"
