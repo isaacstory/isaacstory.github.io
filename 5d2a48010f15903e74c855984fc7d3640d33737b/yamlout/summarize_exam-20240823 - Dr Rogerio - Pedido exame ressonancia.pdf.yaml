@@ -1,0 +1,19 @@
+sample_date: "2024-08-23"
+requested_by: "Unknown"
+metrics:
+- "Magnetic Resonance Imaging (MRI) of the skull without contrast"
+- "Spectroscopy"
+- "Sedation"
+purpose:
+- "Clarification of neurodevelopmental delay"
+resultSummary:
+- "Unknown"
+abnormalValues:
+- "Unknown"
+normalValues:
+- "Unknown"
+assessmentSummary:
+- "Unknown"
+gptInterpretation:
+- "The MRI with spectroscopy was likely conducted to explore underlying causes for the patient's neurodevelopmental delay."
+- "Further details are needed to accurately interpret the results of this exam."

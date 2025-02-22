@@ -41,7 +41,7 @@ def prescription_summarize():
 def main():
     exam_summarize()
     exam_values()
-    prescription_summarize()
+    # prescription_summarize()
 
 def read_yaml(filename):
     with open(filename, "r") as f:

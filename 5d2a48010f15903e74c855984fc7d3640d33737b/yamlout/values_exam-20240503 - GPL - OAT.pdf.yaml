@@ -1,0 +1,45 @@
+title: "Organic Acids Test"
+requested_by: "N/A"  # The document does not specify who requested the exam
+sample_date: "2024-05-03"
+results:
+- metric: "Creatinine"
+  material: "urine"
+  result: 21
+  result_unit: "mg/dL"
+  reference_range_min: 20
+  reference_range_max: "N/A"
+  result_status: "Normal"
+  observations: "The creatinine test is performed to adjust the results of metabolic indicators for differences caused by fluid intake."
+- metric: "Citramalic"
+  material: "urine"
+  result: 1.1
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: "N/A"
+  reference_range_max: 5.0
+  result_status: "Normal"
+  observations: "N/A"
+- metric: "4-Hydroxybenzoic"
+  material: "urine"
+  result: 1.4
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: "N/A"
+  reference_range_max: 3.0
+  result_status: "Normal"
+  observations: "N/A"
+- metric: "Arabinose"
+  material: "urine"
+  result: 92
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: "N/A"
+  reference_range_max: 50
+  result_status: "High"
+  observations: "Indicates microbial overgrowth in the intestines."
+- metric: "HPHPA"
+  material: "urine"
+  result: 138
+  result_unit: "mmol/mol creatinine"
+  reference_range_min: "N/A"
+  reference_range_max: 220
+  result_status: "Normal"
+  observations: "N/A"
+# Additional metrics and their details can be added as presented in the document

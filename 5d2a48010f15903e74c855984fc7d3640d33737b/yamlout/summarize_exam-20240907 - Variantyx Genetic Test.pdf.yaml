@@ -1,0 +1,29 @@
+sample_date: "2024-09-07"
+requested_by: "Rogério Rogério Rita"
+metrics:
+- "Genomic variants"
+- "Pharmacogenomic metabolizer status"
+- "Gene-drug associations"
+purpose:
+- "Identify common variants associated with drug metabolism and pharmacogenetics response"
+- "Provide gene-drug associations according to the FDA Table of Pharmacogenetic Associations"
+resultSummary:
+- "Identified pharmacogenomic variants in 13 genes"
+- "Determined metabolizer status for various drugs"
+abnormalValues:
+- "CYP2D6 (*1/*4) - Intermediate Metabolizer"
+- "CYP4F2 (*1/*1) - Indeterminate"
+- "VKORC1 Reference/Reference - Indeterminate"
+normalValues:
+- "DPYD c.85T>C (*9A)/c.1896T>C - Normal Metabolizer"
+- "NUDT15 (*1/*1) - Normal Metabolizer"
+- "SLCO1B1 (*1/*14) - Normal Function"
+- "TPMT (*1/*1) - Normal Metabolizer"
+- "UGT1A1 (*1/*36) - Normal Metabolizer"
+- "CYP2C19 (*1/*17) - Rapid Metabolizer"
+assessmentSummary:
+- "This test provides insight into how genetic variants may affect drug metabolism but does not diagnose health conditions."
+gptInterpretation:
+- "The patient has various metabolizer statuses, indicating differences in how they might process specific medications."
+- "Intermediate metabolizer status may lead to altered drug efficacy for certain medications and may require adjustments."
+- "Identifying the metabolizer status can help in customizing drug prescriptions to enhance efficacy and reduce side effects."

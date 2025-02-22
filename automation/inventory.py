@@ -48,6 +48,13 @@ examfiles = [
     "20231217 - GPL - CSAP.pdf",
     "20240123 - Bioraras - Relatorio_exoma.pdf",
     "20240413 - LaboratorioLemos-Copromax.pdf",
+    "20240503 - GPL - OAT.pdf",
+    "20240610 - OswaldoCruz - DimeroD.pdf",
+    "20240610 - OswaldoCruz - Hemograma.pdf",
+    "20240610 - OswaldoCruz - TNF-alfa.pdf",
+    "20240823 - Dr Rogerio - Pedido exame ressonancia.pdf",
+    "20240907 - Variantyx Genetic Test.pdf",
+    "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
 ]
 
 examfiles_forvalues = [
@@ -100,6 +107,13 @@ examfiles_forvalues = [
     "20231217 - GPL - CSAP.pdf",
     "20240123 - Bioraras - Relatorio_exoma.pdf",
     "20240413 - LaboratorioLemos-Copromax.pdf",
+    "20240503 - GPL - OAT.pdf",
+    "20240610 - OswaldoCruz - DimeroD.pdf",
+    "20240610 - OswaldoCruz - Hemograma.pdf",
+    "20240610 - OswaldoCruz - TNF-alfa.pdf",
+    "20240823 - Dr Rogerio - Pedido exame ressonancia.pdf",
+    "20240907 - Variantyx Genetic Test.pdf",
+    "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
 ]
 
 prescription_files = [

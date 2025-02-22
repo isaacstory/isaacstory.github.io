@@ -1,0 +1,32 @@
+sample_date: "2024-06-10"
+requested_by: "Dr. Cristiane Borges Barra Moura"
+metrics:
+- "Hemogram with platelet count"
+- "Thyroid function tests"
+- "Liver enzymes"
+- "Iron metabolism"
+- "Vitamin levels"
+purpose:
+- "General health evaluation"
+- "Nutritional status assessment"
+- "Thyroid function assessment"
+resultSummary:
+- "Ferro 137 µg/dL, within reference range"
+- "TSH 2.43 µUI/mL, within reference range"
+- "Glucose 105 mg/dL, above reference range"
+- "Vitamin B-12 exceeds measurement limits"
+abnormalValues:
+- "Glucose 105 mg/dL (reference: 70 to 99 mg/dL)"
+- "LDL Cholesterol 121 mg/dL (expected: <110 mg/dL)"
+- "Transaminase (TGO) 36 U/L (reference: <34 U/L)"
+normalValues:
+- "TSH 2.43 µUI/mL (range: 0.40 to 5.20 µUI/mL)"
+- "Ferro 137 µg/dL (range: 65 to 175 µg/dL)"
+- "Vitamin A 0.4 mg/L for age range"
+- "GGT 11.4 U/L (range: 9 to 18 U/L)"
+assessmentSummary:
+- "Results mostly within normal ranges except for some nutritional elements."
+- "Mild hyperglycemia noted that may require monitoring."
+gptInterpretation:
+- "The patient's nutritional intake might be adequate, but vigilance is needed for glucose levels, indicating a pre-diabetic tendency."
+- "Monitoring of vitamin B12 is necessary due to excessively high levels, as it may indicate supplementation."

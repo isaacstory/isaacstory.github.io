@@ -1,0 +1,16 @@
+sample_date: "2024-06-10"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+metrics:
+- "D-dimer Quantitative"
+purpose:
+- "To evaluate potential thromboembolic processes"
+resultSummary:
+- "D-dimer Quantitative: 270 ng/mL FEU"
+abnormalValues:
+- "None"
+normalValues:
+- "D-dimer Quantitative: 270 ng/mL FEU (Reference: Below 500 ng/mL FEU)"
+assessmentSummary:
+- "The high negative predictive value of the test excludes thromboembolic processes."
+gptInterpretation:
+- "The D-dimer level is within normal reference limits, reducing concern for thromboembolic conditions."

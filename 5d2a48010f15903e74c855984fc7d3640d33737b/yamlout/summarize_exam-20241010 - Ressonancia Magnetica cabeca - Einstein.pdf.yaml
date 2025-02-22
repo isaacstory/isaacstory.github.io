@@ -1,0 +1,22 @@
+sample_date: "2024-10-10"
+requested_by: "Dr Marcos Roberto Gomes de Queiroz"
+metrics:
+- Magnetic Resonance Imaging (MRI) of the head
+- Proton Spectroscopy Study
+purpose:
+- Neurodevelopment delay
+resultSummary:
+- Cortical sulci and cerebral fissures with normal amplitude
+- Ventricular system with normal dimensions
+- Encephalic parenchyma with normal position, morphology, and signal characteristics
+- No significant alterations in metabolite relations or anomalous peaks in proton spectroscopy
+abnormalValues:
+- None
+normalValues:
+- Normal amplitude of cortical sulci and cerebral fissures
+- Normal dimensions of the ventricular system
+- Normal encephalic parenchyma positions, morphology, and signal
+assessmentSummary:
+- Head MRI with proton spectroscopy study within normal parameters
+gptInterpretation:
+- The exam indicates a normal brain structure with no significant abnormalities. This suggests that the neurodevelopmental delay observed may not be due to structural or metabolic abnormalities detectable by MRI or proton spectroscopy at this time.

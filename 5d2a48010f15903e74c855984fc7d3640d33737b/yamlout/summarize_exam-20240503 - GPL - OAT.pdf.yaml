@@ -1,0 +1,27 @@
+sample_date: "2024-05-03"
+requested_by: "Unknown"
+metrics:
+- "Urinary Organic Acids"
+- "Metabolic and Microbial Indicators"
+- "Creatinine"
+purpose:
+- "To evaluate microbial proliferation and metabolic function through organic acid quantification in urine"
+resultSummary:
+- "Most parameters are within the normal reference range"
+- "Some microbial indicators slightly elevated"
+abnormalValues:
+- "134-hydroxyphenylacetic: 322 (Elevated related to Clostridium species)"
+- "HPHPA: 220 (Elevated, associated with Clostridium activity)"
+- "Cresol: 84 (Elevated, linked to C. difficile)"
+- "3-indol acetic: 140.60 (Elevated due to various microbial activities)"
+normalValues:
+- "Citramalic Acid: 1.1 (Within range)"
+- "5-hydroxy-methyl-2-furoic: 14 (Within range)"
+- "Furano-2,5-dicarboxylic: 1.5 (Within range)"
+- "Furancarbonylglycine: 0.04 (Within range)"
+assessmentSummary:
+- "Indicators suggest slight microbial imbalance but overall metabolic processes appear normal."
+gptInterpretation:
+- "These results suggest the presence of a slight microbial imbalance in the gut, particularly involving Clostridium species."
+- "The creatinine adjustment indicates the results are accurate and not significantly affected by recent fluid intake variability."
+- "Further clinical correlation is advised to assess gastrointestinal symptoms or dietary factors affecting microbial balance."

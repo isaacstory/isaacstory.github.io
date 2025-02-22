@@ -1,0 +1,12 @@
+title: "Tumor Necrosis Factor Alpha (TNF-α) Test"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+sample_date: "2024-06-10"
+results:
+- metric: "Tumor Necrosis Factor Alpha (TNF-α)"
+  material: "serum"
+  result: 14.50
+  result_unit: "pg/mL"
+  reference_range_min: N/A
+  reference_range_max: 8.1
+  result_status: "High"
+  observations: "Above the reference range"

@@ -1,0 +1,60 @@
+title: "Medical Exam Results"
+requested_by: "Dr. Rogerio Rodrigues Rita"
+sample_date: "2024-06-10"
+results:
+- metric: "Proteína C Reativa"
+  material: "Soro"
+  result: 0.40
+  result_unit: "mg/dL"
+  reference_range_min: 0.0
+  reference_range_max: 0.5
+  result_status: "Normal"
+  observations: "Approximately at the upper reference limit, indicative of inflammation but within detection limit."
+- metric: "Ferritina"
+  material: "Soro"
+  result: 28.5
+  result_unit: "ng/mL"
+  reference_range_min: 7.0
+  reference_range_max: 140.0
+  result_status: "Normal"
+  observations: "Normal levels of ferritin."
+- metric: "Transaminase oxalacética - TGO"
+  material: "Soro"
+  result: 36
+  result_unit: "U/L"
+  reference_range_min: 0.0
+  reference_range_max: 34.0
+  result_status: "High"
+  observations: "Slightly elevated, indicating possible liver stress."
+- metric: "Cálcio"
+  material: "Soro"
+  result: 10.1
+  result_unit: "mg/dL"
+  reference_range_min: 9.1
+  reference_range_max: 10.2
+  result_status: "Normal"
+  observations: "Within normal reference range."
+- metric: "Ácido Fólico"
+  material: "Soro"
+  result: 21.93
+  result_unit: "ng/mL"
+  reference_range_min: 5.38
+  reference_range_max: "N/A"
+  result_status: "Normal"
+  observations: "Normal levels of folic acid."
+- metric: "Homocisteína"
+  material: "Soro"
+  result: 4.9
+  result_unit: "µmol/L"
+  reference_range_min: 5.5
+  reference_range_max: 16.2
+  result_status: "Low"
+  observations: "Below reference range, may indicate a specific deficiency or condition."
+- metric: "25 OH Vitamina D"
+  material: "Soro"
+  result: 56.1
+  result_unit: "ng/mL"
+  reference_range_min: 30.0
+  reference_range_max: 60.0
+  result_status: "Normal"
+  observations: "Sufficient vitamin D levels for populations above 60 years or at risk."

@@ -11,19 +11,19 @@ dirout = f"{_thisdir}/../../{hash}/yamlout"
 
 
 def main():
-    # for ef in examfiles:
-    #     try:
-    #         # ask_and_save("summarizer", "summarize_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
-    #         ask_and_save("summarizer", "values_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
-    #         print(f"Processed {ef}")
-    #     except Exception as e:
-    #         print(f"Error processing {ef}: {e}")
-    for pf in prescription_files:
+    for ef in examfiles:
         try:
-            ask_and_save("summarizer", "summarize_prescription", f"{_thisdir}/../../{hash}/drive/Prescriptions/{pf}", dirout)
-            print(f"Processed {pf}")
+            ask_and_save("summarizer", "summarize_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
+            ask_and_save("summarizer", "values_exam", f"{_thisdir}/../../{hash}/drive/Exams/{ef}", dirout)
+            print(f"Processed {ef}")
         except Exception as e:
-            print(f"Error processing {pf}: {e}")
+            print(f"Error processing {ef}: {e}")
+    # for pf in prescription_files:
+    #     try:
+    #         ask_and_save("summarizer", "summarize_prescription", f"{_thisdir}/../../{hash}/drive/Prescriptions/{pf}", dirout)
+    #         print(f"Processed {pf}")
+    #     except Exception as e:
+    #         print(f"Error processing {pf}: {e}")
 
 def ask_and_save(agent, prompt, filein, dirout):
     agent_instructions = load_instructions(agent)

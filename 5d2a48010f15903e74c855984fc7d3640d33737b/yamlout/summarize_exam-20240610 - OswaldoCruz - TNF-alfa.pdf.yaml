@@ -1,0 +1,16 @@
+sample_date: "2024-06-10"
+requested_by: "Unknown"
+metrics:
+- "Tumor Necrosis Factor Alpha (TNF-alpha)"
+purpose:
+- "To measure the level of Tumor Necrosis Factor Alpha in the blood"
+resultSummary:
+- "Tumor Necrosis Factor Alpha level: 14.50 pg/mL"
+abnormalValues:
+- "Tumor Necrosis Factor Alpha: 14.50 pg/mL (Above reference range of <8.1 pg/mL)"
+normalValues:
+- "None"
+assessmentSummary:
+- "Interpretation and diagnostic conclusion need to be provided by a physician considering clinical data and other exams"
+gptInterpretation:
+- "The patient has elevated levels of Tumor Necrosis Factor Alpha, which can be indicative of inflammatory conditions or certain autoimmune disorders. Clinical correlation is advised."
