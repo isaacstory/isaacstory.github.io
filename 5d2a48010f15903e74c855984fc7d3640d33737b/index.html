@@ -44,8 +44,8 @@
         async mounted() {
           try {
             const [rExamsSummary, rExamsValues] = await Promise.all([
-              fetch('./jsonout/exam.json'),
-              fetch('./jsonout/examvalues.json')
+              fetch(`./jsonout/exam.json?timestamp=${new Date().getTime()}`),
+              fetch(`./jsonout/examvalues.json?timestamp=${new Date().getTime()}`)
             ])
             this.examdata = await rExamsSummary.json();
             this.examvalues = await rExamsValues.json();
