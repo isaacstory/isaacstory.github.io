@@ -1,10 +1,11 @@
-from automation.gpt.adapters import agents
 import dotenv
+dotenv.load_dotenv()
+
+from automation.gpt.adapters import agents
 import os
 import re
 from automation.inventory import examfiles, prescription_files
 
-dotenv.load_dotenv()
 hash = os.getenv("HASH")
 _thisdir = os.path.dirname(os.path.abspath(__file__))
 dirout = f"{_thisdir}/../../{hash}/yamlout"

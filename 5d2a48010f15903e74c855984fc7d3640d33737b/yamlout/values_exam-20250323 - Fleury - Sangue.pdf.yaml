@@ -1,0 +1,124 @@
+title: "Medical Exam Summary"
+requested_by: "Unknown"
+sample_date: "2025-03-23"
+results:
+  - metric: "Platelet Count"
+    material: "blood"
+    result: 301000
+    result_unit: "/mm3"
+    reference_range_min: 187000
+    reference_range_max: 400000
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Mean Platelet Volume"
+    material: "blood"
+    result: 10.1
+    result_unit: "fL"
+    reference_range_min: 9.2
+    reference_range_max: 12.6
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Alanine Aminotransferase (ALT)"
+    material: "serum"
+    result: 15
+    result_unit: "U/L"
+    reference_range_min: 0
+    reference_range_max: 41
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Gamma Glutamyl Transferase (GGT)"
+    material: "serum"
+    result: 8
+    result_unit: "U/L"
+    reference_range_min: 3
+    reference_range_max: 22
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Copper"
+    material: "plasma"
+    result: 114
+    result_unit: "mcg/dL"
+    reference_range_min: 70
+    reference_range_max: 140
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "C-Reactive Protein (CRP)"
+    material: "serum"
+    result: "<0.03"
+    result_unit: "mg/dL"
+    reference_range_min: 0.1
+    reference_range_max: 0.3
+    result_status: "Normal"
+    observations: "Indicates low risk according to cardiovascular risk reference"
+  - metric: "Ionized Calcium"
+    material: "serum"
+    result: 1.27
+    result_unit: "mmol/L"
+    reference_range_min: 1.11
+    reference_range_max: 1.40
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Magnesium"
+    material: "serum"
+    result: 2.1
+    result_unit: "mg/dL"
+    reference_range_min: 1.7
+    reference_range_max: 2.3
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Vitamin A (Retinol)"
+    material: "serum"
+    result: 0.5
+    result_unit: "mg/L"
+    reference_range_min: 0.3
+    reference_range_max: 0.7
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Lead"
+    material: "blood"
+    result: "<1.0"
+    result_unit: "mcg/dL"
+    reference_range_min: 0
+    reference_range_max: 3.5
+    result_status: "Normal"
+    observations: "Normal"
+  - metric: "Cholesterol Total"
+    material: "serum"
+    result: 194
+    result_unit: "mg/dL"
+    reference_range_min: 0
+    reference_range_max: 170
+    result_status: "High"
+    observations: "Above desired level for under 20 years"
+  - metric: "HDL Cholesterol"
+    material: "serum"
+    result: 70
+    result_unit: "mg/dL"
+    reference_range_min: 45
+    reference_range_max: "N/A"
+    result_status: "Normal"
+    observations: "Desirable"
+  - metric: "LDL Cholesterol"
+    material: "serum"
+    result: 113
+    result_unit: "mg/dL"
+    reference_range_min: 0
+    reference_range_max: 110
+    result_status: "High"
+    observations: "Above desired level for under 20 years"
+  - metric: "Triglycerides"
+    material: "serum"
+    result: 36
+    result_unit: "mg/dL"
+    reference_range_min: 0
+    reference_range_max: 75
+    result_status: "Normal"
+    observations: "Desirable under fasting condition"
+  - metric: "25 Hydroxy-Vitamin D"
+    material: "serum"
+    result: 59
+    result_unit: "ng/mL"
+    reference_range_min: 20
+    reference_range_max: "N/A"
+    result_status: "Normal"
+    observations: "Normal for healthy population"

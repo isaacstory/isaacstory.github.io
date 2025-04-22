@@ -55,6 +55,7 @@ examfiles = [
     "20240823 - Dr Rogerio - Pedido exame ressonancia.pdf",
     "20240907 - Variantyx Genetic Test.pdf",
     "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
+    "20250323 - Fleury - Sangue.pdf",
 ]
 
 examfiles_forvalues = [
@@ -114,6 +115,7 @@ examfiles_forvalues = [
     "20240823 - Dr Rogerio - Pedido exame ressonancia.pdf",
     "20240907 - Variantyx Genetic Test.pdf",
     "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
+    "20250323 - Fleury - Sangue.pdf",
 ]
 
 prescription_files = [

@@ -1,0 +1,32 @@
+sample_date: "2025-03-23"
+requested_by: "Dr. Rogério Rodrigues Rita"
+metrics:
+- "Complete blood count"
+- "Ferritin"
+- "Electrolytes (Sodium, Potassium, Chloride)"
+- "Liver Enzymes (AST, ALT, GGT)"
+- "Lipid Profile (HDL, LDL, Triglycerides)"
+- "Hormone Levels (TSH, Free T4)"
+purpose:
+- "To assess overall health status"
+- "To check for any potential deficiencies or excesses in key blood components"
+- "To investigate possible liver function and thyroid function abnormalities"
+resultSummary:
+- "All measured components were within normal reference range except non-HDL cholesterol"
+- "Non-HDL cholesterol might indicate a risk for cardiovascular disease"
+abnormalValues:
+- "Non-HDL Cholesterol: 124 mg/dL (Intermediary risk range, reference less than 120 mg/dL)"
+normalValues:
+- "Ferritin: 50 mcg/L (normal)"
+- "Sodium: 144 mEq/L (normal)"
+- "Potassium: 4.7 mEq/L (normal)"
+- "Chloride: 107 mEq/L (upper normal limit)"
+- "AST: 32 U/L (normal)"
+- "ALT: 15 U/L (normal)"
+- "TSH: 3.8 mUI/L (normal)"
+- "Free T4: 1.8 ng/dL (normal for age)"
+assessmentSummary:
+- "Comprehensive assessment of general health with focus on blood, liver, lipid, and thyroid metrics"
+gptInterpretation:
+- "The patient's exam results are mostly within normal limits, indicating good general health."
+- "Non-HDL cholesterol is at an intermediary level, suggesting the need for lifestyle modifications to reduce cardiovascular risks."
