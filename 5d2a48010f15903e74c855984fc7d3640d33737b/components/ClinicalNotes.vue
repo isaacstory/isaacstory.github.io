@@ -33,17 +33,16 @@
     </div>
 
     <div class="current-supplements section">
-      <h2>Current supplementation (as of 2025-jan)</h2>
+      <h2>Current supplementation (as of 2025-may)</h2>
       <ul>
-        <li>- DHH-B, 1/2 capsule at bedtime</li>
-        <li>- Taurine 500mg, 1 capsule at bedtime</li>
-        <li>- Melatonin DUO, 1 capsule at bedtime</li>
-        <li>- L-theanine + GABA complex, 10ml twice a day (L-Teanina 500 mg; GABA 500 mg; Memantina 5 mg; Inositol 500 mg; Citicolina 200 mg; 5-HTP 50 mg)</li>
-        <li>- Vitamin drops mix, 5 drops/day (Vitamin D3 7000 IU; Vitamin A 1500 IU; Vitamin E 100 IU; Mix tocopherol 50 mg; Vitamin K2 Trans 100 mcg)</li>
-        <li>- Vitamin formula, 1 x 16ml dose / day with meal (Ascorbate magnesium 500 mg; Thiamine 20 mg; Vitamin B2 5 mg; Vitamin B3 30 mg; Vitamin B5 30 mg; Vitamin B6 20 mg; Zinc (acetate) 30 mg; Hydroxocobalamin 500 mcg; Folic acid 500 mcg; Biotin 100 mcg; Selenium (selenite) 100 mcg; Manganese (Albion) 0.5 mg)</li>
-        <li>- Super Omega 3. 5ml once a day (1080mg EPA + 720MG DHA)</li>
-        <li>- Methylcobalamin 1000 mcg, 1 drop/day</li>
-        <li>- L-Carnitine 1000mg, 3ml 2x/day</li>
+        <li>- Vitamin formula, 5ml after lunch (Vitamin B1 10 mg; B2 5 mg; B5 10 mg; B6 15 mg; Biotin 50 mcg; Zinc 20 mg; Selenium 50 mcg; Chromium 50 mcg; Manganese 0.5 mg; Magnesium ascorbate 300 mg; Betaglucan Plus 200 mg; Hydroxocobalamin 500 mcg; Siliciumax 150 mg; Lithium 50 mcg; Nicotinamide 15 mg)</li>
+        <li>- Vitamin D3 3000 IU + Vitamin A 2000 IU + Vitamin E 50 IU + Tocopherol mix 50 mg + Vitamin K2 20 mcg: 5 drops/day</li>
+        <li>- L-Theanine 500 mg + GABA 500 mg + Memantine 5 mg + Inositol 500 mg + Citicoline 200 mg + 5-HTP 50 mg: 5ml twice a day (reduce dose if sedation occurs)</li>
+        <li>- Methylcobalamin 1000 mcg, 1 drop in the morning and 1 at noon</li>
+        <li>- Super Omega 3 liquid, 5ml once a day</li>
+        <li>- Melatonin DUO 2mg, 1 sublingual capsule diluted in a small amount of liquid before bedtime</li>
+        <li>- ProSleep 250 mg, try 1 to 2 capsules before bedtime</li>
+        <li>- Gut permeability formula, 1 scoop 1–2x/day mixed with juice or food (Peptan 4.5 g; Taurine 0.5 g; L-Glycine 1000 mg; Glucosamine sulfate 500 mg; Curcumin 95% 0.5 g; Fibregum 2.0 g; MSM 0.5 g; Orthosilicic acid 50 mg)</li>
       </ul>
     </div>
 
