@@ -39,17 +39,28 @@
         <li>- Vitamin D3 3000 IU + Vitamin A 2000 IU + Vitamin E 50 IU + Tocopherol mix 50 mg + Vitamin K2 20 mcg: 5 drops/day</li>
         <li>- L-Theanine 500 mg + GABA 500 mg + Memantine 5 mg + Inositol 500 mg + Citicoline 200 mg + 5-HTP 50 mg: 5ml twice a day (reduce dose if sedation occurs)</li>
         <li>- Methylcobalamin 1000 mcg, 1 drop in the morning and 1 at noon</li>
-        <li>- Super Omega 3 liquid, 5ml once a day</li>
+        <li>- Super Omega 3 liquid (1080mg EPA + 720mg DHA), 5ml once a day</li>
         <li>- Melatonin DUO 2mg, 1 sublingual capsule diluted in a small amount of liquid before bedtime</li>
         <li>- ProSleep 250 mg, try 1 to 2 capsules before bedtime</li>
-        <li>- Gut permeability formula, 1 scoop 1–2x/day mixed with juice or food (Peptan 4.5 g; Taurine 0.5 g; L-Glycine 1000 mg; Glucosamine sulfate 500 mg; Curcumin 95% 0.5 g; Fibregum 2.0 g; MSM 0.5 g; Orthosilicic acid 50 mg)</li>
+        <li>- Taurine 500mg, 1 capsule before bedtime</li>
+        <li>- Gut permeability formula, 1 scoop 1 x/day mixed with juice or food (Peptan 4.5 g; Taurine 0.5 g; L-Glycine 1000 mg; Glucosamine sulfate 500 mg; Curcumin 95% 0.5 g; Fibregum 2.0 g; MSM 0.5 g; Orthosilicic acid 50 mg)</li>
       </ul>
     </div>
 
     <div class="current-status section">
       <h2>Current Status</h2>
-        <p>At present, the biggest concern regarding Isaac’s development is his pronounced hyperactivity. He spends much of his day running indoors, moving rapidly from the living room to the kitchen and back, often waving items in his hand (ribbons, cloth, paper). He also jumps between couches and has significant difficulty focusing on any task or play activity. His parents are worried that this persistent lack of attention interferes with cognitive development, as he cannot engage in learning opportunities or structured play.</p>
-        <p>On a more positive note, Isaac has been sleeping significantly better. Previously, he would often wake around 3 or 4 AM and stay awake for the remainder of the night, leading to sleep deprivation for both him and his mother. Now, these disruptions are much less frequent, and he usually remains asleep through the night. His bowel movements have also improved; whereas they used to alternate between pasty and hard, they are currently more consistently firm. Additionally, he used to laugh spontaneously without apparent reason throughout the day. This inappropriate laughter has become considerably less frequent.</p>
+        <h3>Key Symptoms</h3>
+        <ul>
+          <li>Pronounced hyperactivity: constant running.</li>
+          <li>Severe attention deficit and lack of focus.</li>
+          <li>Oral and motor stereotypies (e.g., sticking tongue out, waving ribbons).</li>
+          <li>Episodic insomnia.</li>
+          <li>Mood instability: crying or laughing without apparent cause.</li>
+          <li>Recent onset of screaming.</li>
+          <li>Low muscle tone.</li>
+        </ul>
+        <p>At present, the biggest concern regarding Isaac's development is his pronounced hyperactivity and lack of attention. He spends much of his day running indoors, moving rapidly from the living room to the kitchen and back, often waving items in his hand (ribbons, cloth, paper). Parents are worried that this persistent lack of attention interferes with cognitive development, as he cannot engage in learning opportunities or structured play.</p>
+        <p>On a more positive note, Isaac has been sleeping better. Previously, he would often wake around 3 or 4 AM and stay awake for the remainder of the night, leading to sleep deprivation for both him and his mother. Now, these disruptions less frequent (1-2 times a week). His bowel movements have also improved; whereas they used to alternate between pasty and hard, they are currently more consistently firm. Additionally, he used to laugh spontaneously without apparent reason throughout the day. This inappropriate laughter has become considerably less frequent.</p>
         <p>Isaac continues to receive specialized educational support, including a therapeutic assistant at school, which has helped to provide more individualized attention. Nonetheless, his parents and clinical team remain focused on addressing his hyperactivity, improving attention, and encouraging more functional communication.</p>
     </div>
 
