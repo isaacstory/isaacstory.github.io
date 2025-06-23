@@ -1,0 +1,36 @@
+sample_date: "2025-04-25"
+requested_by: "Dr. Monica Elisabeth Simons Guerra"
+metrics:
+- "Digital radiograph of cavum air column"
+- "Digital radiograph of facial sinuses"
+- "Digital chest radiograph"
+purpose:
+- "Assess hypertrophy in nasopharyngeal area"
+- "Evaluate transparency of maxillary sinuses"
+- "Examine thoracic structure and lung condition"
+resultSummary:
+- "Hypertrophy of the posterior wall of the nasopharynx causing narrowing of the air column"
+- "Slight peripheral hypotransparency of the maxillary sinuses, other air cavities normal"
+- "Dorsal scoliotic attitude with right convexity"
+- "Cardiac silhouette normal"
+- "No significant mediastinal widening"
+- "Diffuse mild pulmonary hyperinflation, clear costophrenic angles"
+abnormalValues:
+- "Hypertrophy of the posterior wall of the nasopharynx"
+- "Slight peripheral hypotransparency of the maxillary sinuses"
+- "Dorsal scoliotic attitude"
+normalValues:
+- "Conserved bone density"
+- "Cardiac silhouette within normal limits"
+- "Normal transparency of paranasal sinuses"
+- "No mediastinal widening"
+- "No nodular formations or intraparenchymal consolidations"
+- "Aorta and pulmonary vascularization without alterations"
+- "Clear costophrenic angles"
+assessmentSummary:
+- "Presence of nasopharyngeal hypertrophy"
+- "No significant pathologies in chest area"
+gptInterpretation:
+- "The nasopharyngeal hypertrophy may indicate potential respiratory obstruction issues."
+- "The slight hypotransparency in the maxillary sinuses suggests mild sinus issues."
+- "Overall, the chest x-ray indicates normal cardiac and pulmonary conditions."

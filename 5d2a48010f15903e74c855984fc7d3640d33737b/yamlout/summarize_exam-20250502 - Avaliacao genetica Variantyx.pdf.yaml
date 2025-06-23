@@ -1,0 +1,25 @@
+sample_date: "2025-05-02"  # Date the report was issued
+requested_by: "Unknown"  # No information on who requested the test
+metrics:
+- "Genomic Unity® Pharmacogenomics Analysis"
+- "CYP2D6 (*1/*4) Intermediate Metabolizer"
+- "CYP2C19 (*1/*17) Rapid Metabolizer"
+- "CYP3A5 (*3/*3) Poor Metabolizer"
+purpose:
+- "Identify common variants associated with drug metabolism and pharmacogenetics response"
+resultSummary:
+- "Intermediate Metabolizer for several drugs including Eliglustat, Propafenone, Carvedilol"
+- "Normal Metabolizer for drugs such as Flurbiprofen, Piroxicam"
+- "Rapid Metabolizer for drugs like Pantoprazole, Esomeprazole"
+abnormalValues:
+- "CYP2D6 Intermediate Metabolizer"
+- "CYP3A5 Poor Metabolizer"
+normalValues:
+- "CYP2C9 Normal Metabolizer"
+- "SLCO1B1 Normal Function"
+assessmentSummary:
+- "The patient's genotype indicates varied drug metabolizing capacities, suggesting personalized medication management."
+gptInterpretation:
+- "The test indicates the patient has an intermediate metabolizer status for a significant number of medications. This may affect drug efficacy and should be considered in clinical decisions."
+- "Rapid metabolizer status for CYP2C19 may lead to faster clearance of drugs metabolized by this enzyme, necessitating dose adjustments."
+- "Poor metabolizer status in CYP3A5 suggests that for drugs metabolized by this enzyme, standard doses may be less effective."

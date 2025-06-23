@@ -56,6 +56,9 @@ examfiles = [
     "20240907 - Variantyx Genetic Test.pdf",
     "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
     "20250323 - Fleury - Sangue.pdf",
+    '20250425 - Radiografia coluna aerea Isaac.pdf',
+    '20250502 - Avaliacao genetica Variantyx.pdf',
+    '20250609 - Relatorio Genetico - Consulta Dr Boles + Dr Rogerio.pdf',
 ]
 
 examfiles_forvalues = [
@@ -116,6 +119,9 @@ examfiles_forvalues = [
     "20240907 - Variantyx Genetic Test.pdf",
     "20241010 - Ressonancia Magnetica cabeca - Einstein.pdf",
     "20250323 - Fleury - Sangue.pdf",
+    '20250425 - Radiografia coluna aerea Isaac.pdf',
+    '20250502 - Avaliacao genetica Variantyx.pdf',
+    '20250609 - Relatorio Genetico - Consulta Dr Boles + Dr Rogerio.pdf',
 ]
 
 prescription_files = [

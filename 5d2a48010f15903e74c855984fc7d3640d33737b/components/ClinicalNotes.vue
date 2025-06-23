@@ -69,6 +69,73 @@
         <p>Tony - Isaac's father - comes from a large family. One of his cousins is a male adult diagnosed with ASD.</p>
     </div>
 
+    <div class="genetic-profile section">
+      <h2>Genetic Profile</h2>
+      <p>In June 2025, Isaac underwent comprehensive genetic analysis by <strong>Dr. Richard Boles</strong>, including full DNA sequencing to identify potential genetic contributors to his condition. The analysis revealed multiple variants across nuclear and mitochondrial DNA that help explain his clinical presentation and guide targeted treatments.</p>
+      
+      <h3>🧬 Nuclear-DNA Variants (Most Clinically Relevant)</h3>
+      <ul>
+        <li><strong>SLC22A5 (de novo mutation)</strong>
+          <ul>
+            <li>Affects carnitine transport → less energy available during stress</li>
+            <li><em>Action:</em> Supplement Isaac with L-carnitine ± acetyl-carnitine</li>
+          </ul>
+        </li>
+        <li><strong>TRAP1 (paternal)</strong>
+          <ul>
+            <li>Mitochondrial stress protection impaired → more oxidative damage</li>
+            <li><em>Action:</em> Support mitochondria with antioxidants (CoQ10, alpha-lipoic acid, NAC, etc.)</li>
+          </ul>
+        </li>
+        <li><strong>SCN9A (paternal)</strong>
+          <ul>
+            <li>Overactive pain/heat sensors → could trigger meltdowns, pain, poor sleep</li>
+            <li><em>Action:</em> Consider sodium channel blockers (topical lidocaine, gabapentin, oxcarbazepine)</li>
+          </ul>
+        </li>
+        <li><strong>MED13 (paternal)</strong>
+          <ul>
+            <li>Subtle gene expression regulator → linked to ASD, but not directly actionable</li>
+            <li><em>Action:</em> Justifies ongoing neurodevelopmental therapies</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3>🔋 Mitochondrial-DNA Variants</h3>
+      <ul>
+        <li><strong>MT-TT (m.15929A>G, maternal)</strong>
+          <ul>
+            <li>Rare tRNA mutation → might slightly reduce protein production in mitochondria</li>
+            <li><em>Action:</em> No direct action; adds to mitochondrial stress</li>
+          </ul>
+        </li>
+        <li><strong>MT-ND1 (m.3397A>G, maternal)</strong>
+          <ul>
+            <li>Seen in some neurological conditions, likely benign here</li>
+            <li><em>Action:</em> No current concern</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3>🧩 Structural & Repeat Variants</h3>
+      <ul>
+        <li><strong>Chromosome 3q deletion (paternal)</strong>
+          <ul>
+            <li>Deletion includes NAALADL2; not well understood</li>
+            <li><em>Action:</em> Monitor; classified as VUS (variant of uncertain significance)</li>
+          </ul>
+        </li>
+        <li><strong>CACNA1A repeat contraction (origin unclear)</strong>
+          <ul>
+            <li>May relate to migraines/ataxia in other cases, unclear relevance for Isaac</li>
+            <li><em>Action:</em> No action needed now</li>
+          </ul>
+        </li>
+      </ul>
+
+      <p><strong>Clinical Significance:</strong> Isaac's condition appears to result from multiple genetic variants working together, with mitochondrial dysfunction as a central theme. The genetic findings provide clear therapeutic targets and justify current interventions, particularly focusing on mitochondrial support, energy metabolism, and pain sensitivity management.</p>
+    </div>
+
     <div class="timeline section">
       <h2>Clinical Timeline</h2>
       <div class="timeline-table">

@@ -1,0 +1,43 @@
+sample_date: "2025-06-09"
+requested_by: "Dr. Richard Boles"
+metrics:
+- "Nuclear-DNA variants"
+- "Mitochondrial-DNA variants"
+- "Structural & repeat variants"
+- "Chromosomal microarray"
+purpose:
+- "Comprehensive genetic analysis for Isaac"
+- "Identify actionable genetic variants"
+- "Assess mitochondrial dysfunction mechanisms"
+- "Guide targeted therapeutic interventions"
+resultSummary:
+- "Multiple clinically relevant genetic variants identified across nuclear and mitochondrial DNA"
+- "SLC22A5 de novo mutation affects carnitine transport and energy availability"
+- "TRAP1 variant impairs mitochondrial stress protection"
+- "SCN9A variant causes overactive pain/heat sensors"
+- "Mitochondrial tRNA mutations contribute to cellular stress"
+abnormalValues:
+- "SLC22A5 c.254_264dupGGCTCGCCACC (de novo) - Pathogenic variant affecting carnitine transport, requires L-carnitine supplementation"
+- "TRAP1 c.1163G>A (paternal) - Probable splice-site variant impairing mitochondrial stress protection, requires antioxidant support (CoQ10, alpha-lipoic acid, NAC)"
+- "SCN9A c.2190G>C (paternal) - Overactive pain/heat sensors causing meltdowns/poor sleep, consider sodium channel blockers (lidocaine, gabapentin, oxcarbazepine)"
+- "MED13 (paternal) - Gene expression regulator linked to ASD, not directly actionable but justifies neurodevelopmental therapies"
+- "MT-TT m.15929A>G (maternal) - Rare tRNA mutation reducing mitochondrial protein production, adds to mitochondrial stress"
+- "MT-ND1 m.3397A>G (maternal) - Seen in neurological conditions, likely benign in Isaac's case"
+- "Chromosome 3q deletion (paternal) - Includes NAALADL2 deletion, VUS requiring monitoring"
+- "CACNA1A repeat contraction - May relate to migraines/ataxia, unclear relevance for Isaac"
+normalValues:
+- "No highly pathogenic single variants identified as sole disease cause"
+- "MT-ND1 variant likely benign in Isaac's case"
+assessmentSummary:
+- "Disease mechanism appears polygenic with mitochondrial dysfunction as central theme"
+- "Multiple actionable variants identified requiring targeted interventions"
+- "Carnitine supplementation indicated for SLC22A5 variant"
+- "Mitochondrial support protocol recommended for TRAP1 variant"
+- "Pain management strategies needed for SCN9A variant"
+- "Continued neurodevelopmental support justified by MED13 findings"
+gptInterpretation:
+- "Isaac's condition results from multiple genetic variants working together"
+- "Primary focus should be on mitochondrial support and energy metabolism"
+- "Pain sensitivity management crucial for behavioral improvements"
+- "Genetic findings provide clear therapeutic targets and justify current interventions"
+- "Regular monitoring needed for variants of uncertain significance"
