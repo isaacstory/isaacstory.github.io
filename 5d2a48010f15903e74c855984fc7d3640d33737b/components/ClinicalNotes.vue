@@ -5,7 +5,7 @@
       <ul>
         <li><strong>Name:</strong> Isaac França</li>
         <li><strong>Date of Birth:</strong> 11/06/2018</li>
-          <li><strong>Age:</strong> 6 years old</li>
+          <li><strong>Age:</strong> 7 years old</li>
         <li><strong>Primary Diagnosis:</strong> Autism Spectrum Disorder (ASD)</li>
       </ul>
     </div>
@@ -320,6 +320,107 @@
               <td>Nov 2024</td>
               <td>Stopped taking Methyl-B12 for testing</td>
               <td>Coincided with REAC period. Major improvement in sleep. No more insomnia episodes. Unclear if due to REAC or supplement withdrawal. Noticed decreased speech as well. 27/12/24</td>
+            </tr>
+            <tr>
+              <td>Sep 2024</td>
+              <td>Variantyx Whole Genome Sequencing (Trio) ordered</td>
+              <td>
+                Dr. Rogério Rita, having exhausted conventional diagnostic approaches, recommended consulting <strong>Dr. Richard Boles</strong>, a leading American medical geneticist specializing in mitochondrial and molecular medicine (Pasadena, CA). A whole genome sequencing trio test (Isaac + both parents) was ordered through Variantyx to search for genetic variants that previous exome analyses may have missed. Sample collected Sep 7, 2024.
+              </td>
+            </tr>
+            <tr>
+              <td>Mar 2025</td>
+              <td>Fleury blood panel</td>
+              <td>
+                <a href="drive/Exams/20250323 - Fleury - Sangue.pdf">Routine blood work</a>. Results mostly within normal limits. Non-HDL cholesterol slightly elevated but not clinically significant. Provided baseline values ahead of the upcoming genetic consultation.
+              </td>
+            </tr>
+            <tr>
+              <td>Apr 2025</td>
+              <td>Chest and spine X-ray</td>
+              <td>
+                <a href="drive/Exams/20250425 - Radiografia coluna aerea Isaac.pdf">Nasopharyngeal hypertrophy</a> causing airway narrowing, and a dorsal scoliotic attitude with right convexity. These findings may be relevant to Isaac's sleep-related breathing issues. Cardiac and pulmonary findings normal.
+              </td>
+            </tr>
+            <tr>
+              <td>Jun 2025</td>
+              <td>Genetic consultation with Dr. Richard Boles</td>
+              <td>
+                <a href="drive/Exams/20250609 - Relatorio Genetico - Consulta Dr Boles + Dr Rogerio.pdf">Breakthrough findings.</a> Dr. Boles' comprehensive re-analysis of the Variantyx WGS data identified multiple genetic variants that together explain Isaac's condition as a <strong>polygenic mitochondrial dysfunction</strong>. No single variant is causal by itself, but together they create a combined supply-and-demand energy problem:
+                <br><br>
+                <strong>Supply side (maternal):</strong>
+                <br>- <em>MT-TT</em> (m.15929A>G): rare tRNA variant affecting mitochondrial protein translation
+                <br>- <em>MT-ND1</em> (m.3397A>G): variant in Complex I of the respiratory chain
+                <br><br>
+                <strong>Demand side (paternal):</strong>
+                <br>- <em>TRAP1</em>: impaired mitochondrial stress protection chaperone, increasing oxidative damage
+                <br>- <em>SCN9A</em>: overactive NaV1.7 pain/heat sodium channel, potentially triggering behavioral meltdowns and consuming excess energy
+                <br>- <em>MED13</em>: gene expression regulator linked to ASD (previously found in exome)
+                <br><br>
+                <strong>De novo mutation:</strong>
+                <br>- <em>SLC22A5</em>: frameshift in the carnitine transporter gene (extremely rare, 5 in 100K). Impairs cellular carnitine uptake, reducing the cell's ability to produce energy from fats. Likely arose via paternal gonadal mosaicism.
+                <br><br>
+                <strong>Actions taken:</strong> Dr. Rogério increased L-carnitine supplementation to boost mitochondrial energy production. Started <strong>duloxetine</strong> (serotonin-norepinephrine reuptake inhibitor) to address the SCN9A-related pain signaling. Blood tests ordered for free carnitine, CoQ10, vitamin D, potassium, and magnesium levels.
+              </td>
+            </tr>
+            <tr>
+              <td>Jun 2025</td>
+              <td>Home polysomnography (sleep study)</td>
+              <td>
+                <a href="drive/Exams/20250629 - Biologix - Polisonografia.pdf">Normal ODI (4.2/hour)</a>, ruling out significant sleep apnea. However, sleep efficiency was only 81% with 33.5 min of wake time after sleep onset, and one SpO2 dip to 85%. The study was done to investigate Isaac's persistent sleep problems — he was still waking up roughly 3 nights per week and staying awake for hours. The home oximetry-based study has limitations; a full in-lab polysomnography with EEG was recommended if symptoms persist.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul 2025</td>
+              <td>qEEG and intensive therapy with Dr. Robert Melillo in New York</td>
+              <td>
+                The family traveled to New York for a two-week intensive program with <strong>Dr. Robert Melillo</strong> (Melillo Method / Brain Balance). A qEEG brain mapping revealed <a href="drive/Exams/20250714 - qEEG Melillo - Laudo.pdf">significant abnormalities</a> that previous standard EEGs (2020, 2021, 2023 — all "normal") had not detected:
+                <br><br>
+                - Disorganized background with diffuse theta-delta slowing (brain immaturity)
+                <br>- Multifocal epileptiform discharges (spike-wave bursts) — described as "software glitches," not seizures
+                <br>- Excess high-frequency beta/gamma activity indicating hyperarousal, anxiety, and sleep difficulties
+                <br>- <a href="drive/Exams/20250714 - qEEG Melillo - Summary.pdf">Elevated TBR</a> (Theta/Beta Ratio, 86.9th percentile) — a recognized ADHD biomarker indicating frontal lobe immaturity
+                <br>- AI-estimated brain development age of 9.5 years (vs chronological 6.7), suggesting exceptional intelligence that cannot be fully expressed due to brain imbalance
+                <br><br>
+                Diagnosis: <strong>Right Hemisphere Deficit</strong>. All primitive reflexes were at <strong>level 4</strong> (highest level of retention) — developmental milestones that should have disappeared as the child grows. According to Dr. Melillo's framework, their persistence is a key factor blocking normal brain development.
+                <br><br>
+                The family started the Melillo Method exercise program (twice daily), including blue glasses for right hemisphere stimulation, clapping exercises with metronome synchronization, convergence exercises, and primitive reflex integration work. Goal: 50% reflex integration within 6 months.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul 2025</td>
+              <td>Vibrant food sensitivity and allergy panel</td>
+              <td>
+                <a href="drive/Exams/20250724 - Vibrant - Blood - Food sensitivity and Allergies.pdf">No IgE allergies</a> to any of 209 foods tested (no anaphylaxis risk). However, significant IgG and IgA reactivity to <strong>dairy</strong> (cow's milk, mozzarella, yogurt, whey, casein, goat milk), <strong>gluten</strong> (wheat, gliadin, spelt, barley), <strong>eggs</strong>, and baker's yeast. These delayed-type immune responses validate the gluten-free, dairy-free diet that Isaac has been following.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul-Dec 2025</td>
+              <td>Melillo Method exercises at home</td>
+              <td>
+                Continued the twice-daily exercise program prescribed by Dr. Melillo after returning from New York. Discontinued around December 2025 after moving to a new house — the disruption and demands of settling in made it difficult to maintain the routine. As of early 2026, resuming has proven challenging because Isaac now resists doing the exercises.
+              </td>
+            </tr>
+            <tr>
+              <td>Sep 2025</td>
+              <td>Fleury blood panel (mitochondrial assessment)</td>
+              <td>
+                <a href="drive/Exams/20250913 - Fleury - Sangue.pdf">Key findings confirming the mitochondrial dysfunction hypothesis:</a>
+                <br>- <strong>Lactic acid markedly elevated</strong> (37.1 mg/dL, ref 5.7-22) — nearly 2x upper limit, consistent with impaired mitochondrial oxidative metabolism
+                <br>- <strong>CoQ10 very elevated</strong> (6734 mcg/L, ref 319-1554) — confirms supplementation is being well absorbed
+                <br>- <strong>Total carnitine borderline-low</strong> (33, ref 32-62) — consistent with the SLC22A5 carnitine transporter variant found by Dr. Boles
+                <br>- Selenium slightly elevated (177, ref 63-160) — supplementation-related, not toxic
+                <br>- Normal acylcarnitines, liver function, and CBC
+                <br><br>
+                The elevated lactate with normal pyruvate (ratio ~18.7 in molar terms, suspicious threshold is >20) further supports electron transport chain dysfunction.
+              </td>
+            </tr>
+            <tr>
+              <td>Mar 2026</td>
+              <td>Notable sleep improvement</td>
+              <td>
+                For the first time in years, Isaac slept through the night for an entire week — a huge quality-of-life improvement for the whole family, especially his mother who had been severely sleep-deprived. Possibly related to a new sulforaphane supplement recently started, and/or a lycra compression bed sheet that provides sensory input (feeling of being held). The cause is unclear but the improvement is significant.
+              </td>
             </tr>
           </tbody>
         </table>
