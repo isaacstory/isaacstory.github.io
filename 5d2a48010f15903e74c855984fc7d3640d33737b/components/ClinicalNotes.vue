@@ -4,15 +4,81 @@
       <h2>Patient Information</h2>
       <ul>
         <li><strong>Name:</strong> Isaac França</li>
-        <li><strong>Date of Birth:</strong> 11/06/2018</li>
+        <li><strong>Date of Birth:</strong> 2018-11-06</li>
           <li><strong>Age:</strong> 7 years old</li>
-        <li><strong>Primary Diagnosis:</strong> Autism Spectrum Disorder (ASD)</li>
+        <li><strong>Primary Diagnosis:</strong> Autism Spectrum Disorder (ASD), level 3</li>
+        <li><strong>Working diagnosis:</strong> polygenic mitochondrial dysfunction (Dr. Richard Boles, Jun 2025)</li>
+      </ul>
+    </div>
+
+    <div class="where-we-are section">
+      <h2>Where We Are Now <span class="asof">(updated 2026-08-13)</span></h2>
+
+      <p><strong>The short version.</strong> The gelastic-seizure question has been answered and closed. A 12-hour video-EEG in July 2026 captured Isaac's laughing episodes with no ictal correlate, and the neuropediatrician read them as an autism stereotypy — no antiepileptic, no new MRI. The clinical priority moved to <strong>agitation and attention</strong>, and the first attempt at treating that, guanfacine ER, was stopped after six days. Isaac is currently on no psychoactive medication.</p>
+
+      <h3>What he is taking today</h3>
+      <ul>
+        <li>Potassium chloride — 4 capsules/day (2 at lunch, 2 at dinner, mixed into food)</li>
+        <li>Vitamin D3 + A + E + K2 liposomal formula — 5 drops/day, morning</li>
+        <li>Super Omega-3 — 5 ml/day, after lunch</li>
+        <li>Melatonin DUO — 1 capsule at bedtime (critical for sleep)</li>
+      </ul>
+      <p class="caveat">⚠️ This list needs confirmation with the family. In early August 2026 the family withdrew supplementation as a block to establish a baseline, and it is being reintroduced item by item. Some of the four above may currently be out.</p>
+
+      <h3>Tried and stopped in the last 12 months</h3>
+      <div class="timeline-table">
+        <table>
+          <thead>
+            <tr><th style="min-width: 120px;">What</th><th style="min-width: 110px;">When</th><th>Why it stopped, and what it did</th></tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Duloxetine</strong> 15 → 20 mg/day</td>
+              <td>Jun 2025 → Apr 2026</td>
+              <td>Started by Dr. Boles/Dr. Rogério for the SCN9A pain-signalling variant. It clearly helped <strong>crying, screaming and genital manipulation</strong>, but did nothing for attention. Withdrawn completely by the family at the end of April 2026. Both symptoms it controlled came back within days and are present again now. The prescriber preferred not to combine it with guanfacine.</td>
+            </tr>
+            <tr>
+              <td><strong>L-carnitine + acetyl-L-carnitine + zinc</strong>, high dose</td>
+              <td>Jun 2025 → May 2026</td>
+              <td>Started to compensate the SLC22A5 carnitine-transporter variant. Suspected of contributing to a very dysregulated period in May–June 2026. Dr. Paula Girotto reviewed the carnitine levels in Jul 2026 and advised against escalating further just to raise the laboratory number.</td>
+            </tr>
+            <tr>
+              <td><strong>All supplements</strong> (washout)</td>
+              <td>May 2026, repeated Aug 2026</td>
+              <td>A deliberate family decision to establish Isaac's true baseline. The August round overlapped the guanfacine trial, which means that trial was evaluated with a second variable moving at the same time.</td>
+            </tr>
+            <tr>
+              <td><strong>Guanfacine ER 1 mg</strong> — attempt 1</td>
+              <td>Jul 2026, 2 days</td>
+              <td>Stopped after two days for night crying and trouble sleeping, during a concurrent viral illness. Dose and time of day used are not documented.</td>
+            </tr>
+            <tr>
+              <td><strong>Guanfacine ER 1 mg</strong> — attempt 2</td>
+              <td>2026-08-08 → 2026-08-13</td>
+              <td>See the note below. Stopped on day 6 after dizziness with loss of balance.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <h3>The guanfacine trial, precisely</h3>
+      <p>This matters more than the outcome, because the outcome is not interpretable. The prescription was <strong>1 mg extended-release, once daily, in the morning</strong>. What was actually given was <strong>a quarter of a tablet (~0.25 mg), at night, crushed</strong>. The crushing was discovered by the family on 2026-08-10 by reading up on the drug; an extended-release matrix cannot be split or crushed without dose dumping. The trial was stopped three days later without ever having been run as prescribed.</p>
+      <p>Observed during the six days: insomnia on two nights, <strong>dizziness with loss of balance on two consecutive mornings</strong> (an adult had to physically steady him during tooth-brushing — this is a fall risk, and it is why stopping was the right call), daytime somnolence, apathy, dry mouth with spontaneous requests for water. Also observed: the school assistant reported <strong>improved daytime agitation</strong>, and the most sedated day was also the day with the best independent speech and the best toileting record on file.</p>
+      <p>The day pattern is worth a look. Symptoms clustered in the early morning — roughly the peak window for a dose given at night — while afternoons at school were consistently intact. That is the shape of a <strong>peak effect from the wrong dosing time</strong>, not of intolerance to the molecule.</p>
+      <p><strong>The record should therefore not say that Isaac does not tolerate guanfacine.</strong> It was never tested.</p>
+
+      <h3>Open questions worth consultation time</h3>
+      <ul>
+        <li><strong>Is guanfacine worth a proper trial</strong> — whole tablet, 1 mg, in the morning — before the drug class is written off?</li>
+        <li><strong>Does anything replace what duloxetine was doing?</strong> Crying, screaming and genital manipulation returned after withdrawal and are documented daily in the school reports.</li>
+        <li><strong>Pharmacogenomics is already in hand.</strong> The Variantyx whole-genome report includes CYP2D6 and CYP2C19 results. It has never been reviewed with a prescriber, and it may answer the medication-tolerance question without ordering a new test.</li>
+        <li><strong>Persistent elevated lactate</strong> (31.7 mg/dL in Jun 2026, third consecutive panel above range) with a mild metabolic acidosis on the venous blood gas, and carnitine fractions sitting at the bottom of the reference range.</li>
       </ul>
     </div>
 
     <div class="clinical-history section">
       <h2>Clinical History</h2>
-        <p>Isaac França is a 6-year-old male diagnosed with Autism Spectrum Disorder (ASD) around the age of 2.5 years. Initial concerns arose when he was approximately 18 months old due to delayed speech development and a lack of response when called by name. He has never fully developed functional speech; although he possesses a broad vocabulary and can sing many songs, he often struggles to use language intentionally for communication. Over time, he has shown limited progress in verbalizing simple words to express basic needs, but remains predominantly non-verbal.</p>
+        <p>Isaac França is a 7-year-old male diagnosed with Autism Spectrum Disorder (ASD), level 3, around the age of 2.5 years. Initial concerns arose when he was approximately 18 months old due to delayed speech development and a lack of response when called by name. He has never fully developed functional speech; although he possesses a broad vocabulary and can sing many songs, he often struggles to use language intentionally for communication. Over time, he has shown limited progress in verbalizing simple words to express basic needs, but remains predominantly non-verbal.</p>
         <p>In terms of physical development, Isaac is strong and healthy. Early in life, he enjoyed running and showed good coordination. However, hyperactivity has become more pronounced, significantly affecting his daily functioning. He rarely sits still, constantly running from room to room, frequently holding or waving objects such as ribbons, cloths, or pieces of paper. Additionally, he often jumps on and off the couch, making it hard for him to engage in structured activities, functional play, or even watch short videos. This high level of activity and difficulty sustaining attention greatly concerns his family and therapists, as it impacts his learning and cognitive development.</p>
         <p>Socially, Isaac continues to prefer solitary play and rarely interacts with peers or adults in a meaningful way. He often uses toys in a non-functional manner, and shared play remains limited. Ongoing therapies aim to address his communication barriers, social skills, and hyperactivity.</p>
       </div>
@@ -33,7 +99,8 @@
     </div>
 
     <div class="current-supplements section">
-      <h2>Current supplementation (as of 2025-may)</h2>
+      <h2>Supplementation regimen as of May 2025 <span class="asof">(historical — not current)</span></h2>
+      <p class="caveat">⚠️ This is the regimen Isaac was on in May 2025. It is <strong>not</strong> what he takes today. Almost all of it was withdrawn during the 2026 washouts. For the current list see <em>Where We Are Now</em> at the top of this page.</p>
       <ul>
         <li>- Vitamin formula, 5ml after lunch (Vitamin B1 10 mg; B2 5 mg; B5 10 mg; B6 15 mg; Biotin 50 mcg; Zinc 20 mg; Selenium 50 mcg; Chromium 50 mcg; Manganese 0.5 mg; Magnesium ascorbate 300 mg; Betaglucan Plus 200 mg; Hydroxocobalamin 500 mcg; Siliciumax 150 mg; Lithium 50 mcg; Nicotinamide 15 mg)</li>
         <li>- Vitamin D3 3000 IU + Vitamin A 2000 IU + Vitamin E 50 IU + Tocopherol mix 50 mg + Vitamin K2 20 mcg: 5 drops/day</li>
@@ -48,20 +115,35 @@
     </div>
 
     <div class="current-status section">
-      <h2>Current Status</h2>
+      <h2>Current Status <span class="asof">(updated 2026-08-13)</span></h2>
         <h3>Key Symptoms</h3>
         <ul>
-          <li>Pronounced hyperactivity: constant running.</li>
-          <li>Severe attention deficit and lack of focus.</li>
-          <li>Oral and motor stereotypies (e.g., sticking tongue out, waving ribbons).</li>
-          <li>Episodic insomnia.</li>
-          <li>Mood instability: crying or laughing without apparent cause.</li>
-          <li>Recent onset of screaming.</li>
+          <li><strong>Pronounced hyperactivity</strong> — constant running, rarely still.</li>
+          <li><strong>Severe attention deficit</strong> — this and the hyperactivity are the current clinical priority.</li>
+          <li><strong>Out-of-context laughing</strong> — several seconds at a time, no preferred time of day, present for about two years. Investigated as a possible gelastic seizure in 2026 and ruled out by video-EEG; now understood as an autism stereotypy.</li>
+          <li><strong>Crying, screaming and emotional dysregulation</strong> — frequently with no identifiable antecedent. Worse since duloxetine was withdrawn.</li>
+          <li><strong>Genital manipulation</strong> — recurrent, requiring redirection. Was controlled by duloxetine; returned after withdrawal.</li>
+          <li><strong>Oral and motor stereotypies</strong> — waving objects near the eyes, biting pencil ends, hand-flapping.</li>
+          <li><strong>Episodic insomnia</strong> — improved substantially in 2026 but still unstable; sleep loss reliably produces a dysregulated next day.</li>
           <li>Low muscle tone.</li>
         </ul>
-        <p>At present, the biggest concern regarding Isaac's development is his pronounced hyperactivity and lack of attention. He spends much of his day running indoors, moving rapidly from the living room to the kitchen and back, often waving items in his hand (ribbons, cloth, paper). Parents are worried that this persistent lack of attention interferes with cognitive development, as he cannot engage in learning opportunities or structured play.</p>
-        <p>On a more positive note, Isaac has been sleeping better. Previously, he would often wake around 3 or 4 AM and stay awake for the remainder of the night, leading to sleep deprivation for both him and his mother. Now, these disruptions less frequent (1-2 times a week). His bowel movements have also improved; whereas they used to alternate between pasty and hard, they are currently more consistently firm. Additionally, he used to laugh spontaneously without apparent reason throughout the day. This inappropriate laughter has become considerably less frequent.</p>
-        <p>Isaac continues to receive specialized educational support, including a therapeutic assistant at school, which has helped to provide more individualized attention. Nonetheless, his parents and clinical team remain focused on addressing his hyperactivity, improving attention, and encouraging more functional communication.</p>
+
+        <h3>Where he functions well</h3>
+        <ul>
+          <li><strong>AAC on the tablet (PELP method)</strong> is his main channel — he makes independent requests through it daily, up to 7 in a single school shift on a good day.</li>
+          <li><strong>Drawing</strong> is a consistently effective reinforcer, and the hammock and weighted blanket reliably regulate him.</li>
+          <li>He requests rest through the tablet, respects a 5-minute timer, and returns to activity.</li>
+          <li>Toileting has progressed substantially through 2026 — the best day on record is 10 successes to 1 accident.</li>
+          <li>In August 2026 he spontaneously used <strong>prayer</strong> to self-regulate during a meltdown at school, reciting the Lord's Prayer in full while following it on the tablet. This is the longest connected verbal output on record and he chose the strategy himself.</li>
+        </ul>
+
+        <p><strong>The main concern</strong> remains hyperactivity and attention. Isaac spends much of the day moving, often waving items in his hand, and the family's worry is that persistent inattention is blocking cognitive development he otherwise has — the July 2025 qEEG estimated a brain development age above his chronological age, which is the argument that there is capacity not being expressed.</p>
+
+        <p><strong>Sleep</strong> improved markedly in March 2026, when he slept through the night for a full week for the first time in years, possibly linked to a sulforaphane supplement and a lycra compression bed sheet. It has not been stable since: through 2026 there are recurring nights of waking at 2–5 AM and staying awake. Sleep deprivation is treated by the team as a physiological cause of next-day dysregulation, not as behaviour.</p>
+
+        <p><strong>Behaviourally, 2026 has been volatile.</strong> May and June were markedly dysregulated — crying predominant, unpredictable outbursts with no identifiable antecedent, reduced eye contact and social exchange. Two candidate drivers are on the record: the duloxetine withdrawal in April, and the high-dose carnitine. Both were removed, and neither has been cleanly ruled in or out.</p>
+
+        <p>Isaac continues to receive a therapeutic assistant at school, ABA supervision, speech therapy focused on AAC, and occupational therapy. The Melillo Method exercise program was discontinued around December 2025 after a house move and has been hard to resume, as he now resists the exercises.</p>
     </div>
 
     <div class="family-history section">
@@ -422,6 +504,63 @@
                 For the first time in years, Isaac slept through the night for an entire week — a huge quality-of-life improvement for the whole family, especially his mother who had been severely sleep-deprived. Possibly related to a new sulforaphane supplement recently started, and/or a lycra compression bed sheet that provides sensory input (feeling of being held). The cause is unclear but the improvement is significant.
               </td>
             </tr>
+            <tr>
+              <td>Apr 2026</td>
+              <td>Duloxetine withdrawn completely</td>
+              <td>The family stopped duloxetine, which had been running since Jun 2025 at 15 then 20 mg/day. Sleep improved further over the following weeks — Isaac started waking at night but going back to sleep, which he had not been able to do. <strong>Within days, two symptoms returned: genital manipulation and crying/screaming.</strong> The family's reading, later confirmed as the working hypothesis, is that duloxetine had been controlling both. It has not been restarted; the neuropediatrician preferred not to combine it with guanfacine. The out-of-context laughing did <em>not</em> change with the withdrawal — it predates it.</td>
+            </tr>
+            <tr>
+              <td>May 2026</td>
+              <td>Full supplement washout to establish a baseline</td>
+              <td>A deliberate family decision: everything came out, including Spectrum Needs and the high-dose carnitine, to find out what Isaac's behaviour looks like unmedicated and unsupplemented. School reports through May and June describe the most dysregulated period on record — crying predominant, chairs thrown, unpredictable outbursts with no identifiable antecedent, reduced eye contact, low attention. Genital manipulation peaked in early May and then partly traded places with emotional and sensory dysregulation.</td>
+            </tr>
+            <tr>
+              <td>Jun 2026</td>
+              <td>Consultation with Dr. Rogério — gelastic seizure hypothesis raised</td>
+              <td>Dr. Rogério proposed that the out-of-context laughing the team had been managing as behavioural dysregulation might in fact be <strong>gelastic seizures</strong> — epilepsy presenting as laughter. He referred Isaac to <strong>Dra. Paula Girotto</strong>, a pediatric neurologist and neurophysiologist, and expected a new video-EEG and possibly a new MRI, with an antiepileptic likely to follow. No new medication was to be started before that consultation. The Jul 2025 Melillo qEEG, which had found multifocal epileptiform discharges, and the Boles genetic report were both to be taken to her.</td>
+            </tr>
+            <tr>
+              <td>Jun 2026</td>
+              <td>Fleury blood panel — mitochondrial follow-up</td>
+              <td>
+                <a href="drive/Exams/20260629 - Fleury - Sangue - Completo.pdf">Lactate still elevated at 31.7 mg/dL</a> (ref 5.7–22.0), down from 37.1 in Sep 2025 but above range for the third consecutive panel. Venous blood gas, new to this panel, showed a mild metabolic acidosis: HCO₃ 22 mmol/L (ref 23–27), base excess −3.8. Total carnitine 33 and free carnitine 29 µmol/L, both inside range but near the lower limit; carnitine esters exactly at the lower limit. All 48 acylcarnitine species normal, again arguing against a fatty acid oxidation disorder. Neuron-specific enolase, ammonia, CK, aldolase, liver, thyroid, minerals and CBC all normal.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul 2026</td>
+              <td>12-hour video-EEG at Albert Einstein — the laughing episodes on camera</td>
+              <td>
+                <a href="drive/Exams/20260714 - Einstein - Video-EEG 12h.pdf">Normal, organized background</a> with a posterior rhythm of 9–10 Hz. No epileptiform discharges, no electrographic seizures. <strong>Brief laughing episodes were recorded and event-marked during the study, with no concurrent ictal correlate.</strong> Intermittent photic stimulation added nothing. This is the study that answers the question raised in June. Note that every conventional EEG in Isaac's history — 2020, 2021, 2023, 2026 — has been normal.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul 2026</td>
+              <td>Consultation with Dra. Paula Girotto (pediatric neurology)</td>
+              <td>
+                <strong>Laughing: closed.</strong> With the video-EEG in hand she read the episodes as an autism stereotypy, not gelastic seizures. No new MRI, no antiepileptic.<br><br>
+                <strong>Carnitine:</strong> Isaac carries the pathogenic SLC22A5 variant in heterozygosis — one allele. Classic primary systemic carnitine deficiency is autosomal recessive and would require both. Her reading is that a single functioning allele limits transport capacity, which explains why levels do not rise much no matter how much substrate is added, and that current levels are functionally adequate. She advised against escalating supplementation purely to raise the number. Her analogy: a plane flying on one engine.<br><br>
+                <strong>New priority: agitation and attention.</strong> She agreed to a trial of <strong>guanfacine ER, 1 mg once daily, in the morning</strong>, held for 2–3 weeks, titrating slowly to 2 mg and then 3 mg only if needed and tolerated, always at the lowest effective dose. Somnolence, irritability and nausea flagged as expected side effects.
+              </td>
+            </tr>
+            <tr>
+              <td>Jul–Aug 2026</td>
+              <td>Guanfacine ER — two attempts, neither run as prescribed</td>
+              <td>
+                <strong>Attempt 1 (Jul, 2 days):</strong> stopped for night crying and difficulty sleeping, during a concurrent viral illness. Isaac improved after stopping. Dose and timing used were never documented, so nothing can be concluded from it.<br><br>
+                <strong>Attempt 2 (2026-08-08 to 2026-08-13, 6 days):</strong> given as <strong>a quarter tablet (~0.25 mg), at night, crushed</strong> — against a prescription of 1 mg whole, in the morning. The family discovered on 2026-08-10 that an extended-release tablet must not be crushed or split, since doing so destroys the release matrix and delivers the dose at once. Isaac cannot yet swallow a tablet, which is the practical blocker; training with Tic Tacs was started.<br><br>
+                <strong>Observed:</strong> insomnia on two nights, <strong>dizziness with loss of balance on two consecutive mornings</strong> requiring an adult to steady him during tooth-brushing, daytime somnolence, apathy, dry mouth with spontaneous requests for water. Against that: the school assistant reported improved daytime agitation, and the most sedated day was also the day of best independent speech and the best toileting record on file.<br><br>
+                <strong>Pattern worth noting:</strong> symptoms clustered in the early morning — the peak window for a night dose — while afternoons at school were intact. That is the shape of a peak effect from the wrong dosing time rather than intolerance to the molecule.
+              </td>
+            </tr>
+            <tr>
+              <td>Aug 2026</td>
+              <td>Guanfacine stopped; supplements withdrawn again</td>
+              <td>
+                The family stopped guanfacine on 2026-08-13 after the second morning of dizziness. Given a fall risk, stopping was the right call. <strong>What the record should not say is that Isaac does not tolerate guanfacine — that was never tested.</strong> The therapy team split on the decision: the school assistant, who has the most structured observation hours, argued against stopping, while the speech and occupational therapists supported it.<br><br>
+                In the same window the family had also withdrawn supplementation as a block, meaning the guanfacine trial was evaluated with a second variable moving at the same time. Supplements are being reintroduced individually.<br><br>
+                The first day without medication was the worst school afternoon of the week — crying, screaming, running, recurrent genital manipulation and frequent out-of-context laughing, with no identifiable antecedent. One day cannot distinguish rebound from withdrawal from baseline.
+              </td>
+            </tr>
           </tbody>
         </table>
       </div>
@@ -484,6 +623,26 @@ li {
 
 strong {
   color: #2c3e50;
+}
+
+.asof {
+  font-size: 0.7em;
+  font-weight: normal;
+  color: #777;
+}
+
+.caveat {
+  background-color: #fff8e1;
+  border-left: 4px solid #ffb300;
+  padding: 10px 14px;
+  margin: 10px 0;
+}
+
+.where-we-are {
+  background-color: #f5faff;
+  border: 1px solid #cfe4f7;
+  border-radius: 6px;
+  padding: 16px 20px;
 }
 
 .timeline-table {
