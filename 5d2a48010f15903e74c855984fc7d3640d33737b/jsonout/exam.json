@@ -6522,5 +6522,331 @@
         "Overall, the results are consistent with a patient being supplemented for a suspected or confirmed mitochondrial/metabolic condition, with most standard blood parameters remaining well-controlled."
       ]
     }
+  },
+  {
+    "file": "20260629 - Fleury - Sangue - Completo.pdf",
+    "title": "Comprehensive Blood Panel (Mitochondrial Follow-up)",
+    "material": "blood",
+    "sample_date": "2026-06-29",
+    "requested_by": "Dr. Rogerio Rodrigues Rita",
+    "metrics": [
+      "25-Hydroxy Vitamin D",
+      "Vitamin A (Retinol)",
+      "Complete Blood Count (CBC)",
+      "AST (TGO)",
+      "ALT (TGP)",
+      "Gamma-GT",
+      "TSH and Free T4",
+      "Copper",
+      "Zinc",
+      "Ionized Calcium",
+      "Magnesium",
+      "Sodium",
+      "Potassium",
+      "Chloride",
+      "Lactic Acid",
+      "Lactate Dehydrogenase (LDH)",
+      "Ammonia",
+      "Creatine Kinase (CK)",
+      "Aldolase",
+      "Venous Blood Gas (pH, pO2, pCO2, HCO3, BE, SO2)",
+      "Carnitine (Total, Free, Esters, EC/CL ratio)",
+      "Acylcarnitine Profile (48 species)",
+      "Neuron-Specific Enolase (NSE)"
+    ],
+    "purpose": [
+      "Follow-up of the mitochondrial dysfunction identified by Dr. Richard Boles",
+      "Track lactate and carnitine after the SLC22A5 carnitine transporter finding",
+      "Screen for a fatty acid oxidation defect via the acylcarnitine profile",
+      "Assess acid-base status through venous blood gas",
+      "Nutritional, mineral, liver and thyroid status"
+    ],
+    "resultSummary": [
+      "Lactic acid still elevated at 31.7 mg/dL (ref 5.7-22.0), down from 37.1 in Sep/2025 but persistently high",
+      "Ionized calcium slightly elevated at 1.42 mmol/L (ref 1.11-1.40)",
+      "Venous blood gas shows mild metabolic acidosis: HCO3 22 mmol/L (ref 23-27), base excess -3.8 (ref -3.0 to +3.0)",
+      "Total carnitine 33 micromoles/L (ref 32-62) and free carnitine 29 (ref 25-54), both inside range but near the lower limit",
+      "Carnitine esters 4 micromoles/L, exactly at the lower reference limit; EC/CL ratio 0.14 (ref 0.09-0.35)",
+      "Acylcarnitine profile: all 48 species within reference, no abnormalities",
+      "Neuron-specific enolase normal at 12.20 ng/mL (ref <17.00)",
+      "CBC, liver enzymes, thyroid, electrolytes, copper, zinc, ammonia, CK and aldolase all normal",
+      "Vitamin D 56 ng/mL and vitamin A 0.6 mg/L, both normal"
+    ],
+    "abnormalValues": [
+      "Lactic Acid: 31.7 mg/dL / 3.52 mmol/L (ref 5.7-22.0 mg/dL) - high",
+      "Ionized Calcium: 1.42 mmol/L (ref 1.11-1.40) - slightly high",
+      "Venous Bicarbonate (HCO3): 22 mmol/L (ref 23-27) - low",
+      "Venous Base Excess (BE): -3.8 (ref -3.0 to +3.0) - low"
+    ],
+    "normalValues": [
+      "25-Hydroxy Vitamin D: 56 ng/mL (ref >20)",
+      "Vitamin A (Retinol): 0.6 mg/L (ref 0.3-0.7)",
+      "Erythrocytes: 4.54 million/mm3 (ref 4.10-5.20)",
+      "Hemoglobin: 13.8 g/dL (ref 11.5-14.3)",
+      "Hematocrit: 39.7% (ref 34.0-42.0)",
+      "MCV: 87.4 fL (ref 77.8-91.1)",
+      "MCH: 30.4 pg (ref 25.0-33.0)",
+      "MCHC: 34.8 g/dL (ref 31.0-36.0)",
+      "RDW: 11.9% (ref 11.4-13.5)",
+      "Leukocytes: 6180/mm3 (ref 3800-10400)",
+      "Neutrophils: 2350/mm3 (ref 1400-6100)",
+      "Eosinophils: 140/mm3 (ref 0-500)",
+      "Basophils: 20/mm3 (ref 0-100)",
+      "Lymphocytes: 3130/mm3 (ref 1400-3900)",
+      "Monocytes: 540/mm3 (ref 200-800)",
+      "Platelets: 287000/mm3 (ref 187000-400000)",
+      "MPV: 10.4 fL (ref 9.2-12.6)",
+      "AST (TGO): 29 U/L (ref <40)",
+      "ALT (TGP): 17 U/L (ref <41)",
+      "Gamma-GT: 7 U/L (ref 3-22)",
+      "TSH: 3.6 mUI/L (ref 0.6-4.8)",
+      "Free T4: 1.6 ng/dL (ref 1.0-1.7)",
+      "Copper: 112 mcg/dL (ref 70-140)",
+      "Zinc: 1.1 mcg/mL (ref 0.7-1.2)",
+      "Magnesium: 2.1 mg/dL (ref 1.7-2.1)",
+      "Sodium: 139 mEq/L (ref 136-145)",
+      "Potassium: 4.1 mEq/L (ref 3.5-5.1)",
+      "Chloride: 104 mEq/L (ref 98-107)",
+      "LDH: 215 U/L (ref 145-300)",
+      "Ammonia: 34 micromol/L (ref 16-60)",
+      "Creatine Kinase (CK): 115 U/L (ref 30-150)",
+      "Aldolase: 3.5 U/L (ref 3-12)",
+      "Venous pH: 7.33 (ref 7.33-7.43)",
+      "Venous pO2: 47 mmHg (ref 30-50)",
+      "Venous pCO2: 42 mmHg (ref 38-50)",
+      "Venous O2 Saturation: 80% (ref 60-85)",
+      "Total Carnitine: 33 micromoles/L (ref 32-62)",
+      "Free Carnitine: 29 micromoles/L (ref 25-54)",
+      "Carnitine Esters: 4 micromoles/L (ref 4-12)",
+      "EC/CL Ratio: 0.14 (ref 0.09-0.35)",
+      "Acylcarnitine profile: all 48 species within reference",
+      "Neuron-Specific Enolase: 12.20 ng/mL (ref <17.00)"
+    ],
+    "assessmentSummary": [
+      "Broad laboratory panel ordered by Dr. Rogerio Rita as mitochondrial follow-up, nine months after the Sep/2025 panel",
+      "Lactate remains above reference for the third consecutive panel, though lower than the previous measurement",
+      "Venous blood gas newly included and shows a mild metabolic acidosis pattern consistent with the raised lactate",
+      "Carnitine fractions sit just inside the reference range, unchanged in position since Sep/2025",
+      "The acylcarnitine profile is fully normal, again arguing against a primary fatty acid oxidation disorder",
+      "No new abnormality outside the metabolic axis; blood count, liver, thyroid, minerals and muscle markers are all reassuring"
+    ],
+    "gptInterpretation": [
+      "Persistently elevated lactate (31.7 mg/dL) together with low bicarbonate and a negative base excess is the coherent finding of this panel: it points to ongoing impaired oxidative metabolism rather than a one-off sampling artifact, since the same pattern now appears across three separate draws.",
+      "Total and free carnitine remain in the bottom decile of the reference range and carnitine esters sit exactly at the lower limit, which is what would be expected with the de novo SLC22A5 frameshift found on the Variantyx WGS. Dr. Paula Girotto reviewed this in Jul/2026 and considered the levels functionally adequate, advising against escalating supplementation purely to raise the laboratory number.",
+      "A completely normal acylcarnitine profile across all 48 species rules against a primary fatty acid oxidation defect, consistent with the Sep/2025 result.",
+      "The mildly high ionized calcium (1.42 vs 1.40 upper limit) is a marginal exceedance and is unlikely to be clinically meaningful in isolation.",
+      "Normal neuron-specific enolase, ammonia, CK and aldolase argue against acute neuronal injury, a urea-cycle problem, or a myopathic process.",
+      "Overall this panel is a stable follow-up: the mitochondrial signature persists, nothing new appeared, and no result here calls for a change in supplementation on its own."
+    ],
+    "meta": {
+      "title": "Comprehensive Blood Panel (Mitochondrial Follow-up)",
+      "material": "blood",
+      "sample_date": "2026-06-29",
+      "requested_by": "Dr. Rogerio Rodrigues Rita",
+      "metrics": [
+        "25-Hydroxy Vitamin D",
+        "Vitamin A (Retinol)",
+        "Complete Blood Count (CBC)",
+        "AST (TGO)",
+        "ALT (TGP)",
+        "Gamma-GT",
+        "TSH and Free T4",
+        "Copper",
+        "Zinc",
+        "Ionized Calcium",
+        "Magnesium",
+        "Sodium",
+        "Potassium",
+        "Chloride",
+        "Lactic Acid",
+        "Lactate Dehydrogenase (LDH)",
+        "Ammonia",
+        "Creatine Kinase (CK)",
+        "Aldolase",
+        "Venous Blood Gas (pH, pO2, pCO2, HCO3, BE, SO2)",
+        "Carnitine (Total, Free, Esters, EC/CL ratio)",
+        "Acylcarnitine Profile (48 species)",
+        "Neuron-Specific Enolase (NSE)"
+      ],
+      "purpose": [
+        "Follow-up of the mitochondrial dysfunction identified by Dr. Richard Boles",
+        "Track lactate and carnitine after the SLC22A5 carnitine transporter finding",
+        "Screen for a fatty acid oxidation defect via the acylcarnitine profile",
+        "Assess acid-base status through venous blood gas",
+        "Nutritional, mineral, liver and thyroid status"
+      ],
+      "resultSummary": [
+        "Lactic acid still elevated at 31.7 mg/dL (ref 5.7-22.0), down from 37.1 in Sep/2025 but persistently high",
+        "Ionized calcium slightly elevated at 1.42 mmol/L (ref 1.11-1.40)",
+        "Venous blood gas shows mild metabolic acidosis: HCO3 22 mmol/L (ref 23-27), base excess -3.8 (ref -3.0 to +3.0)",
+        "Total carnitine 33 micromoles/L (ref 32-62) and free carnitine 29 (ref 25-54), both inside range but near the lower limit",
+        "Carnitine esters 4 micromoles/L, exactly at the lower reference limit; EC/CL ratio 0.14 (ref 0.09-0.35)",
+        "Acylcarnitine profile: all 48 species within reference, no abnormalities",
+        "Neuron-specific enolase normal at 12.20 ng/mL (ref <17.00)",
+        "CBC, liver enzymes, thyroid, electrolytes, copper, zinc, ammonia, CK and aldolase all normal",
+        "Vitamin D 56 ng/mL and vitamin A 0.6 mg/L, both normal"
+      ],
+      "abnormalValues": [
+        "Lactic Acid: 31.7 mg/dL / 3.52 mmol/L (ref 5.7-22.0 mg/dL) - high",
+        "Ionized Calcium: 1.42 mmol/L (ref 1.11-1.40) - slightly high",
+        "Venous Bicarbonate (HCO3): 22 mmol/L (ref 23-27) - low",
+        "Venous Base Excess (BE): -3.8 (ref -3.0 to +3.0) - low"
+      ],
+      "normalValues": [
+        "25-Hydroxy Vitamin D: 56 ng/mL (ref >20)",
+        "Vitamin A (Retinol): 0.6 mg/L (ref 0.3-0.7)",
+        "Erythrocytes: 4.54 million/mm3 (ref 4.10-5.20)",
+        "Hemoglobin: 13.8 g/dL (ref 11.5-14.3)",
+        "Hematocrit: 39.7% (ref 34.0-42.0)",
+        "MCV: 87.4 fL (ref 77.8-91.1)",
+        "MCH: 30.4 pg (ref 25.0-33.0)",
+        "MCHC: 34.8 g/dL (ref 31.0-36.0)",
+        "RDW: 11.9% (ref 11.4-13.5)",
+        "Leukocytes: 6180/mm3 (ref 3800-10400)",
+        "Neutrophils: 2350/mm3 (ref 1400-6100)",
+        "Eosinophils: 140/mm3 (ref 0-500)",
+        "Basophils: 20/mm3 (ref 0-100)",
+        "Lymphocytes: 3130/mm3 (ref 1400-3900)",
+        "Monocytes: 540/mm3 (ref 200-800)",
+        "Platelets: 287000/mm3 (ref 187000-400000)",
+        "MPV: 10.4 fL (ref 9.2-12.6)",
+        "AST (TGO): 29 U/L (ref <40)",
+        "ALT (TGP): 17 U/L (ref <41)",
+        "Gamma-GT: 7 U/L (ref 3-22)",
+        "TSH: 3.6 mUI/L (ref 0.6-4.8)",
+        "Free T4: 1.6 ng/dL (ref 1.0-1.7)",
+        "Copper: 112 mcg/dL (ref 70-140)",
+        "Zinc: 1.1 mcg/mL (ref 0.7-1.2)",
+        "Magnesium: 2.1 mg/dL (ref 1.7-2.1)",
+        "Sodium: 139 mEq/L (ref 136-145)",
+        "Potassium: 4.1 mEq/L (ref 3.5-5.1)",
+        "Chloride: 104 mEq/L (ref 98-107)",
+        "LDH: 215 U/L (ref 145-300)",
+        "Ammonia: 34 micromol/L (ref 16-60)",
+        "Creatine Kinase (CK): 115 U/L (ref 30-150)",
+        "Aldolase: 3.5 U/L (ref 3-12)",
+        "Venous pH: 7.33 (ref 7.33-7.43)",
+        "Venous pO2: 47 mmHg (ref 30-50)",
+        "Venous pCO2: 42 mmHg (ref 38-50)",
+        "Venous O2 Saturation: 80% (ref 60-85)",
+        "Total Carnitine: 33 micromoles/L (ref 32-62)",
+        "Free Carnitine: 29 micromoles/L (ref 25-54)",
+        "Carnitine Esters: 4 micromoles/L (ref 4-12)",
+        "EC/CL Ratio: 0.14 (ref 0.09-0.35)",
+        "Acylcarnitine profile: all 48 species within reference",
+        "Neuron-Specific Enolase: 12.20 ng/mL (ref <17.00)"
+      ],
+      "assessmentSummary": [
+        "Broad laboratory panel ordered by Dr. Rogerio Rita as mitochondrial follow-up, nine months after the Sep/2025 panel",
+        "Lactate remains above reference for the third consecutive panel, though lower than the previous measurement",
+        "Venous blood gas newly included and shows a mild metabolic acidosis pattern consistent with the raised lactate",
+        "Carnitine fractions sit just inside the reference range, unchanged in position since Sep/2025",
+        "The acylcarnitine profile is fully normal, again arguing against a primary fatty acid oxidation disorder",
+        "No new abnormality outside the metabolic axis; blood count, liver, thyroid, minerals and muscle markers are all reassuring"
+      ],
+      "gptInterpretation": [
+        "Persistently elevated lactate (31.7 mg/dL) together with low bicarbonate and a negative base excess is the coherent finding of this panel: it points to ongoing impaired oxidative metabolism rather than a one-off sampling artifact, since the same pattern now appears across three separate draws.",
+        "Total and free carnitine remain in the bottom decile of the reference range and carnitine esters sit exactly at the lower limit, which is what would be expected with the de novo SLC22A5 frameshift found on the Variantyx WGS. Dr. Paula Girotto reviewed this in Jul/2026 and considered the levels functionally adequate, advising against escalating supplementation purely to raise the laboratory number.",
+        "A completely normal acylcarnitine profile across all 48 species rules against a primary fatty acid oxidation defect, consistent with the Sep/2025 result.",
+        "The mildly high ionized calcium (1.42 vs 1.40 upper limit) is a marginal exceedance and is unlikely to be clinically meaningful in isolation.",
+        "Normal neuron-specific enolase, ammonia, CK and aldolase argue against acute neuronal injury, a urea-cycle problem, or a myopathic process.",
+        "Overall this panel is a stable follow-up: the mitochondrial signature persists, nothing new appeared, and no result here calls for a change in supplementation on its own."
+      ]
+    }
+  },
+  {
+    "file": "20260714 - Einstein - Video-EEG 12h.pdf",
+    "title": "Video-EEG, 12 hours (laughing episode investigation)",
+    "material": "brain waves",
+    "sample_date": "2026-07-14",
+    "requested_by": "Dra. Paula Girotto",
+    "metrics": [
+      "Brain electrical activity",
+      "Posterior dominant rhythm",
+      "Epileptiform discharges",
+      "Electrographic seizures",
+      "Video-EEG correlation of laughing episodes",
+      "Intermittent photic stimulation response"
+    ],
+    "purpose": [
+      "Investigate whether the recurring unmotivated laughing episodes are gelastic seizures",
+      "Follow up on the multifocal epileptiform discharges reported on the Jul/2025 Melillo qEEG",
+      "Capture laughing episodes on video with simultaneous EEG"
+    ],
+    "resultSummary": [
+      "Continuous non-invasive video-EEG monitoring for 12 hours while awake, 10-20 international electrode placement",
+      "Organized and relatively symmetric background activity",
+      "Posterior rhythm at 9-10 Hz, amplitude 20-100 microvolts, during wakefulness",
+      "Theta and beta activity in the remaining regions",
+      "No epileptiform paroxysmal discharges recorded",
+      "No electrographic seizures recorded",
+      "Brief laughing episodes were recorded and event-marked, with no concurrent ictal correlate",
+      "Intermittent photic stimulation added no further findings"
+    ],
+    "abnormalValues": [
+      "None observed"
+    ],
+    "normalValues": [
+      "Background activity: normal, organized, relatively symmetric",
+      "Posterior dominant rhythm: 9-10 Hz, 20-100 microvolts"
+    ],
+    "assessmentSummary": [
+      "Reported by Dra. Cristiani Rocha Lima Cruz (CRM-202358 SP), SBIB Hospital Albert Einstein",
+      "Clinical history given: ASD level 3, two years of apparently unmotivated laughing lasting a few seconds, no preferred time of day, frequent through the day",
+      "Conclusion: normal background activity, absence of epileptiform abnormalities, laughing episodes recorded without concurrent ictal correlate"
+    ],
+    "gptInterpretation": [
+      "This is the study that answers the question Dr. Rogerio raised in Jun/2026: the laughing episodes were captured on camera during the recording and no seizure activity accompanied them, so they are not gelastic seizures.",
+      "Dra. Paula Girotto correlated this result in Jul/2026 and concluded the laughter is an autism stereotypy. No new MRI and no antiepileptic drug were indicated.",
+      "The normal background here does not contradict the Jul/2025 Melillo qEEG: that was a quantitative analysis with a different method and different metrics, while this is a standard clinical video-EEG. A negative video-EEG does not fully exclude a deep focus, which is why the video correlation of the actual episodes is the load-bearing part of the report.",
+      "Worth noting that all conventional EEGs in this history (2020, 2021, 2023 and now 2026) have been normal."
+    ],
+    "meta": {
+      "title": "Video-EEG, 12 hours (laughing episode investigation)",
+      "material": "brain waves",
+      "sample_date": "2026-07-14",
+      "requested_by": "Dra. Paula Girotto",
+      "metrics": [
+        "Brain electrical activity",
+        "Posterior dominant rhythm",
+        "Epileptiform discharges",
+        "Electrographic seizures",
+        "Video-EEG correlation of laughing episodes",
+        "Intermittent photic stimulation response"
+      ],
+      "purpose": [
+        "Investigate whether the recurring unmotivated laughing episodes are gelastic seizures",
+        "Follow up on the multifocal epileptiform discharges reported on the Jul/2025 Melillo qEEG",
+        "Capture laughing episodes on video with simultaneous EEG"
+      ],
+      "resultSummary": [
+        "Continuous non-invasive video-EEG monitoring for 12 hours while awake, 10-20 international electrode placement",
+        "Organized and relatively symmetric background activity",
+        "Posterior rhythm at 9-10 Hz, amplitude 20-100 microvolts, during wakefulness",
+        "Theta and beta activity in the remaining regions",
+        "No epileptiform paroxysmal discharges recorded",
+        "No electrographic seizures recorded",
+        "Brief laughing episodes were recorded and event-marked, with no concurrent ictal correlate",
+        "Intermittent photic stimulation added no further findings"
+      ],
+      "abnormalValues": [
+        "None observed"
+      ],
+      "normalValues": [
+        "Background activity: normal, organized, relatively symmetric",
+        "Posterior dominant rhythm: 9-10 Hz, 20-100 microvolts"
+      ],
+      "assessmentSummary": [
+        "Reported by Dra. Cristiani Rocha Lima Cruz (CRM-202358 SP), SBIB Hospital Albert Einstein",
+        "Clinical history given: ASD level 3, two years of apparently unmotivated laughing lasting a few seconds, no preferred time of day, frequent through the day",
+        "Conclusion: normal background activity, absence of epileptiform abnormalities, laughing episodes recorded without concurrent ictal correlate"
+      ],
+      "gptInterpretation": [
+        "This is the study that answers the question Dr. Rogerio raised in Jun/2026: the laughing episodes were captured on camera during the recording and no seizure activity accompanied them, so they are not gelastic seizures.",
+        "Dra. Paula Girotto correlated this result in Jul/2026 and concluded the laughter is an autism stereotypy. No new MRI and no antiepileptic drug were indicated.",
+        "The normal background here does not contradict the Jul/2025 Melillo qEEG: that was a quantitative analysis with a different method and different metrics, while this is a standard clinical video-EEG. A negative video-EEG does not fully exclude a deep focus, which is why the video correlation of the actual episodes is the load-bearing part of the report.",
+        "Worth noting that all conventional EEGs in this history (2020, 2021, 2023 and now 2026) have been normal."
+      ]
+    }
   }
 ]

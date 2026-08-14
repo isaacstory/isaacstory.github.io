@@ -13046,5 +13046,933 @@
         }
       ]
     }
+  },
+  {
+    "file": "20260629 - Fleury - Sangue - Completo.pdf",
+    "title": "Comprehensive Blood Panel (Mitochondrial Follow-up)",
+    "requested_by": "Dr. Rogerio Rodrigues Rita",
+    "sample_date": "2026-06-29",
+    "results": [
+      {
+        "metric": "25-Hydroxy Vitamin D",
+        "material": "serum",
+        "result": 56,
+        "result_unit": "ng/mL",
+        "reference_range_min": 20,
+        "reference_range_max": "N/A",
+        "result_status": "Normal",
+        "observations": "Healthy population under 60: >20; toxicity/hypercalcemia: >100"
+      },
+      {
+        "metric": "Vitamin A (Retinol)",
+        "material": "serum",
+        "result": 0.6,
+        "result_unit": "mg/L",
+        "reference_range_min": 0.3,
+        "reference_range_max": 0.7,
+        "result_status": "Normal",
+        "observations": "Method: LDTD-MS/MS"
+      },
+      {
+        "metric": "Erythrocytes (RBC)",
+        "material": "blood",
+        "result": 4.54,
+        "result_unit": "million/mm3",
+        "reference_range_min": 4.1,
+        "reference_range_max": 5.2,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Hemoglobin",
+        "material": "blood",
+        "result": 13.8,
+        "result_unit": "g/dL",
+        "reference_range_min": 11.5,
+        "reference_range_max": 14.3,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Hematocrit",
+        "material": "blood",
+        "result": 39.7,
+        "result_unit": "%",
+        "reference_range_min": 34,
+        "reference_range_max": 42,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Mean Corpuscular Hemoglobin (MCH)",
+        "material": "blood",
+        "result": 30.4,
+        "result_unit": "pg",
+        "reference_range_min": 25,
+        "reference_range_max": 33,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Mean Corpuscular Volume (MCV)",
+        "material": "blood",
+        "result": 87.4,
+        "result_unit": "fL",
+        "reference_range_min": 77.8,
+        "reference_range_max": 91.1,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+        "material": "blood",
+        "result": 34.8,
+        "result_unit": "g/dL",
+        "reference_range_min": 31,
+        "reference_range_max": 36,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Red Cell Distribution Width (RDW)",
+        "material": "blood",
+        "result": 11.9,
+        "result_unit": "%",
+        "reference_range_min": 11.4,
+        "reference_range_max": 13.5,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "Leukocytes",
+        "material": "blood",
+        "result": 6180,
+        "result_unit": "/mm3",
+        "reference_range_min": 3800,
+        "reference_range_max": 10400,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Neutrophils (absolute)",
+        "material": "blood",
+        "result": 2350,
+        "result_unit": "/mm3",
+        "reference_range_min": 1400,
+        "reference_range_max": 6100,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Eosinophils (absolute)",
+        "material": "blood",
+        "result": 140,
+        "result_unit": "/mm3",
+        "reference_range_min": 0,
+        "reference_range_max": 500,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Basophils (absolute)",
+        "material": "blood",
+        "result": 20,
+        "result_unit": "/mm3",
+        "reference_range_min": 0,
+        "reference_range_max": 100,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Lymphocytes (absolute)",
+        "material": "blood",
+        "result": 3130,
+        "result_unit": "/mm3",
+        "reference_range_min": 1400,
+        "reference_range_max": 3900,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Monocytes (absolute)",
+        "material": "blood",
+        "result": 540,
+        "result_unit": "/mm3",
+        "reference_range_min": 200,
+        "reference_range_max": 800,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Platelets",
+        "material": "blood",
+        "result": 287000,
+        "result_unit": "/mm3",
+        "reference_range_min": 187000,
+        "reference_range_max": 400000,
+        "result_status": "Normal",
+        "observations": "Method: Fluorescence flow cytometry and impedance"
+      },
+      {
+        "metric": "Mean Platelet Volume (MPV)",
+        "material": "blood",
+        "result": 10.4,
+        "result_unit": "fL",
+        "reference_range_min": 9.2,
+        "reference_range_max": 12.6,
+        "result_status": "Normal",
+        "observations": "Method: Automated complete blood count"
+      },
+      {
+        "metric": "AST (TGO)",
+        "material": "serum",
+        "result": 29,
+        "result_unit": "U/L",
+        "reference_range_min": "N/A",
+        "reference_range_max": 40,
+        "result_status": "Normal",
+        "observations": "Over 2 year(s): up to 40 U/L"
+      },
+      {
+        "metric": "ALT (TGP)",
+        "material": "serum",
+        "result": 17,
+        "result_unit": "U/L",
+        "reference_range_min": "N/A",
+        "reference_range_max": 41,
+        "result_status": "Normal",
+        "observations": "Over 1 year(s): up to 41 U/L"
+      },
+      {
+        "metric": "Gamma-GT",
+        "material": "serum",
+        "result": 7,
+        "result_unit": "U/L",
+        "reference_range_min": 3,
+        "reference_range_max": 22,
+        "result_status": "Normal",
+        "observations": "Method: Kinetic colorimetric"
+      },
+      {
+        "metric": "TSH",
+        "material": "serum",
+        "result": 3.6,
+        "result_unit": "mUI/L",
+        "reference_range_min": 0.6,
+        "reference_range_max": 4.8,
+        "result_status": "Normal",
+        "observations": "Method: Electrochemiluminescence"
+      },
+      {
+        "metric": "Free T4",
+        "material": "serum",
+        "result": 1.6,
+        "result_unit": "ng/dL",
+        "reference_range_min": 1,
+        "reference_range_max": 1.7,
+        "result_status": "Normal",
+        "observations": "Method: Competitive chemiluminescent immunoassay"
+      },
+      {
+        "metric": "Copper",
+        "material": "plasma",
+        "result": 112,
+        "result_unit": "mcg/dL",
+        "reference_range_min": 70,
+        "reference_range_max": 140,
+        "result_status": "Normal",
+        "observations": "Method: ICP-MS"
+      },
+      {
+        "metric": "Zinc",
+        "material": "plasma",
+        "result": 1.1,
+        "result_unit": "mcg/mL",
+        "reference_range_min": 0.7,
+        "reference_range_max": 1.2,
+        "result_status": "Normal",
+        "observations": "Method: ICP-MS"
+      },
+      {
+        "metric": "Ionized Calcium",
+        "material": "blood",
+        "result": 1.42,
+        "result_unit": "mmol/L",
+        "reference_range_min": 1.11,
+        "reference_range_max": 1.4,
+        "result_status": "High",
+        "observations": "Method: Ion-selective electrode"
+      },
+      {
+        "metric": "Magnesium",
+        "material": "serum",
+        "result": 2.1,
+        "result_unit": "mg/dL",
+        "reference_range_min": 1.7,
+        "reference_range_max": 2.1,
+        "result_status": "Normal",
+        "observations": "Method: Colorimetric"
+      },
+      {
+        "metric": "Sodium",
+        "material": "serum",
+        "result": 139,
+        "result_unit": "mEq/L",
+        "reference_range_min": 136,
+        "reference_range_max": 145,
+        "result_status": "Normal",
+        "observations": "Method: Potentiometric"
+      },
+      {
+        "metric": "Potassium",
+        "material": "serum",
+        "result": 4.1,
+        "result_unit": "mEq/L",
+        "reference_range_min": 3.5,
+        "reference_range_max": 5.1,
+        "result_status": "Normal",
+        "observations": "Method: Potentiometric"
+      },
+      {
+        "metric": "Chloride",
+        "material": "serum",
+        "result": 104,
+        "result_unit": "mEq/L",
+        "reference_range_min": 98,
+        "reference_range_max": 107,
+        "result_status": "Normal",
+        "observations": "Method: Potentiometric"
+      },
+      {
+        "metric": "Lactic Acid (Lactate)",
+        "material": "plasma",
+        "result": 31.7,
+        "result_unit": "mg/dL",
+        "reference_range_min": 5.7,
+        "reference_range_max": 22,
+        "result_status": "High",
+        "observations": "Equivalent to 3.52 mmol/L; ref 0.63–2.44 mmol/L"
+      },
+      {
+        "metric": "Lactate Dehydrogenase (LDH)",
+        "material": "serum",
+        "result": 215,
+        "result_unit": "U/L",
+        "reference_range_min": 145,
+        "reference_range_max": 300,
+        "result_status": "Normal",
+        "observations": "Method: UV kinetic"
+      },
+      {
+        "metric": "Ammonia",
+        "material": "plasma",
+        "result": 34,
+        "result_unit": "micromoles/L",
+        "reference_range_min": 16,
+        "reference_range_max": 60,
+        "result_status": "Normal",
+        "observations": "Method: Enzymatic"
+      },
+      {
+        "metric": "Creatine Kinase (CK), total",
+        "material": "serum",
+        "result": 115,
+        "result_unit": "U/L",
+        "reference_range_min": 30,
+        "reference_range_max": 150,
+        "result_status": "Normal",
+        "observations": "Method: UV kinetic"
+      },
+      {
+        "metric": "Aldolase",
+        "material": "serum",
+        "result": 3.5,
+        "result_unit": "U/L",
+        "reference_range_min": 3,
+        "reference_range_max": 12,
+        "result_status": "Normal",
+        "observations": "Method: UV kinetic"
+      },
+      {
+        "metric": "Venous pH",
+        "material": "blood",
+        "result": 7.33,
+        "result_unit": "N/A",
+        "reference_range_min": 7.33,
+        "reference_range_max": 7.43,
+        "result_status": "Normal",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Venous pO2",
+        "material": "blood",
+        "result": 47,
+        "result_unit": "mmHg",
+        "reference_range_min": 30,
+        "reference_range_max": 50,
+        "result_status": "Normal",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Venous pCO2",
+        "material": "blood",
+        "result": 42,
+        "result_unit": "mmHg",
+        "reference_range_min": 38,
+        "reference_range_max": 50,
+        "result_status": "Normal",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Venous Bicarbonate (HCO3)",
+        "material": "blood",
+        "result": 22,
+        "result_unit": "mmol/L",
+        "reference_range_min": 23,
+        "reference_range_max": 27,
+        "result_status": "Low",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Venous Base Excess (BE)",
+        "material": "blood",
+        "result": -3.8,
+        "result_unit": "N/A",
+        "reference_range_min": -3,
+        "reference_range_max": 3,
+        "result_status": "Low",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Venous O2 Saturation",
+        "material": "blood",
+        "result": 80,
+        "result_unit": "%",
+        "reference_range_min": 60,
+        "reference_range_max": 85,
+        "result_status": "Normal",
+        "observations": "Method: Venous blood gas - potentiometry/amperometry"
+      },
+      {
+        "metric": "Total Carnitine",
+        "material": "plasma",
+        "result": 33,
+        "result_unit": "micromoles/L",
+        "reference_range_min": 32,
+        "reference_range_max": 62,
+        "result_status": "Normal",
+        "observations": "Method: LC-MS"
+      },
+      {
+        "metric": "Free Carnitine",
+        "material": "plasma",
+        "result": 29,
+        "result_unit": "micromoles/L",
+        "reference_range_min": 25,
+        "reference_range_max": 54,
+        "result_status": "Normal",
+        "observations": "Method: LC-MS"
+      },
+      {
+        "metric": "Carnitine Esters",
+        "material": "plasma",
+        "result": 4,
+        "result_unit": "micromoles/L",
+        "reference_range_min": 4,
+        "reference_range_max": 12,
+        "result_status": "Normal",
+        "observations": "Method: LC-MS"
+      },
+      {
+        "metric": "EC/CL Ratio",
+        "material": "plasma",
+        "result": 0.14,
+        "result_unit": "N/A",
+        "reference_range_min": 0.09,
+        "reference_range_max": 0.35,
+        "result_status": "Normal",
+        "observations": "Method: LC-MS"
+      },
+      {
+        "metric": "Acetylcarnitine C2",
+        "material": "blood",
+        "result": 3.22,
+        "result_unit": "nmol/mL",
+        "reference_range_min": 2,
+        "reference_range_max": 27.57,
+        "result_status": "Normal",
+        "observations": "Method: FIA-MS/MS"
+      },
+      {
+        "metric": "Acrylylcarnitine C3:1",
+        "material": "blood",
+        "result": "<0,02",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.05,
+        "result_status": "Normal",
+        "observations": "Below 0.05 nmol/mL"
+      },
+      {
+        "metric": "Propionylcarnitine C3",
+        "material": "blood",
+        "result": 0.25,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 1.78,
+        "result_status": "Normal",
+        "observations": "Below 1.78 nmol/mL"
+      },
+      {
+        "metric": "Formiminoglutamate (FIGLU)",
+        "material": "blood",
+        "result": "<0,01",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.08,
+        "result_status": "Normal",
+        "observations": "Below 0.08 nmol/mL"
+      },
+      {
+        "metric": "Iso-/butyrylcarnitine C4",
+        "material": "blood",
+        "result": 0.13,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 1.06,
+        "result_status": "Normal",
+        "observations": "Below 1.06 nmol/mL"
+      },
+      {
+        "metric": "Tiglylcarnitine C5:1",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.09,
+        "result_status": "Normal",
+        "observations": "Below 0.09 nmol/mL"
+      },
+      {
+        "metric": "Isovaleryl-/2-methylbutyrylcarnitine C5",
+        "material": "blood",
+        "result": 0.08,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.63,
+        "result_status": "Normal",
+        "observations": "Below 0.63 nmol/mL"
+      },
+      {
+        "metric": "3-OH-iso-/butyrylcarnitine C4OH",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.51,
+        "result_status": "Normal",
+        "observations": "Below 0.51 nmol/mL"
+      },
+      {
+        "metric": "Hexenoylcarnitine C6:1",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.1,
+        "result_status": "Normal",
+        "observations": "Below 0.10 nmol/mL"
+      },
+      {
+        "metric": "Hexanoylcarnitine C6",
+        "material": "blood",
+        "result": 0.03,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.23,
+        "result_status": "Normal",
+        "observations": "Below 0.23 nmol/mL"
+      },
+      {
+        "metric": "3-OH-isovalerylcarnitine C5OH",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.12,
+        "result_status": "Normal",
+        "observations": "Below 0.12 nmol/mL"
+      },
+      {
+        "metric": "Benzoylcarnitine",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.07,
+        "result_status": "Normal",
+        "observations": "Below 0.07 nmol/mL"
+      },
+      {
+        "metric": "Heptanoylcarnitine C7",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.05,
+        "result_status": "Normal",
+        "observations": "Below 0.05 nmol/mL"
+      },
+      {
+        "metric": "3-OH-hexanoylcarnitine C6OH",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.19,
+        "result_status": "Normal",
+        "observations": "Below 0.19 nmol/mL"
+      },
+      {
+        "metric": "Phenylacetylcarnitine",
+        "material": "blood",
+        "result": "<0,02",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.22,
+        "result_status": "Normal",
+        "observations": "Below 0.22 nmol/mL"
+      },
+      {
+        "metric": "Salicylcarnitine",
+        "material": "blood",
+        "result": "<0,05",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.09,
+        "result_status": "Normal",
+        "observations": "Below 0.09 nmol/mL"
+      },
+      {
+        "metric": "Octenoylcarnitine C8:1",
+        "material": "blood",
+        "result": 0.11,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.91,
+        "result_status": "Normal",
+        "observations": "Below 0.91 nmol/mL"
+      },
+      {
+        "metric": "Octanoylcarnitine C8",
+        "material": "blood",
+        "result": 0.11,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.45,
+        "result_status": "Normal",
+        "observations": "Below 0.45 nmol/mL"
+      },
+      {
+        "metric": "Malonylcarnitine C3-DC",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.14,
+        "result_status": "Normal",
+        "observations": "Below 0.14 nmol/mL"
+      },
+      {
+        "metric": "Decadienoylcarnitine C10:2",
+        "material": "blood",
+        "result": "<0,05",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.12,
+        "result_status": "Normal",
+        "observations": "Below 0.12 nmol/mL"
+      },
+      {
+        "metric": "Decenoylcarnitine C10:1",
+        "material": "blood",
+        "result": 0.13,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.46,
+        "result_status": "Normal",
+        "observations": "Below 0.46 nmol/mL"
+      },
+      {
+        "metric": "Decanoylcarnitine C10",
+        "material": "blood",
+        "result": 0.16,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.91,
+        "result_status": "Normal",
+        "observations": "Below 0.91 nmol/mL"
+      },
+      {
+        "metric": "Methylmalonyl-/succinylcarnitine C4-DC",
+        "material": "blood",
+        "result": 0.03,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.05,
+        "result_status": "Normal",
+        "observations": "Below 0.05 nmol/mL"
+      },
+      {
+        "metric": "3-OH-decenoylcarnitine C10:1-OH",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.12,
+        "result_status": "Normal",
+        "observations": "Below 0.12 nmol/mL"
+      },
+      {
+        "metric": "Glutarylcarnitine C5DC",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.1,
+        "result_status": "Normal",
+        "observations": "Below 0.10 nmol/mL"
+      },
+      {
+        "metric": "Dodecenoylcarnitine C12:1",
+        "material": "blood",
+        "result": 0.05,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.37,
+        "result_status": "Normal",
+        "observations": "Below 0.37 nmol/mL"
+      },
+      {
+        "metric": "Dodecanoylcarnitine C12",
+        "material": "blood",
+        "result": 0.06,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.35,
+        "result_status": "Normal",
+        "observations": "Below 0.35 nmol/mL"
+      },
+      {
+        "metric": "3-Methylglutarylcarnitine C6-DC",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.21,
+        "result_status": "Normal",
+        "observations": "Below 0.21 nmol/mL"
+      },
+      {
+        "metric": "3-OH-dodecenoylcarnitine C12:1-OH",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.1,
+        "result_status": "Normal",
+        "observations": "Below 0.10 nmol/mL"
+      },
+      {
+        "metric": "3-OH-dodecanoylcarnitine C12OH",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.09,
+        "result_status": "Normal",
+        "observations": "Below 0.09 nmol/mL"
+      },
+      {
+        "metric": "Tetradecadienoylcarnitine C14:2",
+        "material": "blood",
+        "result": 0.03,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.13,
+        "result_status": "Normal",
+        "observations": "Below 0.13 nmol/mL"
+      },
+      {
+        "metric": "Tetradecenoylcarnitine C14:1",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.35,
+        "result_status": "Normal",
+        "observations": "Below 0.35 nmol/mL"
+      },
+      {
+        "metric": "Tetradecanoylcarnitine C14",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.15,
+        "result_status": "Normal",
+        "observations": "Below 0.15 nmol/mL"
+      },
+      {
+        "metric": "Octanedioylcarnitine C8-DC",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.19,
+        "result_status": "Normal",
+        "observations": "Below 0.19 nmol/mL"
+      },
+      {
+        "metric": "3-OH-tetradecenoylcarnitine C14:1OH",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.18,
+        "result_status": "Normal",
+        "observations": "Below 0.18 nmol/mL"
+      },
+      {
+        "metric": "3-OH-tetradecanoylcarnitine C14-OH",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.05,
+        "result_status": "Normal",
+        "observations": "Below 0.05 nmol/mL"
+      },
+      {
+        "metric": "Hexadecenoylcarnitine C16:1",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.21,
+        "result_status": "Normal",
+        "observations": "Below 0.21 nmol/mL"
+      },
+      {
+        "metric": "Hexadecanoylcarnitine C16",
+        "material": "blood",
+        "result": 0.08,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.52,
+        "result_status": "Normal",
+        "observations": "Below 0.52 nmol/mL"
+      },
+      {
+        "metric": "3-OH-hexadecenoylcarnitine C16:1-OH",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.36,
+        "result_status": "Normal",
+        "observations": "Below 0.36 nmol/mL"
+      },
+      {
+        "metric": "3-OH-hexadecanoylcarnitine C16OH",
+        "material": "blood",
+        "result": 0,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.07,
+        "result_status": "Normal",
+        "observations": "Below 0.07 nmol/mL"
+      },
+      {
+        "metric": "Octadecadienoylcarnitine C18:2",
+        "material": "blood",
+        "result": 0.04,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.31,
+        "result_status": "Normal",
+        "observations": "Below 0.31 nmol/mL"
+      },
+      {
+        "metric": "Octadecenoylcarnitine C18:1",
+        "material": "blood",
+        "result": 0.06,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.45,
+        "result_status": "Normal",
+        "observations": "Below 0.45 nmol/mL"
+      },
+      {
+        "metric": "Octadecanoylcarnitine C18",
+        "material": "blood",
+        "result": 0.02,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.12,
+        "result_status": "Normal",
+        "observations": "Below 0.12 nmol/mL"
+      },
+      {
+        "metric": "Dodecanedioylcarnitine C12-DC",
+        "material": "blood",
+        "result": 0.01,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.04,
+        "result_status": "Normal",
+        "observations": "Below 0.04 nmol/mL"
+      },
+      {
+        "metric": "3-OH-octadecadienoylcarnitine C18:2-OH",
+        "material": "blood",
+        "result": "<0,02",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.06,
+        "result_status": "Normal",
+        "observations": "Below 0.06 nmol/mL"
+      },
+      {
+        "metric": "3-OH-octadecenoylcarnitine C18:1-OH",
+        "material": "blood",
+        "result": "<0,01",
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.04,
+        "result_status": "Normal",
+        "observations": "Below 0.04 nmol/mL"
+      },
+      {
+        "metric": "3-OH-octadecanoylcarnitine C18-OH",
+        "material": "blood",
+        "result": 0,
+        "result_unit": "nmol/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 0.05,
+        "result_status": "Normal",
+        "observations": "Below 0.05 nmol/mL"
+      },
+      {
+        "metric": "Neuron-Specific Enolase (NSE)",
+        "material": "serum",
+        "result": 12.2,
+        "result_unit": "ng/mL",
+        "reference_range_min": "N/A",
+        "reference_range_max": 17,
+        "result_status": "Normal",
+        "observations": "Below 17.00 ng/mL"
+      }
+    ]
   }
 ]
