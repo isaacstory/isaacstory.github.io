@@ -532,7 +532,7 @@
               <td>
                 <strong>Attempt 1 (Jul, 2–3 days):</strong> given crushed, at night; dose not documented. Stopped for night crying and sleep disruption, during a concurrent viral illness.<br><br>
                 <strong>Attempt 2 (2026-08-08 to 2026-08-13):</strong> started at a quarter tablet (~0.25 mg), crushed, at night. On 2026-08-10 the family discovered that an extended-release tablet must not be crushed and switched to the whole 1 mg tablet — Isaac chewed the first one and swallowed the second intact the following night.<br><br>
-                Insomnia on two nights, loss of balance on the two mornings after the whole-tablet doses, somnolence and apathy. Afternoons at school were calmer and the afternoon assistant considered his behaviour improved. See the dose-by-dose breakdown at the top of this page.
+                Insomnia on two nights, loss of balance on the two mornings after the whole-tablet doses, somnolence and apathy. Afternoons at school were calmer and the afternoon assistant considered his behaviour improved.
               </td>
             </tr>
             <tr>
