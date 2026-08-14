@@ -18,12 +18,10 @@
 
       <h3>What he is taking today</h3>
       <ul>
-        <li>Potassium chloride — 4 capsules/day (2 at lunch, 2 at dinner, mixed into food)</li>
         <li>Vitamin D3 + A + E + K2 liposomal formula — 5 drops/day, morning</li>
         <li>Super Omega-3 — 5 ml/day, after lunch</li>
-        <li>Melatonin DUO — 1 capsule at bedtime (critical for sleep)</li>
       </ul>
-      <p class="caveat">⚠️ This list needs confirmation with the family. In early August 2026 the family withdrew supplementation as a block to establish a baseline, and it is being reintroduced item by item. Some of the four above may currently be out.</p>
+      <p>In early August 2026 the family withdrew supplementation as a block to establish a baseline. Potassium chloride and Melatonin DUO came out and have not been restarted.</p>
 
       <h3>Tried and stopped in the last 12 months</h3>
       <div class="timeline-table">
