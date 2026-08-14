@@ -70,34 +70,32 @@
             <tr>
               <td>Attempt 1 — Jul 2026, 2–3 days</td>
               <td>Crushed, at night. Dose not documented.</td>
-              <td>Night crying and severe sleep disruption, during a concurrent viral illness. Stopped; Isaac improved.</td>
+              <td>Night crying and sleep disruption, during a concurrent viral illness. Stopped.</td>
             </tr>
             <tr>
               <td>Attempt 2, days 1–3 — from 2026-08-08</td>
               <td>Quarter tablet (~0.25 mg), crushed, at night.</td>
-              <td>Insomnia on the second night — awake from 2 AM to 6 AM.</td>
+              <td>Insomnia on the second night.</td>
             </tr>
             <tr>
               <td>Attempt 2, day 4 — 2026-08-10</td>
-              <td><strong>Whole tablet (1 mg), at night — but chewed.</strong></td>
-              <td>The family discovered the extended-release problem that day and switched to the whole tablet. Isaac chewed it, so the full 1 mg was released at once. Next morning: dizziness with loss of balance, somnolence, apathy, dry mouth, first-ever refusal of swimming.</td>
+              <td><strong>Whole tablet (1 mg), at night — chewed.</strong></td>
+              <td>Next morning: loss of balance, somnolence, apathy.</td>
             </tr>
             <tr>
               <td>Attempt 2, day 5 — 2026-08-11</td>
               <td><strong>Whole tablet (1 mg), at night, swallowed intact.</strong></td>
-              <td>Insomnia again. Next morning: awake at 5 AM, dizziness with loss of balance requiring an adult to steady him during tooth-brushing, fragmented sleep until around 11 AM, late to school. That afternoon at school he was calm and made 7 independent requests.</td>
+              <td>Insomnia. Next morning: loss of balance again. Calm that afternoon at school.</td>
             </tr>
             <tr>
               <td>2026-08-13</td>
               <td>Stopped.</td>
-              <td>Stopped by the family after two consecutive mornings of dizziness with loss of balance.</td>
+              <td>Stopped by the family after two mornings with loss of balance.</td>
             </tr>
           </tbody>
         </table>
       </div>
-      <p><strong>Two things the sequence shows.</strong> First, the dose went from ~0.25 mg to 1 mg on day 4, and the dizziness began the following morning — so the adverse effects appeared after a fourfold dose increase, not at the starting dose. Second, only one of the six doses reached him as an extended-release preparation: the day-5 dose, swallowed intact.</p>
-      <p><strong>The pattern within each day was consistent:</strong> dizzy and apathetic in the morning, calmer and less agitated at school in the afternoon. The dose was given at night, so mornings fall near its peak and afternoons near its trough.</p>
-      <p>The school assistant reported improved daytime agitation over this period and argued against stopping.</p>
+      <p>The dose went from ~0.25 mg to 1 mg on day 4. Only the day-5 dose reached him as an extended-release preparation. Mornings were the bad part of each day; afternoons at school were calmer, and the afternoon assistant considered his behaviour improved.</p>
 
       <h3>Open questions worth consultation time</h3>
       <ul>
@@ -578,10 +576,9 @@
               <td>Jul–Aug 2026</td>
               <td>Guanfacine ER — two attempts, neither run as prescribed</td>
               <td>
-                <strong>Attempt 1 (Jul, 2–3 days):</strong> given crushed, at night; dose not documented. Stopped for night crying and severe sleep disruption, during a concurrent viral illness. Isaac improved after stopping.<br><br>
-                <strong>Attempt 2 (2026-08-08 to 2026-08-13):</strong> started at a quarter tablet (~0.25 mg), crushed, at night. On 2026-08-10 the family discovered that an extended-release tablet must not be crushed and switched to the whole 1 mg tablet — Isaac chewed the first one, and swallowed the second intact the following night. Only that last dose reached him as an extended-release preparation.<br><br>
-                <strong>Observed:</strong> insomnia on two nights, <strong>dizziness with loss of balance on the two mornings following the whole-tablet doses</strong>, daytime somnolence, apathy, dry mouth, first-ever refusal of swimming. Against that: calmer afternoons at school, the school assistant reporting improved daytime agitation, and the most sedated day also being the day of best independent speech and the best toileting record on file.<br><br>
-                The dose was given at night, so mornings fall near its peak and afternoons near its trough. The adverse effects began the morning after the dose was raised fourfold, not at the starting dose. See the dose-by-dose breakdown at the top of this page.
+                <strong>Attempt 1 (Jul, 2–3 days):</strong> given crushed, at night; dose not documented. Stopped for night crying and sleep disruption, during a concurrent viral illness.<br><br>
+                <strong>Attempt 2 (2026-08-08 to 2026-08-13):</strong> started at a quarter tablet (~0.25 mg), crushed, at night. On 2026-08-10 the family discovered that an extended-release tablet must not be crushed and switched to the whole 1 mg tablet — Isaac chewed the first one and swallowed the second intact the following night.<br><br>
+                Insomnia on two nights, loss of balance on the two mornings after the whole-tablet doses, somnolence and apathy. Afternoons at school were calmer and the afternoon assistant considered his behaviour improved. See the dose-by-dose breakdown at the top of this page.
               </td>
             </tr>
             <tr>
