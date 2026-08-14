@@ -537,11 +537,9 @@
             </tr>
             <tr>
               <td>Aug 2026</td>
-              <td>Guanfacine stopped; supplements withdrawn again</td>
+              <td>Guanfacine stopped</td>
               <td>
-                The family stopped guanfacine on 2026-08-13 after the second morning of dizziness with loss of balance. The therapy team split on the decision: the school assistant argued against stopping, while the speech and occupational therapists supported it.<br><br>
-                In the same window the family had also withdrawn supplementation as a block, meaning the guanfacine trial was evaluated with a second variable moving at the same time. Supplements are being reintroduced individually.<br><br>
-                The first day without medication was the worst school afternoon of the week — crying, screaming, running, recurrent genital manipulation and frequent out-of-context laughing, with no identifiable antecedent. One day cannot distinguish rebound from withdrawal from baseline.
+                The family stopped guanfacine on 2026-08-13 after the second morning with loss of balance. The therapy team split on the decision: the school assistant argued against stopping, while the speech and occupational therapists supported it.
               </td>
             </tr>
           </tbody>
