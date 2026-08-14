@@ -539,7 +539,7 @@
               <td>Aug 2026</td>
               <td>Guanfacine stopped</td>
               <td>
-                The family stopped guanfacine on 2026-08-13 after the second morning with loss of balance. The therapy team split on the decision: the school assistant argued against stopping, while the speech and occupational therapists supported it.
+                Stopped guanfacine on 2026-08-13.
               </td>
             </tr>
           </tbody>
