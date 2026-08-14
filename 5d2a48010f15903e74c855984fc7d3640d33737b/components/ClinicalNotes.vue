@@ -14,95 +14,52 @@
     <div class="where-we-are section">
       <h2>Where We Are Now <span class="asof">(updated 2026-08-13)</span></h2>
 
-      <p><strong>The short version.</strong> The gelastic-seizure question has been answered and closed. A 12-hour video-EEG in July 2026 captured Isaac's laughing episodes with no ictal correlate, and the neuropediatrician read them as an autism stereotypy — no antiepileptic, no new MRI. The clinical priority moved to <strong>agitation and attention</strong>, and the first attempt at treating that, guanfacine ER, was stopped after six days. Isaac is currently on no psychoactive medication.</p>
+      <p>Isaac is <strong>on no medication</strong>. The clinical priority is <strong>agitation and attention</strong>. A 12-hour video-EEG in Jul 2026 ruled out gelastic seizures as the cause of his out-of-context laughing, and the pediatric neurologist read it as an autism stereotypy.</p>
 
-      <h3>What he is taking today</h3>
+      <h3>Current supplementation</h3>
       <ul>
         <li>Vitamin D3 + A + E + K2 liposomal formula — 5 drops/day, morning</li>
         <li>Super Omega-3 — 5 ml/day, after lunch</li>
       </ul>
-      <p>In early August 2026 the family withdrew supplementation as a block to establish a baseline. Potassium chloride and Melatonin DUO came out and have not been restarted.</p>
+      <p>Everything else was withdrawn in Aug 2026 to establish a baseline.</p>
 
       <h3>Tried and stopped in the last 12 months</h3>
       <div class="timeline-table">
         <table>
           <thead>
-            <tr><th style="min-width: 120px;">What</th><th style="min-width: 110px;">When</th><th>Why it stopped, and what it did</th></tr>
+            <tr><th style="min-width: 150px;">What</th><th style="min-width: 110px;">When</th><th>Outcome</th></tr>
           </thead>
           <tbody>
             <tr>
               <td><strong>Duloxetine</strong> 15 → 20 mg/day</td>
               <td>Jun 2025 → Apr 2026</td>
-              <td>Started by Dr. Boles/Dr. Rogério for the SCN9A pain-signalling variant. It clearly helped <strong>crying, screaming and genital manipulation</strong>, but did nothing for attention. Withdrawn completely by the family at the end of April 2026. Both symptoms it controlled came back within days and are present again now. The prescriber preferred not to combine it with guanfacine.</td>
+              <td>Helped crying, screaming and genital manipulation; no effect on attention. All three symptoms returned after withdrawal.</td>
             </tr>
             <tr>
               <td><strong>L-carnitine + acetyl-L-carnitine + zinc</strong>, high dose</td>
               <td>Jun 2025 → May 2026</td>
-              <td>Started to compensate the SLC22A5 carnitine-transporter variant. Suspected of contributing to a very dysregulated period in May–June 2026. Dr. Paula Girotto reviewed the carnitine levels in Jul 2026 and advised against escalating further just to raise the laboratory number.</td>
+              <td>For the SLC22A5 variant. Stopped; Dr. Paula Girotto advised against escalating further.</td>
             </tr>
             <tr>
               <td><strong>All supplements</strong> (washout)</td>
               <td>May 2026, repeated Aug 2026</td>
-              <td>A deliberate family decision to establish Isaac's true baseline. The August round overlapped the guanfacine trial, which means that trial was evaluated with a second variable moving at the same time.</td>
+              <td>To establish a baseline. The Aug round overlapped the guanfacine trial.</td>
             </tr>
             <tr>
-              <td><strong>Guanfacine ER 1 mg</strong> — attempt 1</td>
-              <td>Jul 2026, 2–3 days</td>
-              <td>Given crushed, at night; dose not documented. Stopped for night crying and severe sleep disruption, during a concurrent viral illness.</td>
-            </tr>
-            <tr>
-              <td><strong>Guanfacine ER 1 mg</strong> — attempt 2</td>
-              <td>2026-08-08 → 2026-08-13</td>
-              <td>See the dose-by-dose breakdown below. Stopped after two mornings of dizziness with loss of balance.</td>
+              <td><strong>Guanfacine ER 1 mg</strong></td>
+              <td>Jul 2026 and 2026-08-08 → 08-13</td>
+              <td>Two attempts, both given at night rather than in the morning and mostly crushed or chewed. Stopped after two mornings with loss of balance. See the timeline below.</td>
             </tr>
           </tbody>
         </table>
       </div>
 
-      <h3>The guanfacine trial, precisely</h3>
-      <p>Prescribed: <strong>1 mg extended-release, once daily, in the morning.</strong> It was never given that way. The tablet is extended-release and must not be crushed, split or chewed — doing so releases the whole dose at once.</p>
-      <div class="timeline-table">
-        <table>
-          <thead>
-            <tr><th style="min-width: 130px;">When</th><th style="min-width: 150px;">How it was given</th><th>What happened</th></tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Attempt 1 — Jul 2026, 2–3 days</td>
-              <td>Crushed, at night. Dose not documented.</td>
-              <td>Night crying and sleep disruption, during a concurrent viral illness. Stopped.</td>
-            </tr>
-            <tr>
-              <td>Attempt 2, days 1–3 — from 2026-08-08</td>
-              <td>Quarter tablet (~0.25 mg), crushed, at night.</td>
-              <td>Insomnia on the second night.</td>
-            </tr>
-            <tr>
-              <td>Attempt 2, day 4 — 2026-08-10</td>
-              <td><strong>Whole tablet (1 mg), at night — chewed.</strong></td>
-              <td>Next morning: loss of balance, somnolence, apathy.</td>
-            </tr>
-            <tr>
-              <td>Attempt 2, day 5 — 2026-08-11</td>
-              <td><strong>Whole tablet (1 mg), at night, swallowed intact.</strong></td>
-              <td>Insomnia. Next morning: loss of balance again. Calm that afternoon at school.</td>
-            </tr>
-            <tr>
-              <td>2026-08-13</td>
-              <td>Stopped.</td>
-              <td>Stopped by the family after two mornings with loss of balance.</td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-      <p>The dose went from ~0.25 mg to 1 mg on day 4. Only the day-5 dose reached him as an extended-release preparation. Mornings were the bad part of each day; afternoons at school were calmer, and the afternoon assistant considered his behaviour improved.</p>
-
-      <h3>Open questions worth consultation time</h3>
+      <h3>Open questions</h3>
       <ul>
-        <li><strong>Is guanfacine worth a proper trial</strong> — whole tablet, 1 mg, in the morning — before the drug class is written off?</li>
-        <li><strong>Does anything replace what duloxetine was doing?</strong> Crying, screaming and genital manipulation returned after withdrawal and are documented daily in the school reports.</li>
-        <li><strong>Pharmacogenomics is already in hand.</strong> The Variantyx whole-genome report includes CYP2D6 and CYP2C19 results. It has never been reviewed with a prescriber, and it may answer the medication-tolerance question without ordering a new test.</li>
-        <li><strong>Persistent elevated lactate</strong> (31.7 mg/dL in Jun 2026, third consecutive panel above range) with a mild metabolic acidosis on the venous blood gas, and carnitine fractions sitting at the bottom of the reference range.</li>
+        <li>Is guanfacine worth a trial as prescribed — whole tablet, 1 mg, in the morning?</li>
+        <li>Is there a replacement for what duloxetine was controlling?</li>
+        <li>The Variantyx report already contains CYP2D6 and CYP2C19 pharmacogenomics, never reviewed with a prescriber.</li>
+        <li>Lactate above range on three consecutive panels, with mild metabolic acidosis and carnitine at the bottom of the range.</li>
       </ul>
     </div>
 
@@ -150,28 +107,25 @@
         <ul>
           <li><strong>Pronounced hyperactivity</strong> — constant running, rarely still.</li>
           <li><strong>Severe attention deficit</strong> — this and the hyperactivity are the current clinical priority.</li>
-          <li><strong>Out-of-context laughing</strong> — several seconds at a time, no preferred time of day, present for about two years. Investigated as a possible gelastic seizure in 2026 and ruled out by video-EEG; now understood as an autism stereotypy.</li>
-          <li><strong>Crying, screaming and emotional dysregulation</strong> — frequently with no identifiable antecedent. Worse since duloxetine was withdrawn.</li>
-          <li><strong>Genital manipulation</strong> — recurrent, requiring redirection. Was controlled by duloxetine; returned after withdrawal.</li>
+          <li><strong>Out-of-context laughing</strong> — brief, several times a day, for about two years. Ruled out as gelastic seizures by video-EEG in 2026.</li>
+          <li><strong>Crying, screaming and emotional dysregulation</strong> — often with no identifiable antecedent.</li>
+          <li><strong>Genital manipulation</strong> — recurrent, requiring redirection.</li>
           <li><strong>Oral and motor stereotypies</strong> — waving objects near the eyes, biting pencil ends, hand-flapping.</li>
-          <li><strong>Episodic insomnia</strong> — improved substantially in 2026 but still unstable; sleep loss reliably produces a dysregulated next day.</li>
+          <li><strong>Episodic insomnia</strong> — improved in 2026 but unstable. Sleep loss reliably produces a dysregulated next day.</li>
           <li>Low muscle tone.</li>
         </ul>
 
         <h3>Where he functions well</h3>
         <ul>
-          <li><strong>AAC on the tablet (PELP method)</strong> is his main channel — he makes independent requests through it daily, up to 7 in a single school shift on a good day.</li>
-          <li><strong>Drawing</strong> is a consistently effective reinforcer, and the hammock and weighted blanket reliably regulate him.</li>
-          <li>He requests rest through the tablet, respects a 5-minute timer, and returns to activity.</li>
-          <li>Toileting has progressed substantially through 2026 — the best day on record is 10 successes to 1 accident.</li>
-          <li>In August 2026 he spontaneously used <strong>prayer</strong> to self-regulate during a meltdown at school, reciting the Lord's Prayer in full while following it on the tablet. This is the longest connected verbal output on record and he chose the strategy himself.</li>
+          <li><strong>AAC on the tablet (PELP method)</strong> is his main channel — independent requests daily, up to 7 in a school shift.</li>
+          <li>Drawing, the hammock and a weighted blanket regulate him reliably.</li>
+          <li>He requests rest through the tablet, respects a 5-minute timer and returns to activity.</li>
+          <li>Toileting has progressed substantially through 2026.</li>
         </ul>
 
-        <p><strong>The main concern</strong> remains hyperactivity and attention. Isaac spends much of the day moving, often waving items in his hand, and the family's worry is that persistent inattention is blocking cognitive development he otherwise has — the July 2025 qEEG estimated a brain development age above his chronological age, which is the argument that there is capacity not being expressed.</p>
+        <p><strong>Sleep</strong> improved markedly in Mar 2026 — a full week through the night for the first time in years — but has not been stable since, with recurring nights awake from 2–5 AM.</p>
 
-        <p><strong>Sleep</strong> improved markedly in March 2026, when he slept through the night for a full week for the first time in years, possibly linked to a sulforaphane supplement and a lycra compression bed sheet. It has not been stable since: through 2026 there are recurring nights of waking at 2–5 AM and staying awake. Sleep deprivation is treated by the team as a physiological cause of next-day dysregulation, not as behaviour.</p>
-
-        <p><strong>Behaviourally, 2026 has been volatile.</strong> May and June were markedly dysregulated — crying predominant, unpredictable outbursts with no identifiable antecedent, reduced eye contact and social exchange. Two candidate drivers are on the record: the duloxetine withdrawal in April, and the high-dose carnitine. Both were removed, and neither has been cleanly ruled in or out.</p>
+        <p><strong>May and June 2026 were the most dysregulated period on record</strong>, overlapping the duloxetine withdrawal and the high-dose carnitine. Neither has been ruled in or out.</p>
 
         <p>Isaac continues to receive a therapeutic assistant at school, ABA supervision, speech therapy focused on AAC, and occupational therapy. The Melillo Method exercise program was discontinued around December 2025 after a house move and has been hard to resume, as he now resists the exercises.</p>
     </div>
